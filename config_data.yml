@@ -48,7 +48,6 @@ inputs:
   - class: InputSdmxMl_Structure
     source: https://nsiws-stable-camstat-live.officialstatistics.org/rest/data/KH_NIS,DF_SDG_KH,1.2/A..............
     dsd: https://nsiws-stable-camstat-live.officialstatistics.org/rest/dataflow/KH_NIS/DF_SDG_KH/1.2?references=all&detail=referencepartial
-    drop_singleton_dimensions: true
     import_codes: true
     indicator_id_xpath: .//Name[@lang='en']
     indicator_name_xpath: .//Name[@lang='en']
@@ -114,3 +113,7 @@ docs_subfolder: data-docs
 # This can be uncommented and updated so allow links to your indicator pages.
 # The URL here should have [id] instead of the indicator ID.
 #docs_indicator_url: https://my-github-org/my-site-repository/[id]
+docs_extra_disaggregations:
+  - SERIES
+  - UNIT_MEASURE
+docs_translate_disaggregations: true
