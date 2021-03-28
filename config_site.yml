@@ -6,19 +6,24 @@ remote_theme: open-sdg/open-sdg@1.3.1
 # Replace this title as needed.
 title: Indicators For The Sustainable Development Goals
 # Replace the baseurl with the name of this repository.
-baseurl: "/open-sdg-simple-starter"
+baseurl: "/open-sdg-cambodia"
 environment: staging
 source: www
 remote_data_prefix: _build
 
+disclaimer:
+  phase: EXAMPLE
+  message: This site is an unofficial example for demonstrational purposes only.
+
 # The list of languages that are translated. The first one is the default.
 languages:
   - en
+  - km
 
 # URL for the "Edit Data" button on indicators.
-data_edit_url: http://prose.io/#my-org/my-repo/edit/develop/data/indicator_[id].csv
+data_edit_url: http://prose.io/#brockfanning/open-sdg-cambodia/edit/develop/data/indicator_[id].csv
 # URL for the "Edit Metadata" button on indicators.
-metadata_edit_url: http://prose.io/#my-org/my-repo/edit/develop/meta/[id].md
+metadata_edit_url: http://prose.io/#brockfanning/opne-sdg-cambodia/edit/develop/meta/[id].md
 
 # Automatically create indicator pages, goal pages,
 # and some other required pages.
@@ -54,8 +59,8 @@ email_contacts:
 # International Support
 # Eg name: Australia and adjective: Australian
 country:
-  name: Australia
-  adjective: Australian
+  name: Cambodia
+  adjective: Cambodian
 
 # Optionally set a title/body for the frontpage banner. The defaults below point to a standard
 # translation, but feel free to change it as needed.
