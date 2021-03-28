@@ -133,7 +133,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/open-sdg-cambodia/assets/css/style.css?v=20210328202133">
+        <link rel="stylesheet" href="/open-sdg-cambodia/assets/css/style.css?v=20210328214508">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet" crossorigin="">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
@@ -148,9 +148,9 @@ var translations = {
 <!-- <div class="container"> -->
 
 
-<script>translations['header'] = {"alpha":"","default_contrast":"","disable_high_contrast":"","disclaimer":"","enable_high_contrast":"","high_contrast":"","skip_link":"","tag_line":"","toggle_menu":"","toggle_search":""};</script>
+<script>translations['header'] = {"alpha":"អាល់ហ្វា","default_contrast":"កម្រិតពណ៌លំនាំដើម","disable_high_contrast":"បិទដំណើរការកម្រិតពណ៌ខ្ពស់","disclaimer":"នេះគឺជាគេហទំព័រអភិវឌ្ឍន៍។ យើងសូមស្វាគមន៍រាល់មតិប្រតិកម្មរបស់អ្នក [៤៧] [៨៧] ។","enable_high_contrast":"បើកដំណើរការកម្រិតពណ៌ខ្ពស់","high_contrast":"កម្រិត​ពណ៌​ខ្ពស់","skip_link":"រំលងទៅមាតិកាមេ","tag_line":"គោលដៅចំនួន ១៧ ដើម្បីបំរែបំរួលពិភពលោករបស់យើង","toggle_menu":"បិទ / បើកម៉ឺនុយ។ ចុចដើម្បីពង្រីកឬបង្រួមម៉ឺនុយ។","toggle_search":"ស្វែងរកបិទ / បើក។ ចុចដើម្បីពង្រីកឬបង្រួមរបារស្វែងរក។"};</script>
 
-<a class="sr-only sr-only-focusable" id="skiplink" href="#main-content" tabindex="0"></a>
+<a class="sr-only sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">រំលងទៅមាតិកាមេ</a>
 <div id="disclaimer">
   <div class="container">
   <div class="disclaimer-alert">
@@ -167,7 +167,7 @@ var translations = {
 
     <div class="logo-and-mobile-widgets">
       <a class="navbar-brand" href="/open-sdg-cambodia/km/" id="home">
-    <img src="/open-sdg-cambodia/assets/img/SDG_logo.png" alt=" - " />
+    <img src="/open-sdg-cambodia/assets/img/SDG_logo.png" alt="គោលដៅអភិវឌ្ឍន៍ប្រកបដោយចីរភាព - គោលដៅចំនួន ១៧ ដើម្បីបំរែបំរួលពិភពលោករបស់យើង" />
 </a>
       <div class="mobile-widgets">
     <ul id='accessibility-nav' class='contrast-switcher'></ul><div class="language-toggle-mobile">
@@ -175,11 +175,11 @@ var translations = {
   
   <div class="btn-group language-toggle-dropdown ">
     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-      <span class="language-globe-in-dropdown"><i class="fa fa-globe language-toggle-globe-dropdown"></i></span><span class="language-name"></span>
+      <span class="language-globe-in-dropdown"><i class="fa fa-globe language-toggle-globe-dropdown"></i></span><span class="language-name">ភាសាខ្មែរ</span>
       <span class="language-abbreviation">km</span><i class="language-toggle-caret fa fa-chevron-down"></i></button>
     <ul class="dropdown-menu"><li>
             <a href="/open-sdg-cambodia/reporting-status/">
-              
+              English
             </a>
           </li></ul>
   </div>
@@ -191,9 +191,9 @@ var translations = {
     <div class="search-and-desktop-widgets">
       <div id="search" class="menu-target">
   <form action="/open-sdg-cambodia/km/search">
-    <label class="sr-only" for="indicator_search"></label>
-    <input type="text" name="q" id="indicator_search" title="" /><!--
-    --><button aria-label="" id="search-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
+    <label class="sr-only" for="indicator_search">ស្វែងរក</label>
+    <input type="text" name="q" id="indicator_search" title="ស្វែងរក" /><!--
+    --><button aria-label="ស្វែងរក" id="search-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
   </form>
 </div>
 
@@ -209,11 +209,11 @@ var translations = {
   
   <div class="btn-group language-toggle-dropdown ">
     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-      <span class="language-globe-in-dropdown"><i class="fa fa-globe language-toggle-globe-dropdown"></i></span><span class="language-name"></span>
+      <span class="language-globe-in-dropdown"><i class="fa fa-globe language-toggle-globe-dropdown"></i></span><span class="language-name">ភាសាខ្មែរ</span>
       <span class="language-abbreviation">km</span><i class="language-toggle-caret fa fa-chevron-down"></i></button>
     <ul class="dropdown-menu"><li>
             <a href="/open-sdg-cambodia/reporting-status/">
-              
+              English
             </a>
           </li></ul>
   </div>
@@ -228,21 +228,21 @@ var translations = {
     <div class="navbar navbar-default menu-without-widgets" id="main-nav">
       <ul class="top-level">
     <li id="menuToggle"
-        aria-label=""
+        aria-label="បិទ / បើកម៉ឺនុយ។ ចុចដើម្បីពង្រីកឬបង្រួមម៉ឺនុយ។"
         aria-haspopup="true">
-        <button data-target="menu-mobile" aria-expanded="false"></button>
+        <button data-target="menu-mobile" aria-expanded="false">មឺនុយ</button>
         <ul class="nav navbar-nav menu-target contrast-switcher" id="menu-mobile"><li class="nav-link ">
-    <a href="/open-sdg-cambodia/km/goals"></a>
+    <a href="/open-sdg-cambodia/km/goals">គោលដៅ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/km/reporting-status"></a>
+    <a href="/open-sdg-cambodia/km/reporting-status">ស្ថានភាពរបាយការណ៍</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/km/about"></a>
+    <a href="/open-sdg-cambodia/km/about">អំពី</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/km/guidance"></a>
+    <a href="/open-sdg-cambodia/km/guidance">ការណែនាំ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/km/faq"></a>
+    <a href="/open-sdg-cambodia/km/faq">សំណួរគេសួរញឹកញាប់</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/km/news"></a>
+    <a href="/open-sdg-cambodia/km/news">បច្ចុប្បន្នភាព</a>
 </li><li class="language-toggle-menu-header">
     
 
@@ -254,11 +254,11 @@ var translations = {
   
   <div class="btn-group language-toggle-dropdown ">
     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-      <span class="language-globe-in-dropdown"><i class="fa fa-globe language-toggle-globe-dropdown"></i></span><span class="language-name"></span>
+      <span class="language-globe-in-dropdown"><i class="fa fa-globe language-toggle-globe-dropdown"></i></span><span class="language-name">ភាសាខ្មែរ</span>
       <span class="language-abbreviation">km</span><i class="language-toggle-caret fa fa-chevron-down"></i></button>
     <ul class="dropdown-menu"><li>
             <a href="/open-sdg-cambodia/reporting-status/">
-              
+              English
             </a>
           </li></ul>
   </div>
@@ -271,31 +271,31 @@ var translations = {
 
     </li>
     <li id="searchToggle"
-        aria-label=""
+        aria-label="ស្វែងរកបិទ / បើក។ ចុចដើម្បីពង្រីកឬបង្រួមរបារស្វែងរក។"
         aria-haspopup="true">
-        <button data-target="search-mobile" aria-expanded="false"></button>
+        <button data-target="search-mobile" aria-expanded="false">ស្វែងរក</button>
         <div id="search-mobile" class="menu-target">
   <form action="/open-sdg-cambodia/km/search">
-    <label class="sr-only" for="indicator_search-mobile"></label>
-    <input type="text" name="q" id="indicator_search-mobile" title="" /><!--
-    --><button aria-label="" id="search-mobile-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
+    <label class="sr-only" for="indicator_search-mobile">ស្វែងរក</label>
+    <input type="text" name="q" id="indicator_search-mobile" title="ស្វែងរក" /><!--
+    --><button aria-label="ស្វែងរក" id="search-mobile-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
   </form>
 </div>
 
     </li>
 </ul>
       <ul class="nav navbar-nav menu-target " id="menu"><li class="nav-link ">
-    <a href="/open-sdg-cambodia/km/goals"></a>
+    <a href="/open-sdg-cambodia/km/goals">គោលដៅ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/km/reporting-status"></a>
+    <a href="/open-sdg-cambodia/km/reporting-status">ស្ថានភាពរបាយការណ៍</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/km/about"></a>
+    <a href="/open-sdg-cambodia/km/about">អំពី</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/km/guidance"></a>
+    <a href="/open-sdg-cambodia/km/guidance">ការណែនាំ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/km/faq"></a>
+    <a href="/open-sdg-cambodia/km/faq">សំណួរគេសួរញឹកញាប់</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/km/news"></a>
+    <a href="/open-sdg-cambodia/km/news">បច្ចុប្បន្នភាព</a>
 </li>
 </ul>
 
@@ -320,7 +320,7 @@ var translations = {
 
   <h1>
   
-    
+    ស្ថានភាពរបាយការណ៍
   
 </h1>
 
@@ -333,736 +333,736 @@ var translations = {
   <div class="goal goal-overall">
     <div class="details">
         <h2 class="status-goal">
-            
+            ស្ថានភាពរបាយការណ៍សរុប
         </h2>
-        <span class="total"><span>138</span> </span>
+        <span class="total"><span>138</span> សូចនាករ</span>
         <div class="summary">
             <div class="statuses"><div>
-                <span class="status complete"><span class="status-inner">138</span></span><strong></strong><span class="value">100%</span>
+                <span class="status complete"><span class="status-inner">138</span></span><strong>បានរាយការណ៍តាមអ៊ីនធឺណិត</strong><span class="value">100%</span>
             </div><div>
-                <span class="status inprogress"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                <span class="status inprogress"><span class="status-inner">0</span></span><strong>ស្ថិតិកំពុងដំណើរការ</strong><span class="value">0%</span>
             </div><div>
-                <span class="status notstarted"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                <span class="status notstarted"><span class="status-inner">0</span></span><strong>ស្វែងរកប្រភពទិន្នន័យ</strong><span class="value">0%</span>
             </div><div>
-                <span class="status notapplicable"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                <span class="status notapplicable"><span class="status-inner">0</span></span><strong>មិនអាចអនុវត្តបាន</strong><span class="value">0%</span>
             </div><br style="clear:both;">
             </div>
         </div>
         <div class="goal-stats">
             
             
-            <span class="complete" style="width:100.0%" title=": 100%"></span>
+            <span class="complete" style="width:100.0%" title="បានរាយការណ៍តាមអ៊ីនធឺណិត: 100%"></span>
             
             
-            <span class="inprogress" style="width:0.0%" title=": 0%"></span>
+            <span class="inprogress" style="width:0.0%" title="ស្ថិតិកំពុងដំណើរការ: 0%"></span>
             
             
-            <span class="notstarted" style="width:0.0%" title=": 0%"></span>
+            <span class="notstarted" style="width:0.0%" title="ស្វែងរកប្រភពទិន្នន័យ: 0%"></span>
             
             
-            <span class="notapplicable" style="width:0.0%" title=": 0%"></span></div>
+            <span class="notapplicable" style="width:0.0%" title="មិនអាចអនុវត្តបាន: 0%"></span></div>
     </div>
     <br style="clear:both;">
 </div>
-  <h2></h2><div class="goal reporting-status-item">
+  <h2>ស្ថានភាពតាមគោលដៅ</h2><div class="goal reporting-status-item">
     <div class="frame goal-tiles">
         <a href="/open-sdg-cambodia/km/1">
-        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/1.png" alt=" -  1" width="100" height="100" class="goal-icon-1 goal-icon-image goal-icon-image-"/>
+        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/1.png" alt=" - គោលដៅ 1" width="100" height="100" class="goal-icon-1 goal-icon-image goal-icon-image-"/>
         </a>
     </div>
     <div class="details">
         <h3 class="status-goal">
             <a href="/open-sdg-cambodia/km/1"></a>
         </h3>
-        <span class="total">4 </span>
+        <span class="total">4 សូចនាករ</span>
         <div class="summary">
             <div class="statuses"><div>
-                    <span class="status complete"><span class="status-inner">4</span></span><strong></strong><span class="value">100%</span>
+                    <span class="status complete"><span class="status-inner">4</span></span><strong>បានរាយការណ៍តាមអ៊ីនធឺណិត</strong><span class="value">100%</span>
                 </div><div>
-                    <span class="status inprogress"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status inprogress"><span class="status-inner">0</span></span><strong>ស្ថិតិកំពុងដំណើរការ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notstarted"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notstarted"><span class="status-inner">0</span></span><strong>ស្វែងរកប្រភពទិន្នន័យ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong>មិនអាចអនុវត្តបាន</strong><span class="value">0%</span>
                 </div><br style="clear:both;">
             </div>
         </div>
         <div class="goal-stats">
                 
                 
-                <span class="complete" style="width:100.0%" title=": 100%"></span>
+                <span class="complete" style="width:100.0%" title="បានរាយការណ៍តាមអ៊ីនធឺណិត: 100%"></span>
                 
                 
-                <span class="inprogress" style="width:0.0%" title=": 0%"></span>
+                <span class="inprogress" style="width:0.0%" title="ស្ថិតិកំពុងដំណើរការ: 0%"></span>
                 
                 
-                <span class="notstarted" style="width:0.0%" title=": 0%"></span>
+                <span class="notstarted" style="width:0.0%" title="ស្វែងរកប្រភពទិន្នន័យ: 0%"></span>
                 
                 
-                <span class="notapplicable" style="width:0.0%" title=": 0%"></span></div>
+                <span class="notapplicable" style="width:0.0%" title="មិនអាចអនុវត្តបាន: 0%"></span></div>
         <div class="divider"></div>
     </div>
     <br style="clear:both;">
 </div><div class="goal reporting-status-item">
     <div class="frame goal-tiles">
         <a href="/open-sdg-cambodia/km/2">
-        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/2.png" alt=" -  2" width="100" height="100" class="goal-icon-2 goal-icon-image goal-icon-image-"/>
+        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/2.png" alt=" - គោលដៅ 2" width="100" height="100" class="goal-icon-2 goal-icon-image goal-icon-image-"/>
         </a>
     </div>
     <div class="details">
         <h3 class="status-goal">
             <a href="/open-sdg-cambodia/km/2"></a>
         </h3>
-        <span class="total">7 </span>
+        <span class="total">7 សូចនាករ</span>
         <div class="summary">
             <div class="statuses"><div>
-                    <span class="status complete"><span class="status-inner">7</span></span><strong></strong><span class="value">100%</span>
+                    <span class="status complete"><span class="status-inner">7</span></span><strong>បានរាយការណ៍តាមអ៊ីនធឺណិត</strong><span class="value">100%</span>
                 </div><div>
-                    <span class="status inprogress"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status inprogress"><span class="status-inner">0</span></span><strong>ស្ថិតិកំពុងដំណើរការ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notstarted"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notstarted"><span class="status-inner">0</span></span><strong>ស្វែងរកប្រភពទិន្នន័យ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong>មិនអាចអនុវត្តបាន</strong><span class="value">0%</span>
                 </div><br style="clear:both;">
             </div>
         </div>
         <div class="goal-stats">
                 
                 
-                <span class="complete" style="width:100.0%" title=": 100%"></span>
+                <span class="complete" style="width:100.0%" title="បានរាយការណ៍តាមអ៊ីនធឺណិត: 100%"></span>
                 
                 
-                <span class="inprogress" style="width:0.0%" title=": 0%"></span>
+                <span class="inprogress" style="width:0.0%" title="ស្ថិតិកំពុងដំណើរការ: 0%"></span>
                 
                 
-                <span class="notstarted" style="width:0.0%" title=": 0%"></span>
+                <span class="notstarted" style="width:0.0%" title="ស្វែងរកប្រភពទិន្នន័យ: 0%"></span>
                 
                 
-                <span class="notapplicable" style="width:0.0%" title=": 0%"></span></div>
+                <span class="notapplicable" style="width:0.0%" title="មិនអាចអនុវត្តបាន: 0%"></span></div>
         <div class="divider"></div>
     </div>
     <br style="clear:both;">
 </div><div class="goal reporting-status-item">
     <div class="frame goal-tiles">
         <a href="/open-sdg-cambodia/km/3">
-        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/3.png" alt=" -  3" width="100" height="100" class="goal-icon-3 goal-icon-image goal-icon-image-"/>
+        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/3.png" alt=" - គោលដៅ 3" width="100" height="100" class="goal-icon-3 goal-icon-image goal-icon-image-"/>
         </a>
     </div>
     <div class="details">
         <h3 class="status-goal">
             <a href="/open-sdg-cambodia/km/3"></a>
         </h3>
-        <span class="total">21 </span>
+        <span class="total">21 សូចនាករ</span>
         <div class="summary">
             <div class="statuses"><div>
-                    <span class="status complete"><span class="status-inner">21</span></span><strong></strong><span class="value">100%</span>
+                    <span class="status complete"><span class="status-inner">21</span></span><strong>បានរាយការណ៍តាមអ៊ីនធឺណិត</strong><span class="value">100%</span>
                 </div><div>
-                    <span class="status inprogress"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status inprogress"><span class="status-inner">0</span></span><strong>ស្ថិតិកំពុងដំណើរការ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notstarted"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notstarted"><span class="status-inner">0</span></span><strong>ស្វែងរកប្រភពទិន្នន័យ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong>មិនអាចអនុវត្តបាន</strong><span class="value">0%</span>
                 </div><br style="clear:both;">
             </div>
         </div>
         <div class="goal-stats">
                 
                 
-                <span class="complete" style="width:100.0%" title=": 100%"></span>
+                <span class="complete" style="width:100.0%" title="បានរាយការណ៍តាមអ៊ីនធឺណិត: 100%"></span>
                 
                 
-                <span class="inprogress" style="width:0.0%" title=": 0%"></span>
+                <span class="inprogress" style="width:0.0%" title="ស្ថិតិកំពុងដំណើរការ: 0%"></span>
                 
                 
-                <span class="notstarted" style="width:0.0%" title=": 0%"></span>
+                <span class="notstarted" style="width:0.0%" title="ស្វែងរកប្រភពទិន្នន័យ: 0%"></span>
                 
                 
-                <span class="notapplicable" style="width:0.0%" title=": 0%"></span></div>
+                <span class="notapplicable" style="width:0.0%" title="មិនអាចអនុវត្តបាន: 0%"></span></div>
         <div class="divider"></div>
     </div>
     <br style="clear:both;">
 </div><div class="goal reporting-status-item">
     <div class="frame goal-tiles">
         <a href="/open-sdg-cambodia/km/4">
-        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/4.png" alt=" -  4" width="100" height="100" class="goal-icon-4 goal-icon-image goal-icon-image-"/>
+        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/4.png" alt=" - គោលដៅ 4" width="100" height="100" class="goal-icon-4 goal-icon-image goal-icon-image-"/>
         </a>
     </div>
     <div class="details">
         <h3 class="status-goal">
             <a href="/open-sdg-cambodia/km/4"></a>
         </h3>
-        <span class="total">17 </span>
+        <span class="total">17 សូចនាករ</span>
         <div class="summary">
             <div class="statuses"><div>
-                    <span class="status complete"><span class="status-inner">17</span></span><strong></strong><span class="value">100%</span>
+                    <span class="status complete"><span class="status-inner">17</span></span><strong>បានរាយការណ៍តាមអ៊ីនធឺណិត</strong><span class="value">100%</span>
                 </div><div>
-                    <span class="status inprogress"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status inprogress"><span class="status-inner">0</span></span><strong>ស្ថិតិកំពុងដំណើរការ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notstarted"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notstarted"><span class="status-inner">0</span></span><strong>ស្វែងរកប្រភពទិន្នន័យ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong>មិនអាចអនុវត្តបាន</strong><span class="value">0%</span>
                 </div><br style="clear:both;">
             </div>
         </div>
         <div class="goal-stats">
                 
                 
-                <span class="complete" style="width:100.0%" title=": 100%"></span>
+                <span class="complete" style="width:100.0%" title="បានរាយការណ៍តាមអ៊ីនធឺណិត: 100%"></span>
                 
                 
-                <span class="inprogress" style="width:0.0%" title=": 0%"></span>
+                <span class="inprogress" style="width:0.0%" title="ស្ថិតិកំពុងដំណើរការ: 0%"></span>
                 
                 
-                <span class="notstarted" style="width:0.0%" title=": 0%"></span>
+                <span class="notstarted" style="width:0.0%" title="ស្វែងរកប្រភពទិន្នន័យ: 0%"></span>
                 
                 
-                <span class="notapplicable" style="width:0.0%" title=": 0%"></span></div>
+                <span class="notapplicable" style="width:0.0%" title="មិនអាចអនុវត្តបាន: 0%"></span></div>
         <div class="divider"></div>
     </div>
     <br style="clear:both;">
 </div><div class="goal reporting-status-item">
     <div class="frame goal-tiles">
         <a href="/open-sdg-cambodia/km/5">
-        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/5.png" alt=" -  5" width="100" height="100" class="goal-icon-5 goal-icon-image goal-icon-image-"/>
+        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/5.png" alt=" - គោលដៅ 5" width="100" height="100" class="goal-icon-5 goal-icon-image goal-icon-image-"/>
         </a>
     </div>
     <div class="details">
         <h3 class="status-goal">
             <a href="/open-sdg-cambodia/km/5"></a>
         </h3>
-        <span class="total">12 </span>
+        <span class="total">12 សូចនាករ</span>
         <div class="summary">
             <div class="statuses"><div>
-                    <span class="status complete"><span class="status-inner">12</span></span><strong></strong><span class="value">100%</span>
+                    <span class="status complete"><span class="status-inner">12</span></span><strong>បានរាយការណ៍តាមអ៊ីនធឺណិត</strong><span class="value">100%</span>
                 </div><div>
-                    <span class="status inprogress"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status inprogress"><span class="status-inner">0</span></span><strong>ស្ថិតិកំពុងដំណើរការ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notstarted"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notstarted"><span class="status-inner">0</span></span><strong>ស្វែងរកប្រភពទិន្នន័យ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong>មិនអាចអនុវត្តបាន</strong><span class="value">0%</span>
                 </div><br style="clear:both;">
             </div>
         </div>
         <div class="goal-stats">
                 
                 
-                <span class="complete" style="width:100.0%" title=": 100%"></span>
+                <span class="complete" style="width:100.0%" title="បានរាយការណ៍តាមអ៊ីនធឺណិត: 100%"></span>
                 
                 
-                <span class="inprogress" style="width:0.0%" title=": 0%"></span>
+                <span class="inprogress" style="width:0.0%" title="ស្ថិតិកំពុងដំណើរការ: 0%"></span>
                 
                 
-                <span class="notstarted" style="width:0.0%" title=": 0%"></span>
+                <span class="notstarted" style="width:0.0%" title="ស្វែងរកប្រភពទិន្នន័យ: 0%"></span>
                 
                 
-                <span class="notapplicable" style="width:0.0%" title=": 0%"></span></div>
+                <span class="notapplicable" style="width:0.0%" title="មិនអាចអនុវត្តបាន: 0%"></span></div>
         <div class="divider"></div>
     </div>
     <br style="clear:both;">
 </div><div class="goal reporting-status-item">
     <div class="frame goal-tiles">
         <a href="/open-sdg-cambodia/km/6">
-        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/6.png" alt=" -  6" width="100" height="100" class="goal-icon-6 goal-icon-image goal-icon-image-"/>
+        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/6.png" alt=" - គោលដៅ 6" width="100" height="100" class="goal-icon-6 goal-icon-image goal-icon-image-"/>
         </a>
     </div>
     <div class="details">
         <h3 class="status-goal">
             <a href="/open-sdg-cambodia/km/6"></a>
         </h3>
-        <span class="total">5 </span>
+        <span class="total">5 សូចនាករ</span>
         <div class="summary">
             <div class="statuses"><div>
-                    <span class="status complete"><span class="status-inner">5</span></span><strong></strong><span class="value">100%</span>
+                    <span class="status complete"><span class="status-inner">5</span></span><strong>បានរាយការណ៍តាមអ៊ីនធឺណិត</strong><span class="value">100%</span>
                 </div><div>
-                    <span class="status inprogress"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status inprogress"><span class="status-inner">0</span></span><strong>ស្ថិតិកំពុងដំណើរការ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notstarted"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notstarted"><span class="status-inner">0</span></span><strong>ស្វែងរកប្រភពទិន្នន័យ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong>មិនអាចអនុវត្តបាន</strong><span class="value">0%</span>
                 </div><br style="clear:both;">
             </div>
         </div>
         <div class="goal-stats">
                 
                 
-                <span class="complete" style="width:100.0%" title=": 100%"></span>
+                <span class="complete" style="width:100.0%" title="បានរាយការណ៍តាមអ៊ីនធឺណិត: 100%"></span>
                 
                 
-                <span class="inprogress" style="width:0.0%" title=": 0%"></span>
+                <span class="inprogress" style="width:0.0%" title="ស្ថិតិកំពុងដំណើរការ: 0%"></span>
                 
                 
-                <span class="notstarted" style="width:0.0%" title=": 0%"></span>
+                <span class="notstarted" style="width:0.0%" title="ស្វែងរកប្រភពទិន្នន័យ: 0%"></span>
                 
                 
-                <span class="notapplicable" style="width:0.0%" title=": 0%"></span></div>
+                <span class="notapplicable" style="width:0.0%" title="មិនអាចអនុវត្តបាន: 0%"></span></div>
         <div class="divider"></div>
     </div>
     <br style="clear:both;">
 </div><div class="goal reporting-status-item">
     <div class="frame goal-tiles">
         <a href="/open-sdg-cambodia/km/7">
-        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/7.png" alt=" -  7" width="100" height="100" class="goal-icon-7 goal-icon-image goal-icon-image-"/>
+        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/7.png" alt=" - គោលដៅ 7" width="100" height="100" class="goal-icon-7 goal-icon-image goal-icon-image-"/>
         </a>
     </div>
     <div class="details">
         <h3 class="status-goal">
             <a href="/open-sdg-cambodia/km/7"></a>
         </h3>
-        <span class="total">4 </span>
+        <span class="total">4 សូចនាករ</span>
         <div class="summary">
             <div class="statuses"><div>
-                    <span class="status complete"><span class="status-inner">4</span></span><strong></strong><span class="value">100%</span>
+                    <span class="status complete"><span class="status-inner">4</span></span><strong>បានរាយការណ៍តាមអ៊ីនធឺណិត</strong><span class="value">100%</span>
                 </div><div>
-                    <span class="status inprogress"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status inprogress"><span class="status-inner">0</span></span><strong>ស្ថិតិកំពុងដំណើរការ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notstarted"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notstarted"><span class="status-inner">0</span></span><strong>ស្វែងរកប្រភពទិន្នន័យ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong>មិនអាចអនុវត្តបាន</strong><span class="value">0%</span>
                 </div><br style="clear:both;">
             </div>
         </div>
         <div class="goal-stats">
                 
                 
-                <span class="complete" style="width:100.0%" title=": 100%"></span>
+                <span class="complete" style="width:100.0%" title="បានរាយការណ៍តាមអ៊ីនធឺណិត: 100%"></span>
                 
                 
-                <span class="inprogress" style="width:0.0%" title=": 0%"></span>
+                <span class="inprogress" style="width:0.0%" title="ស្ថិតិកំពុងដំណើរការ: 0%"></span>
                 
                 
-                <span class="notstarted" style="width:0.0%" title=": 0%"></span>
+                <span class="notstarted" style="width:0.0%" title="ស្វែងរកប្រភពទិន្នន័យ: 0%"></span>
                 
                 
-                <span class="notapplicable" style="width:0.0%" title=": 0%"></span></div>
+                <span class="notapplicable" style="width:0.0%" title="មិនអាចអនុវត្តបាន: 0%"></span></div>
         <div class="divider"></div>
     </div>
     <br style="clear:both;">
 </div><div class="goal reporting-status-item">
     <div class="frame goal-tiles">
         <a href="/open-sdg-cambodia/km/8">
-        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/8.png" alt=" -  8" width="100" height="100" class="goal-icon-8 goal-icon-image goal-icon-image-"/>
+        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/8.png" alt=" - គោលដៅ 8" width="100" height="100" class="goal-icon-8 goal-icon-image goal-icon-image-"/>
         </a>
     </div>
     <div class="details">
         <h3 class="status-goal">
             <a href="/open-sdg-cambodia/km/8"></a>
         </h3>
-        <span class="total">9 </span>
+        <span class="total">9 សូចនាករ</span>
         <div class="summary">
             <div class="statuses"><div>
-                    <span class="status complete"><span class="status-inner">9</span></span><strong></strong><span class="value">100%</span>
+                    <span class="status complete"><span class="status-inner">9</span></span><strong>បានរាយការណ៍តាមអ៊ីនធឺណិត</strong><span class="value">100%</span>
                 </div><div>
-                    <span class="status inprogress"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status inprogress"><span class="status-inner">0</span></span><strong>ស្ថិតិកំពុងដំណើរការ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notstarted"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notstarted"><span class="status-inner">0</span></span><strong>ស្វែងរកប្រភពទិន្នន័យ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong>មិនអាចអនុវត្តបាន</strong><span class="value">0%</span>
                 </div><br style="clear:both;">
             </div>
         </div>
         <div class="goal-stats">
                 
                 
-                <span class="complete" style="width:100.0%" title=": 100%"></span>
+                <span class="complete" style="width:100.0%" title="បានរាយការណ៍តាមអ៊ីនធឺណិត: 100%"></span>
                 
                 
-                <span class="inprogress" style="width:0.0%" title=": 0%"></span>
+                <span class="inprogress" style="width:0.0%" title="ស្ថិតិកំពុងដំណើរការ: 0%"></span>
                 
                 
-                <span class="notstarted" style="width:0.0%" title=": 0%"></span>
+                <span class="notstarted" style="width:0.0%" title="ស្វែងរកប្រភពទិន្នន័យ: 0%"></span>
                 
                 
-                <span class="notapplicable" style="width:0.0%" title=": 0%"></span></div>
+                <span class="notapplicable" style="width:0.0%" title="មិនអាចអនុវត្តបាន: 0%"></span></div>
         <div class="divider"></div>
     </div>
     <br style="clear:both;">
 </div><div class="goal reporting-status-item">
     <div class="frame goal-tiles">
         <a href="/open-sdg-cambodia/km/9">
-        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/9.png" alt=" -  9" width="100" height="100" class="goal-icon-9 goal-icon-image goal-icon-image-"/>
+        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/9.png" alt=" - គោលដៅ 9" width="100" height="100" class="goal-icon-9 goal-icon-image goal-icon-image-"/>
         </a>
     </div>
     <div class="details">
         <h3 class="status-goal">
             <a href="/open-sdg-cambodia/km/9"></a>
         </h3>
-        <span class="total">7 </span>
+        <span class="total">7 សូចនាករ</span>
         <div class="summary">
             <div class="statuses"><div>
-                    <span class="status complete"><span class="status-inner">7</span></span><strong></strong><span class="value">100%</span>
+                    <span class="status complete"><span class="status-inner">7</span></span><strong>បានរាយការណ៍តាមអ៊ីនធឺណិត</strong><span class="value">100%</span>
                 </div><div>
-                    <span class="status inprogress"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status inprogress"><span class="status-inner">0</span></span><strong>ស្ថិតិកំពុងដំណើរការ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notstarted"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notstarted"><span class="status-inner">0</span></span><strong>ស្វែងរកប្រភពទិន្នន័យ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong>មិនអាចអនុវត្តបាន</strong><span class="value">0%</span>
                 </div><br style="clear:both;">
             </div>
         </div>
         <div class="goal-stats">
                 
                 
-                <span class="complete" style="width:100.0%" title=": 100%"></span>
+                <span class="complete" style="width:100.0%" title="បានរាយការណ៍តាមអ៊ីនធឺណិត: 100%"></span>
                 
                 
-                <span class="inprogress" style="width:0.0%" title=": 0%"></span>
+                <span class="inprogress" style="width:0.0%" title="ស្ថិតិកំពុងដំណើរការ: 0%"></span>
                 
                 
-                <span class="notstarted" style="width:0.0%" title=": 0%"></span>
+                <span class="notstarted" style="width:0.0%" title="ស្វែងរកប្រភពទិន្នន័យ: 0%"></span>
                 
                 
-                <span class="notapplicable" style="width:0.0%" title=": 0%"></span></div>
+                <span class="notapplicable" style="width:0.0%" title="មិនអាចអនុវត្តបាន: 0%"></span></div>
         <div class="divider"></div>
     </div>
     <br style="clear:both;">
 </div><div class="goal reporting-status-item">
     <div class="frame goal-tiles">
         <a href="/open-sdg-cambodia/km/10">
-        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/10.png" alt=" -  10" width="100" height="100" class="goal-icon-10 goal-icon-image goal-icon-image-"/>
+        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/10.png" alt=" - គោលដៅ 10" width="100" height="100" class="goal-icon-10 goal-icon-image goal-icon-image-"/>
         </a>
     </div>
     <div class="details">
         <h3 class="status-goal">
             <a href="/open-sdg-cambodia/km/10"></a>
         </h3>
-        <span class="total">5 </span>
+        <span class="total">5 សូចនាករ</span>
         <div class="summary">
             <div class="statuses"><div>
-                    <span class="status complete"><span class="status-inner">5</span></span><strong></strong><span class="value">100%</span>
+                    <span class="status complete"><span class="status-inner">5</span></span><strong>បានរាយការណ៍តាមអ៊ីនធឺណិត</strong><span class="value">100%</span>
                 </div><div>
-                    <span class="status inprogress"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status inprogress"><span class="status-inner">0</span></span><strong>ស្ថិតិកំពុងដំណើរការ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notstarted"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notstarted"><span class="status-inner">0</span></span><strong>ស្វែងរកប្រភពទិន្នន័យ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong>មិនអាចអនុវត្តបាន</strong><span class="value">0%</span>
                 </div><br style="clear:both;">
             </div>
         </div>
         <div class="goal-stats">
                 
                 
-                <span class="complete" style="width:100.0%" title=": 100%"></span>
+                <span class="complete" style="width:100.0%" title="បានរាយការណ៍តាមអ៊ីនធឺណិត: 100%"></span>
                 
                 
-                <span class="inprogress" style="width:0.0%" title=": 0%"></span>
+                <span class="inprogress" style="width:0.0%" title="ស្ថិតិកំពុងដំណើរការ: 0%"></span>
                 
                 
-                <span class="notstarted" style="width:0.0%" title=": 0%"></span>
+                <span class="notstarted" style="width:0.0%" title="ស្វែងរកប្រភពទិន្នន័យ: 0%"></span>
                 
                 
-                <span class="notapplicable" style="width:0.0%" title=": 0%"></span></div>
+                <span class="notapplicable" style="width:0.0%" title="មិនអាចអនុវត្តបាន: 0%"></span></div>
         <div class="divider"></div>
     </div>
     <br style="clear:both;">
 </div><div class="goal reporting-status-item">
     <div class="frame goal-tiles">
         <a href="/open-sdg-cambodia/km/11">
-        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/11.png" alt=" -  11" width="100" height="100" class="goal-icon-11 goal-icon-image goal-icon-image-"/>
+        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/11.png" alt=" - គោលដៅ 11" width="100" height="100" class="goal-icon-11 goal-icon-image goal-icon-image-"/>
         </a>
     </div>
     <div class="details">
         <h3 class="status-goal">
             <a href="/open-sdg-cambodia/km/11"></a>
         </h3>
-        <span class="total">4 </span>
+        <span class="total">4 សូចនាករ</span>
         <div class="summary">
             <div class="statuses"><div>
-                    <span class="status complete"><span class="status-inner">4</span></span><strong></strong><span class="value">100%</span>
+                    <span class="status complete"><span class="status-inner">4</span></span><strong>បានរាយការណ៍តាមអ៊ីនធឺណិត</strong><span class="value">100%</span>
                 </div><div>
-                    <span class="status inprogress"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status inprogress"><span class="status-inner">0</span></span><strong>ស្ថិតិកំពុងដំណើរការ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notstarted"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notstarted"><span class="status-inner">0</span></span><strong>ស្វែងរកប្រភពទិន្នន័យ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong>មិនអាចអនុវត្តបាន</strong><span class="value">0%</span>
                 </div><br style="clear:both;">
             </div>
         </div>
         <div class="goal-stats">
                 
                 
-                <span class="complete" style="width:100.0%" title=": 100%"></span>
+                <span class="complete" style="width:100.0%" title="បានរាយការណ៍តាមអ៊ីនធឺណិត: 100%"></span>
                 
                 
-                <span class="inprogress" style="width:0.0%" title=": 0%"></span>
+                <span class="inprogress" style="width:0.0%" title="ស្ថិតិកំពុងដំណើរការ: 0%"></span>
                 
                 
-                <span class="notstarted" style="width:0.0%" title=": 0%"></span>
+                <span class="notstarted" style="width:0.0%" title="ស្វែងរកប្រភពទិន្នន័យ: 0%"></span>
                 
                 
-                <span class="notapplicable" style="width:0.0%" title=": 0%"></span></div>
+                <span class="notapplicable" style="width:0.0%" title="មិនអាចអនុវត្តបាន: 0%"></span></div>
         <div class="divider"></div>
     </div>
     <br style="clear:both;">
 </div><div class="goal reporting-status-item">
     <div class="frame goal-tiles">
         <a href="/open-sdg-cambodia/km/12">
-        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/12.png" alt=" -  12" width="100" height="100" class="goal-icon-12 goal-icon-image goal-icon-image-"/>
+        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/12.png" alt=" - គោលដៅ 12" width="100" height="100" class="goal-icon-12 goal-icon-image goal-icon-image-"/>
         </a>
     </div>
     <div class="details">
         <h3 class="status-goal">
             <a href="/open-sdg-cambodia/km/12"></a>
         </h3>
-        <span class="total">4 </span>
+        <span class="total">4 សូចនាករ</span>
         <div class="summary">
             <div class="statuses"><div>
-                    <span class="status complete"><span class="status-inner">4</span></span><strong></strong><span class="value">100%</span>
+                    <span class="status complete"><span class="status-inner">4</span></span><strong>បានរាយការណ៍តាមអ៊ីនធឺណិត</strong><span class="value">100%</span>
                 </div><div>
-                    <span class="status inprogress"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status inprogress"><span class="status-inner">0</span></span><strong>ស្ថិតិកំពុងដំណើរការ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notstarted"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notstarted"><span class="status-inner">0</span></span><strong>ស្វែងរកប្រភពទិន្នន័យ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong>មិនអាចអនុវត្តបាន</strong><span class="value">0%</span>
                 </div><br style="clear:both;">
             </div>
         </div>
         <div class="goal-stats">
                 
                 
-                <span class="complete" style="width:100.0%" title=": 100%"></span>
+                <span class="complete" style="width:100.0%" title="បានរាយការណ៍តាមអ៊ីនធឺណិត: 100%"></span>
                 
                 
-                <span class="inprogress" style="width:0.0%" title=": 0%"></span>
+                <span class="inprogress" style="width:0.0%" title="ស្ថិតិកំពុងដំណើរការ: 0%"></span>
                 
                 
-                <span class="notstarted" style="width:0.0%" title=": 0%"></span>
+                <span class="notstarted" style="width:0.0%" title="ស្វែងរកប្រភពទិន្នន័យ: 0%"></span>
                 
                 
-                <span class="notapplicable" style="width:0.0%" title=": 0%"></span></div>
+                <span class="notapplicable" style="width:0.0%" title="មិនអាចអនុវត្តបាន: 0%"></span></div>
         <div class="divider"></div>
     </div>
     <br style="clear:both;">
 </div><div class="goal reporting-status-item">
     <div class="frame goal-tiles">
         <a href="/open-sdg-cambodia/km/13">
-        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/13.png" alt=" -  13" width="100" height="100" class="goal-icon-13 goal-icon-image goal-icon-image-"/>
+        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/13.png" alt=" - គោលដៅ 13" width="100" height="100" class="goal-icon-13 goal-icon-image goal-icon-image-"/>
         </a>
     </div>
     <div class="details">
         <h3 class="status-goal">
             <a href="/open-sdg-cambodia/km/13"></a>
         </h3>
-        <span class="total">5 </span>
+        <span class="total">5 សូចនាករ</span>
         <div class="summary">
             <div class="statuses"><div>
-                    <span class="status complete"><span class="status-inner">5</span></span><strong></strong><span class="value">100%</span>
+                    <span class="status complete"><span class="status-inner">5</span></span><strong>បានរាយការណ៍តាមអ៊ីនធឺណិត</strong><span class="value">100%</span>
                 </div><div>
-                    <span class="status inprogress"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status inprogress"><span class="status-inner">0</span></span><strong>ស្ថិតិកំពុងដំណើរការ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notstarted"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notstarted"><span class="status-inner">0</span></span><strong>ស្វែងរកប្រភពទិន្នន័យ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong>មិនអាចអនុវត្តបាន</strong><span class="value">0%</span>
                 </div><br style="clear:both;">
             </div>
         </div>
         <div class="goal-stats">
                 
                 
-                <span class="complete" style="width:100.0%" title=": 100%"></span>
+                <span class="complete" style="width:100.0%" title="បានរាយការណ៍តាមអ៊ីនធឺណិត: 100%"></span>
                 
                 
-                <span class="inprogress" style="width:0.0%" title=": 0%"></span>
+                <span class="inprogress" style="width:0.0%" title="ស្ថិតិកំពុងដំណើរការ: 0%"></span>
                 
                 
-                <span class="notstarted" style="width:0.0%" title=": 0%"></span>
+                <span class="notstarted" style="width:0.0%" title="ស្វែងរកប្រភពទិន្នន័យ: 0%"></span>
                 
                 
-                <span class="notapplicable" style="width:0.0%" title=": 0%"></span></div>
+                <span class="notapplicable" style="width:0.0%" title="មិនអាចអនុវត្តបាន: 0%"></span></div>
         <div class="divider"></div>
     </div>
     <br style="clear:both;">
 </div><div class="goal reporting-status-item">
     <div class="frame goal-tiles">
         <a href="/open-sdg-cambodia/km/14">
-        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/14.png" alt=" -  14" width="100" height="100" class="goal-icon-14 goal-icon-image goal-icon-image-"/>
+        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/14.png" alt=" - គោលដៅ 14" width="100" height="100" class="goal-icon-14 goal-icon-image goal-icon-image-"/>
         </a>
     </div>
     <div class="details">
         <h3 class="status-goal">
             <a href="/open-sdg-cambodia/km/14"></a>
         </h3>
-        <span class="total">6 </span>
+        <span class="total">6 សូចនាករ</span>
         <div class="summary">
             <div class="statuses"><div>
-                    <span class="status complete"><span class="status-inner">6</span></span><strong></strong><span class="value">100%</span>
+                    <span class="status complete"><span class="status-inner">6</span></span><strong>បានរាយការណ៍តាមអ៊ីនធឺណិត</strong><span class="value">100%</span>
                 </div><div>
-                    <span class="status inprogress"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status inprogress"><span class="status-inner">0</span></span><strong>ស្ថិតិកំពុងដំណើរការ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notstarted"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notstarted"><span class="status-inner">0</span></span><strong>ស្វែងរកប្រភពទិន្នន័យ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong>មិនអាចអនុវត្តបាន</strong><span class="value">0%</span>
                 </div><br style="clear:both;">
             </div>
         </div>
         <div class="goal-stats">
                 
                 
-                <span class="complete" style="width:100.0%" title=": 100%"></span>
+                <span class="complete" style="width:100.0%" title="បានរាយការណ៍តាមអ៊ីនធឺណិត: 100%"></span>
                 
                 
-                <span class="inprogress" style="width:0.0%" title=": 0%"></span>
+                <span class="inprogress" style="width:0.0%" title="ស្ថិតិកំពុងដំណើរការ: 0%"></span>
                 
                 
-                <span class="notstarted" style="width:0.0%" title=": 0%"></span>
+                <span class="notstarted" style="width:0.0%" title="ស្វែងរកប្រភពទិន្នន័យ: 0%"></span>
                 
                 
-                <span class="notapplicable" style="width:0.0%" title=": 0%"></span></div>
+                <span class="notapplicable" style="width:0.0%" title="មិនអាចអនុវត្តបាន: 0%"></span></div>
         <div class="divider"></div>
     </div>
     <br style="clear:both;">
 </div><div class="goal reporting-status-item">
     <div class="frame goal-tiles">
         <a href="/open-sdg-cambodia/km/15">
-        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/15.png" alt=" -  15" width="100" height="100" class="goal-icon-15 goal-icon-image goal-icon-image-"/>
+        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/15.png" alt=" - គោលដៅ 15" width="100" height="100" class="goal-icon-15 goal-icon-image goal-icon-image-"/>
         </a>
     </div>
     <div class="details">
         <h3 class="status-goal">
             <a href="/open-sdg-cambodia/km/15"></a>
         </h3>
-        <span class="total">9 </span>
+        <span class="total">9 សូចនាករ</span>
         <div class="summary">
             <div class="statuses"><div>
-                    <span class="status complete"><span class="status-inner">9</span></span><strong></strong><span class="value">100%</span>
+                    <span class="status complete"><span class="status-inner">9</span></span><strong>បានរាយការណ៍តាមអ៊ីនធឺណិត</strong><span class="value">100%</span>
                 </div><div>
-                    <span class="status inprogress"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status inprogress"><span class="status-inner">0</span></span><strong>ស្ថិតិកំពុងដំណើរការ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notstarted"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notstarted"><span class="status-inner">0</span></span><strong>ស្វែងរកប្រភពទិន្នន័យ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong>មិនអាចអនុវត្តបាន</strong><span class="value">0%</span>
                 </div><br style="clear:both;">
             </div>
         </div>
         <div class="goal-stats">
                 
                 
-                <span class="complete" style="width:100.0%" title=": 100%"></span>
+                <span class="complete" style="width:100.0%" title="បានរាយការណ៍តាមអ៊ីនធឺណិត: 100%"></span>
                 
                 
-                <span class="inprogress" style="width:0.0%" title=": 0%"></span>
+                <span class="inprogress" style="width:0.0%" title="ស្ថិតិកំពុងដំណើរការ: 0%"></span>
                 
                 
-                <span class="notstarted" style="width:0.0%" title=": 0%"></span>
+                <span class="notstarted" style="width:0.0%" title="ស្វែងរកប្រភពទិន្នន័យ: 0%"></span>
                 
                 
-                <span class="notapplicable" style="width:0.0%" title=": 0%"></span></div>
+                <span class="notapplicable" style="width:0.0%" title="មិនអាចអនុវត្តបាន: 0%"></span></div>
         <div class="divider"></div>
     </div>
     <br style="clear:both;">
 </div><div class="goal reporting-status-item">
     <div class="frame goal-tiles">
         <a href="/open-sdg-cambodia/km/16">
-        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/16.png" alt=" -  16" width="100" height="100" class="goal-icon-16 goal-icon-image goal-icon-image-"/>
+        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/16.png" alt=" - គោលដៅ 16" width="100" height="100" class="goal-icon-16 goal-icon-image goal-icon-image-"/>
         </a>
     </div>
     <div class="details">
         <h3 class="status-goal">
             <a href="/open-sdg-cambodia/km/16"></a>
         </h3>
-        <span class="total">3 </span>
+        <span class="total">3 សូចនាករ</span>
         <div class="summary">
             <div class="statuses"><div>
-                    <span class="status complete"><span class="status-inner">3</span></span><strong></strong><span class="value">100%</span>
+                    <span class="status complete"><span class="status-inner">3</span></span><strong>បានរាយការណ៍តាមអ៊ីនធឺណិត</strong><span class="value">100%</span>
                 </div><div>
-                    <span class="status inprogress"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status inprogress"><span class="status-inner">0</span></span><strong>ស្ថិតិកំពុងដំណើរការ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notstarted"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notstarted"><span class="status-inner">0</span></span><strong>ស្វែងរកប្រភពទិន្នន័យ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong>មិនអាចអនុវត្តបាន</strong><span class="value">0%</span>
                 </div><br style="clear:both;">
             </div>
         </div>
         <div class="goal-stats">
                 
                 
-                <span class="complete" style="width:100.0%" title=": 100%"></span>
+                <span class="complete" style="width:100.0%" title="បានរាយការណ៍តាមអ៊ីនធឺណិត: 100%"></span>
                 
                 
-                <span class="inprogress" style="width:0.0%" title=": 0%"></span>
+                <span class="inprogress" style="width:0.0%" title="ស្ថិតិកំពុងដំណើរការ: 0%"></span>
                 
                 
-                <span class="notstarted" style="width:0.0%" title=": 0%"></span>
+                <span class="notstarted" style="width:0.0%" title="ស្វែងរកប្រភពទិន្នន័យ: 0%"></span>
                 
                 
-                <span class="notapplicable" style="width:0.0%" title=": 0%"></span></div>
+                <span class="notapplicable" style="width:0.0%" title="មិនអាចអនុវត្តបាន: 0%"></span></div>
         <div class="divider"></div>
     </div>
     <br style="clear:both;">
 </div><div class="goal reporting-status-item">
     <div class="frame goal-tiles">
         <a href="/open-sdg-cambodia/km/17">
-        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/17.png" alt=" -  17" width="100" height="100" class="goal-icon-17 goal-icon-image goal-icon-image-"/>
+        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/17.png" alt=" - គោលដៅ 17" width="100" height="100" class="goal-icon-17 goal-icon-image goal-icon-image-"/>
         </a>
     </div>
     <div class="details">
         <h3 class="status-goal">
             <a href="/open-sdg-cambodia/km/17"></a>
         </h3>
-        <span class="total">10 </span>
+        <span class="total">10 សូចនាករ</span>
         <div class="summary">
             <div class="statuses"><div>
-                    <span class="status complete"><span class="status-inner">10</span></span><strong></strong><span class="value">100%</span>
+                    <span class="status complete"><span class="status-inner">10</span></span><strong>បានរាយការណ៍តាមអ៊ីនធឺណិត</strong><span class="value">100%</span>
                 </div><div>
-                    <span class="status inprogress"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status inprogress"><span class="status-inner">0</span></span><strong>ស្ថិតិកំពុងដំណើរការ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notstarted"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notstarted"><span class="status-inner">0</span></span><strong>ស្វែងរកប្រភពទិន្នន័យ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong>មិនអាចអនុវត្តបាន</strong><span class="value">0%</span>
                 </div><br style="clear:both;">
             </div>
         </div>
         <div class="goal-stats">
                 
                 
-                <span class="complete" style="width:100.0%" title=": 100%"></span>
+                <span class="complete" style="width:100.0%" title="បានរាយការណ៍តាមអ៊ីនធឺណិត: 100%"></span>
                 
                 
-                <span class="inprogress" style="width:0.0%" title=": 0%"></span>
+                <span class="inprogress" style="width:0.0%" title="ស្ថិតិកំពុងដំណើរការ: 0%"></span>
                 
                 
-                <span class="notstarted" style="width:0.0%" title=": 0%"></span>
+                <span class="notstarted" style="width:0.0%" title="ស្វែងរកប្រភពទិន្នន័យ: 0%"></span>
                 
                 
-                <span class="notapplicable" style="width:0.0%" title=": 0%"></span></div>
+                <span class="notapplicable" style="width:0.0%" title="មិនអាចអនុវត្តបាន: 0%"></span></div>
         <div class="divider"></div>
     </div>
     <br style="clear:both;">
 </div><div class="goal reporting-status-item">
     <div class="frame goal-tiles">
         <a href="/open-sdg-cambodia/km/18">
-        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/18.png" alt="global_goals.18-short -  18" width="100" height="100" class="goal-icon-18 goal-icon-image goal-icon-image-"/>
+        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/km/18.png" alt="global_goals.18-short - គោលដៅ 18" width="100" height="100" class="goal-icon-18 goal-icon-image goal-icon-image-"/>
         </a>
     </div>
     <div class="details">
         <h3 class="status-goal">
             <a href="/open-sdg-cambodia/km/18">global_goals.18-short</a>
         </h3>
-        <span class="total">6 </span>
+        <span class="total">6 សូចនាករ</span>
         <div class="summary">
             <div class="statuses"><div>
-                    <span class="status complete"><span class="status-inner">6</span></span><strong></strong><span class="value">100%</span>
+                    <span class="status complete"><span class="status-inner">6</span></span><strong>បានរាយការណ៍តាមអ៊ីនធឺណិត</strong><span class="value">100%</span>
                 </div><div>
-                    <span class="status inprogress"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status inprogress"><span class="status-inner">0</span></span><strong>ស្ថិតិកំពុងដំណើរការ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notstarted"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notstarted"><span class="status-inner">0</span></span><strong>ស្វែងរកប្រភពទិន្នន័យ</strong><span class="value">0%</span>
                 </div><div>
-                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong></strong><span class="value">0%</span>
+                    <span class="status notapplicable"><span class="status-inner">0</span></span><strong>មិនអាចអនុវត្តបាន</strong><span class="value">0%</span>
                 </div><br style="clear:both;">
             </div>
         </div>
         <div class="goal-stats">
                 
                 
-                <span class="complete" style="width:100.0%" title=": 100%"></span>
+                <span class="complete" style="width:100.0%" title="បានរាយការណ៍តាមអ៊ីនធឺណិត: 100%"></span>
                 
                 
-                <span class="inprogress" style="width:0.0%" title=": 0%"></span>
+                <span class="inprogress" style="width:0.0%" title="ស្ថិតិកំពុងដំណើរការ: 0%"></span>
                 
                 
-                <span class="notstarted" style="width:0.0%" title=": 0%"></span>
+                <span class="notstarted" style="width:0.0%" title="ស្វែងរកប្រភពទិន្នន័យ: 0%"></span>
                 
                 
-                <span class="notapplicable" style="width:0.0%" title=": 0%"></span></div>
+                <span class="notapplicable" style="width:0.0%" title="មិនអាចអនុវត្តបាន: 0%"></span></div>
         <div class="divider"></div>
     </div>
     <br style="clear:both;">
@@ -1084,25 +1084,25 @@ var translations = {
       <div class="col-xs-12">
         <div id="footerLinks">
           <ul>
-            <li><a href="https://open-sdg.org"></a></li>
+            <li><a href="https://open-sdg.org">បង្កើតឡើងដោយប្រើអេសភីអេសជី</a></li>
             
               <li>
                 
-                  <a href="mailto:my-email-address@example.com" target="_blank"></a>
+                  <a href="mailto:my-email-address@example.com" target="_blank">ទាក់ទង​មក​ពួក​យើង</a>
                 
                 </li>
               <li>
                 
-                  <a href="https://twitter.com/MyTwitterAccount" target="_blank"></a>
+                  <a href="https://twitter.com/MyTwitterAccount" target="_blank">Twitter</a>
                 
                 </li>
               <li>
                 
-                  <a href="https://facebook.com/MyFacebookAccount" target="_blank"></a>
+                  <a href="https://facebook.com/MyFacebookAccount" target="_blank">ហ្វេសប៊ុក</a>
                 
                 </li>
               <li>
-                <a href="/open-sdg-cambodia/km/about/cookies-and-privacy/"></a>
+                <a href="/open-sdg-cambodia/km/about/cookies-and-privacy/">ឃុកឃី</a>
                 
                 </li>
               
@@ -1134,17 +1134,17 @@ var translations = {
 <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.3/dist/html2canvas.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.2/dist/FileSaver.min.js"></script>
 <script>translations['general'] = translations['general'] || {};
-    translations['general']['hide'] = '';</script>
+    translations['general']['hide'] = 'លាក់';</script>
 
 <script>translations['search'] = translations['search'] || {};
-    translations['search']['search'] = '';</script>
+    translations['search']['search'] = 'ស្វែងរក';</script>
 
-<script src='/open-sdg-cambodia/assets/js/sdg.js?v=20210328202133'></script>
+<script src='/open-sdg-cambodia/assets/js/sdg.js?v=20210328214508'></script>
 
 
     
     
-    <script src="/open-sdg-cambodia/assets/js/custom.js?v=20210328202133"></script><script>
+    <script src="/open-sdg-cambodia/assets/js/custom.js?v=20210328214508"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();

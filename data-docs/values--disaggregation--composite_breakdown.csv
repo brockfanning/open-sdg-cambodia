@@ -1,9 +1,9 @@
-Value,Disaggregation combinations using this value,Number of indicators
-_L_TLT_FLSEPT,1,1
-_L_TLT_FLSEWER,1,1
-_L_TLT_PLWS,1,1
-_L_TWS_DUGWELL,1,1
-_L_TWS_PIPE,1,1
-_L_TWS_PIPEWELL,1,1
-_L_TWS_PUBTAP,1,1
-_L_TWS_RAINCOLL,1,1
+Value,en,km,Disaggregation combinations using this value,Number of indicators
+_L_TLT_FLSEPT,Type of toilet: Pour FlushConnected To Septic Tank,_L_TLT_FLSEPT,1,1
+_L_TLT_FLSEWER,Type of toilet: Pour Flush Connected To Sewerage,_L_TLT_FLSEWER,1,1
+_L_TLT_PLWS,Type of toilet: Pit Latrine With Slab,_L_TLT_PLWS,1,1
+_L_TWS_DUGWELL,Type of water source: Protected Dug Well,_L_TWS_DUGWELL,1,1
+_L_TWS_PIPE,Type of water source: Piped In Dwelling Or On Premises,_L_TWS_PIPE,1,1
+_L_TWS_PIPEWELL,Type of water source: Tube Piped Well Or Borehole,_L_TWS_PIPEWELL,1,1
+_L_TWS_PUBTAP,Type of water source: Public Tap,_L_TWS_PUBTAP,1,1
+_L_TWS_RAINCOLL,Type of water source: Improved Rainwater Collection,_L_TWS_RAINCOLL,1,1
