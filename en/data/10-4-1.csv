@@ -1,7 +1,31 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Source details,Reference area,Time period details,Value
+2014,MoSVY_National Fund for Veterans,Cambodia,2020,47375
+2016,MoSVY_National Fund for Veterans,Cambodia,2020,52274
+2017,MoSVY_National Fund for Veterans,Cambodia,2020,54092
+2018,MoSVY_National Fund for Veterans,Cambodia,2020,55702
+2019,MoSVY_National Fund for Veterans,Cambodia,2020,57282
+2020,MoSVY_National Fund for Veterans,Cambodia,2020,58762
+2014,MoSVY_National Fund for Veterans_2015,Banteay Meanchey,2014,1192
+2014,MoSVY_National Fund for Veterans_2015,Battambang,2014,2711
+2014,MoSVY_National Fund for Veterans_2015,Kampong Cham,2014,4644
+2014,MoSVY_National Fund for Veterans_2015,Kampong Chhnang,2014,1325
+2014,MoSVY_National Fund for Veterans_2015,Kampong Speu,2014,1743
+2014,MoSVY_National Fund for Veterans_2015,Kampong Thom,2014,1732
+2014,MoSVY_National Fund for Veterans_2015,Kampot,2014,1889
+2014,MoSVY_National Fund for Veterans_2015,Kandal,2014,3705
+2014,MoSVY_National Fund for Veterans_2015,Kep,2014,242
+2014,MoSVY_National Fund for Veterans_2015,Koh Kong,2014,230
+2014,MoSVY_National Fund for Veterans_2015,Kratie,2014,1052
+2014,MoSVY_National Fund for Veterans_2015,Mondul Kiri,2014,315
+2014,MoSVY_National Fund for Veterans_2015,Oddar Meanchey,2014,190
+2014,MoSVY_National Fund for Veterans_2015,Pailin,2014,146
+2014,MoSVY_National Fund for Veterans_2015,Phnom Penh,2014,14628
+2014,MoSVY_National Fund for Veterans_2015,Preah Sihanouk,2014,606
+2014,MoSVY_National Fund for Veterans_2015,Preah Vihear,2014,385
+2014,MoSVY_National Fund for Veterans_2015,Prey Veng,2014,3232
+2014,MoSVY_National Fund for Veterans_2015,Pursat,2014,1228
+2014,MoSVY_National Fund for Veterans_2015,Ratanak Kiri,2014,125
+2014,MoSVY_National Fund for Veterans_2015,Siemreap,2014,1562
+2014,MoSVY_National Fund for Veterans_2015,Stung Treng,2014,372
+2014,MoSVY_National Fund for Veterans_2015,Svay Rieng,2014,1664
+2014,MoSVY_National Fund for Veterans_2015,Takeo,2014,2457

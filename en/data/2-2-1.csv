@@ -1,7 +1,110 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Reference area,Sex,Degree of urbanisation,Income or wealth quantile,Time period details,Value
+2000,Cambodia,Female,,,2014,45.9
+2005,Cambodia,Female,,,2014,35.8
+2010,Cambodia,Female,,,2014,38.2
+2014,Cambodia,Female,,,2014,31.9
+2000,Cambodia,Male,,,2014,43.3
+2005,Cambodia,Male,,,2014,38.8
+2010,Cambodia,Male,,,2014,41.6
+2014,Cambodia,Male,,,2014,32.9
+2000,Cambodia,,,,2014,44.6
+2005,Cambodia,,,,2014,37.3
+2010,Cambodia,,,,2014,39.9
+2014,Cambodia,,,,2014,32.4
+2005,Cambodia,,,Quintile 1 (poorest),2014,46.7
+2010,Cambodia,,,Quintile 1 (poorest),2014,51.1
+2014,Cambodia,,,Quintile 1 (poorest),2014,41.9
+2005,Cambodia,,,Quintile 2,2014,42.5
+2010,Cambodia,,,Quintile 2,2014,44.4
+2014,Cambodia,,,Quintile 2,2014,37.1
+2005,Cambodia,,,Quintile 3,2014,36.5
+2010,Cambodia,,,Quintile 3,2014,39.3
+2014,Cambodia,,,Quintile 3,2014,31.7
+2005,Cambodia,,,Quintile 4,2014,35.5
+2010,Cambodia,,,Quintile 4,2014,34.2
+2014,Cambodia,,,Quintile 4,2014,29.1
+2005,Cambodia,,,Quintile 5 (richest),2014,19.4
+2010,Cambodia,,,Quintile 5 (richest),2014,23.1
+2014,Cambodia,,,Quintile 5 (richest),2014,18.5
+2000,Cambodia,,Urban,,2014,38.1
+2005,Cambodia,,Urban,,2014,30.5
+2010,Cambodia,,Urban,,2014,27.5
+2014,Cambodia,,Urban,,2014,23.7
+2000,Cambodia,,Rural,,2014,45.7
+2005,Cambodia,,Rural,,2014,38.3
+2010,Cambodia,,Rural,,2014,42.2
+2014,Cambodia,,Rural,,2014,33.8
+2000,Banteay Meanchey,,,,2014,28.9
+2005,Banteay Meanchey,,,,2014,34.1
+2010,Banteay Meanchey,,,,2014,33.4
+2014,Banteay Meanchey,,,,2014,28.6
+2000,Kampong Cham,,,,2014,48.2
+2005,Kampong Cham,,,,2014,37.2
+2010,Kampong Cham,,,,2014,46.9
+2014,Kampong Cham,,,,2014,33.5
+2000,Kampong Chhnang,,,,2014,45.9
+2005,Kampong Chhnang,,,,2014,37.3
+2010,Kampong Chhnang,,,,2014,40.3
+2014,Kampong Chhnang,,,,2014,42.8
+2000,Kampong Speu,,,,2014,44.5
+2005,Kampong Speu,,,,2014,36.6
+2010,Kampong Speu,,,,2014,42.1
+2014,Kampong Speu,,,,2014,40.5
+2000,Kampong Thom,,,,2014,47.2
+2005,Kampong Thom,,,,2014,41.1
+2010,Kampong Thom,,,,2014,49.9
+2014,Kampong Thom,,,,2014,36.4
+2000,Kandal,,,,2014,46.2
+2005,Kandal,,,,2014,26.8
+2010,Kandal,,,,2014,34.9
+2014,Kandal,,,,2014,28.1
+2000,Koh Kong,,,,2000,55.0
+2005,Kratie,,,,2014,37.1
+2010,Kratie,,,,2014,47.6
+2014,Kratie,,,,2014,38.4
+2005,Oddar Meanchey,,,,2014,47.3
+2010,Oddar Meanchey,,,,2014,39.6
+2014,Oddar Meanchey,,,,2014,36.3
+2000,Phnom Penh,,,,2014,22.6
+2005,Phnom Penh,,,,2014,22.3
+2010,Phnom Penh,,,,2014,25.1
+2014,Phnom Penh,,,,2014,17.9
+2000,Prey Veng,,,,2014,51.2
+2005,Prey Veng,,,,2014,38.3
+2010,Prey Veng,,,,2014,34.6
+2014,Prey Veng,,,,2014,32.7
+2000,Pursat,,,,2014,46.3
+2005,Pursat,,,,2014,61.6
+2010,Pursat,,,,2014,44.8
+2014,Pursat,,,,2014,38.8
+2005,Siemreap,,,,2014,53.3
+2010,Siemreap,,,,2014,50.3
+2014,Siemreap,,,,2014,35.9
+2000,Svay Rieng,,,,2014,51.3
+2005,Svay Rieng,,,,2014,35.4
+2010,Svay Rieng,,,,2014,31.2
+2014,Svay Rieng,,,,2014,32.8
+2000,Takeo,,,,2014,42.1
+2005,Takeo,,,,2014,38.5
+2010,Takeo,,,,2014,41.3
+2014,Takeo,,,,2014,30.7
+2000,Battambang and Pailin,,,,2014,36.3
+2005,Battambang and Pailin,,,,2014,36.2
+2010,Battambang and Pailin,,,,2014,26.5
+2014,Battambang and Pailin,,,,2014,24.9
+2000,"Kampot, Preah Sihanouk and Kep",,,,2000,43.4
+2000,"Kratie, Preah Vihear and Stung Treng",,,,2000,51.0
+2000,Mondul Kiri and Ratanak Kiri,,,,2014,55.0
+2005,Mondul Kiri and Ratanak Kiri,,,,2014,54.0
+2010,Mondul Kiri and Ratanak Kiri,,,,2014,54.9
+2014,Mondul Kiri and Ratanak Kiri,,,,2014,39.8
+2000,Otdar Meanchey and Siem Reap,,,,2000,50.7
+2005,Kampot and Kep,,,,2014,28.2
+2010,Kampot and Kep,,,,2014,43.4
+2014,Kampot and Kep,,,,2014,25.2
+2005,Koh Kong and Preah Sihanouk,,,,2014,36.8
+2010,Koh Kong and Preah Sihanouk,,,,2014,41.8
+2014,Koh Kong and Preah Sihanouk,,,,2014,33.4
+2005,Preah Vihear and Stung Treng,,,,2014,42.0
+2010,Preah Vihear and Stung Treng,,,,2014,56.4
+2014,Preah Vihear and Stung Treng,,,,2014,44.3

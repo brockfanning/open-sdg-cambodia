@@ -1,7 +1,145 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,Time period details,Value
+2000,Cambodia,Female,under 1 month old,,,2014,34.1
+2005,Cambodia,Female,under 1 month old,,,2014,30.0
+2010,Cambodia,Female,under 1 month old,,,2014,27.0
+2014,Cambodia,Female,under 1 month old,,,2014,20.0
+2000,Cambodia,Female,under 1 year old,,,2014,34.1
+2005,Cambodia,Female,under 1 year old,,,2014,30.0
+2010,Cambodia,Female,under 1 year old,,,2014,27.0
+2014,Cambodia,Female,under 1 year old,,,2014,20.0
+2000,Cambodia,Male,under 1 month old,,,2014,44.0
+2005,Cambodia,Male,under 1 month old,,,2014,42.0
+2010,Cambodia,Male,under 1 month old,,,2014,36.0
+2014,Cambodia,Male,under 1 month old,,,2014,22.0
+2000,Cambodia,Male,under 1 year old,,,2014,44.0
+2005,Cambodia,Male,under 1 year old,,,2014,42.0
+2010,Cambodia,Male,under 1 year old,,,2014,36.0
+2014,Cambodia,Male,under 1 year old,,,2014,22.0
+2000,Cambodia,,under 1 month old,,,2014,37.3
+2005,Cambodia,,under 1 month old,,,2014,28.0
+2010,Cambodia,,under 1 month old,,,2014,27.0
+2014,Cambodia,,under 1 month old,,,2014,18.0
+2005,Cambodia,,under 1 month old,,Quintile 1 (poorest),2014,34.0
+2010,Cambodia,,under 1 month old,,Quintile 1 (poorest),2014,39.0
+2014,Cambodia,,under 1 month old,,Quintile 1 (poorest),2014,27.0
+2005,Cambodia,,under 1 month old,,Quintile 2,2014,45.0
+2010,Cambodia,,under 1 month old,,Quintile 2,2014,34.0
+2014,Cambodia,,under 1 month old,,Quintile 2,2014,23.0
+2005,Cambodia,,under 1 month old,,Quintile 3,2014,38.0
+2010,Cambodia,,under 1 month old,,Quintile 3,2014,35.0
+2014,Cambodia,,under 1 month old,,Quintile 3,2014,24.0
+2005,Cambodia,,under 1 month old,,Quintile 4,2014,38.0
+2010,Cambodia,,under 1 month old,,Quintile 4,2014,26.0
+2014,Cambodia,,under 1 month old,,Quintile 4,2014,18.0
+2005,Cambodia,,under 1 month old,,Quintile 5 (richest),2014,22.0
+2010,Cambodia,,under 1 month old,,Quintile 5 (richest),2014,16.0
+2014,Cambodia,,under 1 month old,,Quintile 5 (richest),2014,12.0
+2000,Cambodia,,under 1 month old,Urban,,2014,27.0
+2005,Cambodia,,under 1 month old,Urban,,2014,29.0
+2010,Cambodia,,under 1 month old,Urban,,2014,11.0
+2014,Cambodia,,under 1 month old,Urban,,2014,10.0
+2000,Cambodia,,under 1 month old,Rural,,2014,40.9
+2005,Cambodia,,under 1 month old,Rural,,2014,37.0
+2010,Cambodia,,under 1 month old,Rural,,2014,35.0
+2014,Cambodia,,under 1 month old,Rural,,2014,23.0
+2000,Cambodia,,under 1 year old,,,2014,37.3
+2005,Cambodia,,under 1 year old,,,2014,28.0
+2010,Cambodia,,under 1 year old,,,2014,27.0
+2014,Cambodia,,under 1 year old,,,2014,18.0
+2005,Cambodia,,under 1 year old,,Quintile 1 (poorest),2014,34.0
+2010,Cambodia,,under 1 year old,,Quintile 1 (poorest),2014,39.0
+2014,Cambodia,,under 1 year old,,Quintile 1 (poorest),2014,27.0
+2005,Cambodia,,under 1 year old,,Quintile 2,2014,45.0
+2010,Cambodia,,under 1 year old,,Quintile 2,2014,34.0
+2014,Cambodia,,under 1 year old,,Quintile 2,2014,23.0
+2005,Cambodia,,under 1 year old,,Quintile 3,2014,38.0
+2010,Cambodia,,under 1 year old,,Quintile 3,2014,35.0
+2014,Cambodia,,under 1 year old,,Quintile 3,2014,24.0
+2005,Cambodia,,under 1 year old,,Quintile 4,2014,38.0
+2010,Cambodia,,under 1 year old,,Quintile 4,2014,26.0
+2014,Cambodia,,under 1 year old,,Quintile 4,2014,18.0
+2005,Cambodia,,under 1 year old,,Quintile 5 (richest),2014,22.0
+2010,Cambodia,,under 1 year old,,Quintile 5 (richest),2014,16.0
+2014,Cambodia,,under 1 year old,,Quintile 5 (richest),2014,12.0
+2000,Cambodia,,under 1 year old,Urban,,2014,27.0
+2005,Cambodia,,under 1 year old,Urban,,2014,29.0
+2010,Cambodia,,under 1 year old,Urban,,2014,11.0
+2014,Cambodia,,under 1 year old,Urban,,2014,10.0
+2000,Cambodia,,under 1 year old,Rural,,2014,40.9
+2005,Cambodia,,under 1 year old,Rural,,2014,37.0
+2010,Cambodia,,under 1 year old,Rural,,2014,35.0
+2014,Cambodia,,under 1 year old,Rural,,2014,23.0
+2000,Banteay Meanchey,,under 1 month old,,,2014,31.4
+2005,Banteay Meanchey,,under 1 month old,,,2014,34.0
+2010,Banteay Meanchey,,under 1 month old,,,2014,26.0
+2014,Banteay Meanchey,,under 1 month old,,,2014,20.0
+2000,Kampong Cham,,under 1 month old,,,2014,38.7
+2005,Kampong Cham,,under 1 month old,,,2014,35.0
+2010,Kampong Cham,,under 1 month old,,,2014,33.0
+2014,Kampong Cham,,under 1 month old,,,2014,25.0
+2000,Kampong Chhnang,,under 1 month old,,,2014,41.9
+2005,Kampong Chhnang,,under 1 month old,,,2014,36.0
+2010,Kampong Chhnang,,under 1 month old,,,2014,45.0
+2014,Kampong Chhnang,,under 1 month old,,,2014,27.0
+2000,Kampong Speu,,under 1 month old,,,2014,26.4
+2005,Kampong Speu,,under 1 month old,,,2014,41.0
+2010,Kampong Speu,,under 1 month old,,,2014,39.0
+2014,Kampong Speu,,under 1 month old,,,2014,19.0
+2000,Kampong Thom,,under 1 month old,,,2014,38.8
+2005,Kampong Thom,,under 1 month old,,,2014,38.0
+2010,Kampong Thom,,under 1 month old,,,2014,29.0
+2014,Kampong Thom,,under 1 month old,,,2014,29.0
+2000,Kandal,,under 1 month old,,,2014,38.8
+2005,Kandal,,under 1 month old,,,2014,30.0
+2010,Kandal,,under 1 month old,,,2014,34.0
+2014,Kandal,,under 1 month old,,,2014,17.0
+2000,Koh Kong,,under 1 month old,,,2000,31.5
+2005,Kratie,,under 1 month old,,,2014,37.0
+2010,Kratie,,under 1 month old,,,2014,47.0
+2014,Kratie,,under 1 month old,,,2014,30.0
+2005,Oddar Meanchey,,under 1 month old,,,2014,19.0
+2010,Oddar Meanchey,,under 1 month old,,,2014,20.0
+2014,Oddar Meanchey,,under 1 month old,,,2014,17.0
+2000,Phnom Penh,,under 1 month old,,,2014,14.0
+2005,Phnom Penh,,under 1 month old,,,2014,24.0
+2010,Phnom Penh,,under 1 month old,,,2014,8.0
+2014,Phnom Penh,,under 1 month old,,,2014,13.0
+2000,Prey Veng,,under 1 month old,,,2014,52.4
+2005,Prey Veng,,under 1 month old,,,2014,52.0
+2010,Prey Veng,,under 1 month old,,,2014,34.0
+2014,Prey Veng,,under 1 month old,,,2014,33.0
+2000,Pursat,,under 1 month old,,,2014,51.0
+2005,Pursat,,under 1 month old,,,2014,27.0
+2010,Pursat,,under 1 month old,,,2014,29.0
+2014,Pursat,,under 1 month old,,,2014,14.0
+2005,Siemreap,,under 1 month old,,,2014,34.0
+2010,Siemreap,,under 1 month old,,,2014,28.0
+2014,Siemreap,,under 1 month old,,,2014,17.0
+2000,Svay Rieng,,under 1 month old,,,2014,56.2
+2005,Svay Rieng,,under 1 month old,,,2014,29.0
+2010,Svay Rieng,,under 1 month old,,,2014,27.0
+2014,Svay Rieng,,under 1 month old,,,2014,20.0
+2000,Takeo,,under 1 month old,,,2014,38.4
+2005,Takeo,,under 1 month old,,,2014,52.0
+2010,Takeo,,under 1 month old,,,2014,37.0
+2014,Takeo,,under 1 month old,,,2014,16.0
+2000,Battambang and Pailin,,under 1 month old,,,2014,38.3
+2005,Battambang and Pailin,,under 1 month old,,,2014,29.0
+2010,Battambang and Pailin,,under 1 month old,,,2014,28.0
+2014,Battambang and Pailin,,under 1 month old,,,2014,12.0
+2000,"Kampot, Preah Sihanouk and Kep",,under 1 month old,,,2000,42.0
+2000,"Kratie, Preah Vihear and Stung Treng",,under 1 month old,,,2000,25.9
+2000,Mondul Kiri and Ratanak Kiri,,under 1 month old,,,2014,79.8
+2005,Mondul Kiri and Ratanak Kiri,,under 1 month old,,,2014,56.0
+2010,Mondul Kiri and Ratanak Kiri,,under 1 month old,,,2014,30.0
+2014,Mondul Kiri and Ratanak Kiri,,under 1 month old,,,2014,36.0
+2000,Otdar Meanchey and Siem Reap,,under 1 month old,,,2000,44.6
+2005,Kampot and Kep,,under 1 month old,,,2014,37.0
+2010,Kampot and Kep,,under 1 month old,,,2014,44.0
+2014,Kampot and Kep,,under 1 month old,,,2014,20.0
+2005,Koh Kong and Preah Sihanouk,,under 1 month old,,,2014,37.0
+2010,Koh Kong and Preah Sihanouk,,under 1 month old,,,2014,20.0
+2014,Koh Kong and Preah Sihanouk,,under 1 month old,,,2014,20.0
+2005,Preah Vihear and Stung Treng,,under 1 month old,,,2014,34.0
+2010,Preah Vihear and Stung Treng,,under 1 month old,,,2014,29.0
+2014,Preah Vihear and Stung Treng,,under 1 month old,,,2014,25.0

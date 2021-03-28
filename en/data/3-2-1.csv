@@ -1,7 +1,31 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Reference area,Time period details,Value
+2000,Cambodia,2019,437.0
+2005,Cambodia,2019,472.0
+2008,Cambodia,2019,460.84
+2010,Cambodia,2019,206.0
+2014,Cambodia,2019,170.0
+2019,Cambodia,2019,141.0
+2008,Banteay Meanchey,2008,263.5
+2008,Battambang,2008,219.41
+2008,Kampong Cham,2008,451.02
+2008,Kampong Chhnang,2008,277.22
+2008,Kampong Speu,2008,460.78
+2008,Kampong Thom,2008,590.68
+2008,Kampot,2008,823.4
+2008,Kandal,2008,305.06
+2008,Kep,2008,1388.13
+2008,Koh Kong,2008,1113.26
+2008,Kratie,2008,491.03
+2008,Mondul Kiri,2008,1498.75
+2008,Oddar Meanchey,2008,257.07
+2008,Pailin,2008,630.63
+2008,Phnom Penh,2008,298.42
+2008,Preah Sihanouk,2008,806.45
+2008,Preah Vihear,2008,476.33
+2008,Prey Veng,2008,613.66
+2008,Pursat,2008,269.49
+2008,Ratanak Kiri,2008,1441.73
+2008,Siemreap,2008,366.0
+2008,Stung Treng,2008,423.53
+2008,Svay Rieng,2008,558.84
+2008,Takeo,2008,568.85

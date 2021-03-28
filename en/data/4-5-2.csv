@@ -1,0 +1,331 @@
+Year,Reference area,Degree of urbanisation,Value
+2008,Cambodia,,0.75
+2009,Cambodia,,0.83
+2010,Cambodia,,0.84
+2011,Cambodia,,0.9
+2012,Cambodia,,0.93
+2013,Cambodia,,0.98
+2014,Cambodia,,1.0
+2015,Cambodia,,1.08
+2016,Cambodia,,1.13
+2017,Cambodia,,1.18
+2018,Cambodia,,1.24
+2019,Cambodia,,1.31
+2008,Cambodia,Urban,0.78
+2009,Cambodia,Urban,0.77
+2010,Cambodia,Urban,0.81
+2011,Cambodia,Urban,0.86
+2012,Cambodia,Urban,0.88
+2013,Cambodia,Urban,0.93
+2014,Cambodia,Urban,1.0
+2015,Cambodia,Urban,1.0
+2016,Cambodia,Urban,1.03
+2017,Cambodia,Urban,1.03
+2018,Cambodia,Urban,1.07
+2019,Cambodia,Urban,1.13
+2008,Cambodia,Rural,0.72
+2009,Cambodia,Rural,0.83
+2010,Cambodia,Rural,0.84
+2011,Cambodia,Rural,0.91
+2012,Cambodia,Rural,0.95
+2013,Cambodia,Rural,0.98
+2014,Cambodia,Rural,1.0
+2015,Cambodia,Rural,1.11
+2016,Cambodia,Rural,1.17
+2017,Cambodia,Rural,1.24
+2018,Cambodia,Rural,1.3
+2019,Cambodia,Rural,1.37
+2008,Banteay Meanchey,,0.87
+2009,Banteay Meanchey,,0.91
+2010,Banteay Meanchey,,0.97
+2011,Banteay Meanchey,,0.99
+2012,Banteay Meanchey,,1.05
+2013,Banteay Meanchey,,1.08
+2014,Banteay Meanchey,,1.1
+2015,Banteay Meanchey,,1.17
+2016,Banteay Meanchey,,1.19
+2017,Banteay Meanchey,,1.24
+2018,Banteay Meanchey,,1.32
+2019,Banteay Meanchey,,1.41
+2008,Battambang,,0.85
+2009,Battambang,,0.97
+2010,Battambang,,0.93
+2011,Battambang,,1.03
+2012,Battambang,,1.04
+2013,Battambang,,1.11
+2014,Battambang,,1.2
+2015,Battambang,,1.28
+2016,Battambang,,1.29
+2017,Battambang,,1.32
+2018,Battambang,,1.4
+2019,Battambang,,1.38
+2008,Kampong Cham,,0.86
+2009,Kampong Cham,,0.96
+2010,Kampong Cham,,0.99
+2011,Kampong Cham,,1.01
+2012,Kampong Cham,,1.06
+2013,Kampong Cham,,1.1
+2014,Kampong Cham,,1.2
+2015,Kampong Cham,,1.24
+2016,Kampong Cham,,1.27
+2017,Kampong Cham,,1.36
+2018,Kampong Cham,,1.43
+2019,Kampong Cham,,1.48
+2008,Kampong Chhnang,,0.78
+2009,Kampong Chhnang,,0.88
+2010,Kampong Chhnang,,0.89
+2011,Kampong Chhnang,,0.97
+2012,Kampong Chhnang,,0.99
+2013,Kampong Chhnang,,1.04
+2014,Kampong Chhnang,,1.1
+2015,Kampong Chhnang,,1.2
+2016,Kampong Chhnang,,1.25
+2017,Kampong Chhnang,,1.31
+2018,Kampong Chhnang,,1.39
+2019,Kampong Chhnang,,1.44
+2008,Kampong Speu,,0.53
+2009,Kampong Speu,,0.69
+2010,Kampong Speu,,0.66
+2011,Kampong Speu,,0.73
+2012,Kampong Speu,,0.81
+2013,Kampong Speu,,0.82
+2014,Kampong Speu,,0.9
+2015,Kampong Speu,,0.96
+2016,Kampong Speu,,1.04
+2017,Kampong Speu,,1.12
+2018,Kampong Speu,,1.18
+2019,Kampong Speu,,1.29
+2008,Kampong Thom,,0.83
+2009,Kampong Thom,,0.91
+2010,Kampong Thom,,0.91
+2011,Kampong Thom,,0.95
+2012,Kampong Thom,,1.03
+2013,Kampong Thom,,1.06
+2014,Kampong Thom,,1.1
+2015,Kampong Thom,,1.2
+2016,Kampong Thom,,1.3
+2017,Kampong Thom,,1.38
+2018,Kampong Thom,,1.41
+2019,Kampong Thom,,1.47
+2008,Kampot,,0.82
+2009,Kampot,,0.86
+2010,Kampot,,0.99
+2011,Kampot,,0.9
+2012,Kampot,,0.94
+2013,Kampot,,0.96
+2014,Kampot,,1.0
+2015,Kampot,,1.05
+2016,Kampot,,1.1
+2017,Kampot,,1.14
+2018,Kampot,,1.17
+2019,Kampot,,1.24
+2008,Kandal,,0.77
+2009,Kandal,,0.83
+2010,Kandal,,0.87
+2011,Kandal,,0.92
+2012,Kandal,,0.93
+2013,Kandal,,0.99
+2014,Kandal,,1.0
+2015,Kandal,,1.1
+2016,Kandal,,1.18
+2017,Kandal,,1.27
+2018,Kandal,,1.36
+2019,Kandal,,1.39
+2008,Kep,,0.82
+2009,Kep,,0.94
+2010,Kep,,1.02
+2011,Kep,,1.05
+2012,Kep,,1.06
+2013,Kep,,1.23
+2014,Kep,,1.3
+2015,Kep,,1.22
+2016,Kep,,1.28
+2017,Kep,,1.24
+2018,Kep,,1.28
+2019,Kep,,1.21
+2008,Koh Kong,,0.73
+2009,Koh Kong,,0.71
+2010,Koh Kong,,0.82
+2011,Koh Kong,,0.87
+2012,Koh Kong,,0.93
+2013,Koh Kong,,0.95
+2014,Koh Kong,,1.0
+2015,Koh Kong,,0.97
+2016,Koh Kong,,0.95
+2017,Koh Kong,,0.94
+2018,Koh Kong,,0.93
+2019,Koh Kong,,1.05
+2008,Kratie,,0.88
+2009,Kratie,,0.96
+2010,Kratie,,0.98
+2011,Kratie,,1.02
+2012,Kratie,,1.08
+2013,Kratie,,1.12
+2014,Kratie,,1.1
+2015,Kratie,,1.19
+2016,Kratie,,1.18
+2017,Kratie,,1.2
+2018,Kratie,,1.27
+2019,Kratie,,1.34
+2008,Mondul Kiri,,0.78
+2009,Mondul Kiri,,0.71
+2010,Mondul Kiri,,0.71
+2011,Mondul Kiri,,0.74
+2012,Mondul Kiri,,0.77
+2013,Mondul Kiri,,0.8
+2014,Mondul Kiri,,0.9
+2015,Mondul Kiri,,0.98
+2016,Mondul Kiri,,1.11
+2017,Mondul Kiri,,1.19
+2018,Mondul Kiri,,1.22
+2019,Mondul Kiri,,1.27
+2008,Oddar Meanchey,,0.56
+2009,Oddar Meanchey,,0.7
+2010,Oddar Meanchey,,0.85
+2011,Oddar Meanchey,,0.84
+2012,Oddar Meanchey,,0.88
+2013,Oddar Meanchey,,0.86
+2014,Oddar Meanchey,,1.0
+2015,Oddar Meanchey,,1.07
+2016,Oddar Meanchey,,1.09
+2017,Oddar Meanchey,,1.1
+2018,Oddar Meanchey,,1.13
+2019,Oddar Meanchey,,1.21
+2008,Pailin,,0.72
+2009,Pailin,,0.76
+2010,Pailin,,0.89
+2011,Pailin,,0.9
+2012,Pailin,,0.95
+2013,Pailin,,0.98
+2014,Pailin,,1.1
+2015,Pailin,,1.04
+2016,Pailin,,1.05
+2017,Pailin,,1.16
+2018,Pailin,,1.24
+2019,Pailin,,1.29
+2008,Phnom Penh,,0.76
+2009,Phnom Penh,,0.7
+2010,Phnom Penh,,0.79
+2011,Phnom Penh,,0.78
+2012,Phnom Penh,,0.78
+2013,Phnom Penh,,0.83
+2014,Phnom Penh,,0.9
+2015,Phnom Penh,,0.86
+2016,Phnom Penh,,0.89
+2017,Phnom Penh,,0.87
+2018,Phnom Penh,,0.9
+2019,Phnom Penh,,0.93
+2008,Preah Sihanouk,,0.73
+2009,Preah Sihanouk,,0.8
+2010,Preah Sihanouk,,0.83
+2011,Preah Sihanouk,,0.8
+2012,Preah Sihanouk,,0.87
+2013,Preah Sihanouk,,0.94
+2014,Preah Sihanouk,,1.0
+2015,Preah Sihanouk,,1.04
+2016,Preah Sihanouk,,0.96
+2017,Preah Sihanouk,,1.04
+2018,Preah Sihanouk,,1.14
+2019,Preah Sihanouk,,1.21
+2008,Preah Vihear,,0.62
+2009,Preah Vihear,,0.76
+2010,Preah Vihear,,0.86
+2011,Preah Vihear,,0.85
+2012,Preah Vihear,,0.91
+2013,Preah Vihear,,1.04
+2014,Preah Vihear,,1.0
+2015,Preah Vihear,,1.0
+2016,Preah Vihear,,1.13
+2017,Preah Vihear,,1.14
+2018,Preah Vihear,,1.15
+2019,Preah Vihear,,1.25
+2008,Prey Veng,,0.77
+2009,Prey Veng,,0.88
+2010,Prey Veng,,0.75
+2011,Prey Veng,,0.82
+2012,Prey Veng,,0.87
+2013,Prey Veng,,0.88
+2014,Prey Veng,,1.0
+2015,Prey Veng,,1.02
+2016,Prey Veng,,1.13
+2017,Prey Veng,,1.22
+2018,Prey Veng,,1.31
+2019,Prey Veng,,1.38
+2008,Pursat,,0.65
+2009,Pursat,,0.64
+2010,Pursat,,0.87
+2011,Pursat,,1.01
+2012,Pursat,,1.04
+2013,Pursat,,1.09
+2014,Pursat,,1.1
+2015,Pursat,,1.12
+2016,Pursat,,1.16
+2017,Pursat,,1.15
+2018,Pursat,,1.24
+2019,Pursat,,1.31
+2008,Ratanak Kiri,,0.85
+2009,Ratanak Kiri,,0.89
+2010,Ratanak Kiri,,0.58
+2011,Ratanak Kiri,,0.72
+2012,Ratanak Kiri,,0.74
+2013,Ratanak Kiri,,0.81
+2014,Ratanak Kiri,,0.9
+2015,Ratanak Kiri,,0.96
+2016,Ratanak Kiri,,0.98
+2017,Ratanak Kiri,,0.98
+2018,Ratanak Kiri,,0.94
+2019,Ratanak Kiri,,0.97
+2008,Siemreap,,0.72
+2009,Siemreap,,0.81
+2010,Siemreap,,0.89
+2011,Siemreap,,1.02
+2012,Siemreap,,1.06
+2013,Siemreap,,1.12
+2014,Siemreap,,1.2
+2015,Siemreap,,1.32
+2016,Siemreap,,1.33
+2017,Siemreap,,1.39
+2018,Siemreap,,1.34
+2019,Siemreap,,1.49
+2008,Stung Treng,,0.67
+2009,Stung Treng,,0.65
+2010,Stung Treng,,0.71
+2011,Stung Treng,,0.87
+2012,Stung Treng,,0.79
+2013,Stung Treng,,0.95
+2014,Stung Treng,,1.1
+2015,Stung Treng,,0.94
+2016,Stung Treng,,0.95
+2017,Stung Treng,,0.99
+2018,Stung Treng,,1.03
+2019,Stung Treng,,1.12
+2008,Svay Rieng,,0.58
+2009,Svay Rieng,,0.71
+2010,Svay Rieng,,0.59
+2011,Svay Rieng,,0.75
+2012,Svay Rieng,,0.83
+2013,Svay Rieng,,0.84
+2014,Svay Rieng,,0.9
+2015,Svay Rieng,,0.96
+2016,Svay Rieng,,1.03
+2017,Svay Rieng,,1.13
+2018,Svay Rieng,,1.21
+2019,Svay Rieng,,1.32
+2008,Takeo,,0.59
+2009,Takeo,,0.76
+2010,Takeo,,0.71
+2011,Takeo,,0.82
+2012,Takeo,,0.87
+2013,Takeo,,0.91
+2014,Takeo,,1.0
+2015,Takeo,,1.0
+2016,Takeo,,1.1
+2017,Takeo,,1.16
+2018,Takeo,,1.22
+2019,Takeo,,1.32
+2014,Tboung Khmum,,1.1
+2015,Tboung Khmum,,1.2
+2016,Tboung Khmum,,1.29
+2017,Tboung Khmum,,1.35
+2018,Tboung Khmum,,1.34
+2019,Tboung Khmum,,1.51

@@ -1,7 +1,45 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Reference area,Degree of urbanisation,Value
+1993,Cambodia,,39.0
+1997,Cambodia,,36.1
+1999,Cambodia,,35.9
+2004,Cambodia,,34.68
+2007,Cambodia,,47.8
+2008,Cambodia,,29.9
+2009,Cambodia,,22.9
+2010,Cambodia,,21.1
+2011,Cambodia,,19.8
+2012,Cambodia,,18.9
+2013,Cambodia,,16.0
+2014,Cambodia,,13.5
+1993,Cambodia,Urban,36.62
+1997,Cambodia,Urban,29.9
+1999,Cambodia,Urban,25.2
+2004,Cambodia,Urban,24.73
+2007,Cambodia,Urban,41.0
+2008,Cambodia,Urban,30.5
+2009,Cambodia,Urban,19.3
+2010,Cambodia,Urban,17.0
+2011,Cambodia,Urban,22.5
+2012,Cambodia,Urban,14.5
+2013,Cambodia,Urban,13.9
+2014,Cambodia,Urban,12.8
+1993,Cambodia,Rural,43.12
+1997,Cambodia,Rural,40.1
+1999,Cambodia,Rural,40.1
+2004,Cambodia,Rural,39.18
+2007,Cambodia,Rural,52.3
+2008,Cambodia,Rural,31.9
+2009,Cambodia,Rural,24.6
+2010,Cambodia,Rural,22.7
+2011,Cambodia,Rural,20.7
+2012,Cambodia,Rural,20.0
+2013,Cambodia,Rural,15.7
+2014,Cambodia,Rural,12.5
+2007,Phnom Penh,,19.1
+2008,Phnom Penh,,13.4
+2009,Phnom Penh,,12.8
+2010,Phnom Penh,,12.4
+2011,Phnom Penh,,10.9
+2012,Phnom Penh,,16.25
+2013,Phnom Penh,,20.17
+2014,Phnom Penh,,18.7

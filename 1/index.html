@@ -11,7 +11,7 @@
 var opensdg = {
 
   // A base URL for asynchronous calls to SDG data.
-  remoteDataBaseUrl: '/open-sdg-simple-starter/en',
+  remoteDataBaseUrl: '/open-sdg-cambodia/en',
 
   chartConfigAlterations: [],
   // A hook which can be used to modify the configuration for Chart.js.
@@ -117,13 +117,13 @@ var translations = {
         
 
         <!--[if IE 9]>
-        <script src="/open-sdg-simple-starter/assets/js/lib/classList.js"></script>
+        <script src="/open-sdg-cambodia/assets/js/lib/classList.js"></script>
         <![endif]-->
 
         <!-- Favicons ================================================== -->
         <!-- 128x128 -->
-        <link rel="shortcut icon" type="image/ico" href="/open-sdg-simple-starter/assets/img/favicons/favicon.ico">
-        <link rel="icon" type="image/png" href="/open-sdg-simple-starter/assets/img/favicons/favicon.png"><!-- 192x192, as recommended for Android
+        <link rel="shortcut icon" type="image/ico" href="/open-sdg-cambodia/assets/img/favicons/favicon.ico">
+        <link rel="icon" type="image/png" href="/open-sdg-cambodia/assets/img/favicons/favicon.png"><!-- 192x192, as recommended for Android
         http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-Android
         -->
 
@@ -133,7 +133,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/open-sdg-simple-starter/assets/css/style.css?v=20210328175547">
+        <link rel="stylesheet" href="/open-sdg-cambodia/assets/css/style.css?v=20210328202133">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet" crossorigin="">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
@@ -154,9 +154,9 @@ var translations = {
 <div id="disclaimer">
   <div class="container">
   <div class="disclaimer-alert">
-    <strong class="phase-tag">Alpha</strong>
+    <strong class="phase-tag">EXAMPLE</strong>
     
-    This is a development website. We welcome your <a href="mailto:test@example.com">feedback</a>.
+    This site is an unofficial example for demonstrational purposes only.
   </div>
 </div>
 
@@ -166,16 +166,31 @@ var translations = {
   <div class="container">
 
     <div class="logo-and-mobile-widgets">
-      <a class="navbar-brand" href="/open-sdg-simple-starter/" id="home">
-    <img src="/open-sdg-simple-starter/assets/img/SDG_logo.png" alt="Sustainable Development Goals - 17 Goals to Transform our World" />
+      <a class="navbar-brand" href="/open-sdg-cambodia/" id="home">
+    <img src="/open-sdg-cambodia/assets/img/SDG_logo.png" alt="Sustainable Development Goals - 17 Goals to Transform our World" />
 </a>
       <div class="mobile-widgets">
-    <ul id='accessibility-nav' class='contrast-switcher'></ul></div>
+    <ul id='accessibility-nav' class='contrast-switcher'></ul><div class="language-toggle-mobile">
+        <div class="language-toggle-container">
+  
+  <div class="btn-group language-toggle-dropdown ">
+    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      <span class="language-globe-in-dropdown"><i class="fa fa-globe language-toggle-globe-dropdown"></i></span><span class="language-name">English</span>
+      <span class="language-abbreviation">en</span><i class="language-toggle-caret fa fa-chevron-down"></i></button>
+    <ul class="dropdown-menu"><li>
+            <a href="/open-sdg-cambodia/km/1/">
+              
+            </a>
+          </li></ul>
+  </div>
+</div>
+
+    </div></div>
     </div>
 
     <div class="search-and-desktop-widgets">
       <div id="search" class="menu-target">
-  <form action="/open-sdg-simple-starter/search">
+  <form action="/open-sdg-cambodia/search">
     <label class="sr-only" for="indicator_search">Search</label>
     <input type="text" name="q" id="indicator_search" title="Search" /><!--
     --><button aria-label="Search" id="search-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
@@ -183,7 +198,30 @@ var translations = {
 </div>
 
       <div class="navbar navbar-default widgets-without-menu">
-        <ul class="nav navbar-nav contrast-switcher"></ul>
+        <ul class="nav navbar-nav contrast-switcher"><li class="language-toggle-menu-header">
+            
+
+
+
+
+
+  <div class="language-toggle-container">
+  
+  <div class="btn-group language-toggle-dropdown ">
+    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      <span class="language-globe-in-dropdown"><i class="fa fa-globe language-toggle-globe-dropdown"></i></span><span class="language-name">English</span>
+      <span class="language-abbreviation">en</span><i class="language-toggle-caret fa fa-chevron-down"></i></button>
+    <ul class="dropdown-menu"><li>
+            <a href="/open-sdg-cambodia/km/1/">
+              
+            </a>
+          </li></ul>
+  </div>
+</div>
+
+
+
+        </li></ul>
       </div>
     </div>
 
@@ -194,17 +232,40 @@ var translations = {
         aria-haspopup="true">
         <button data-target="menu-mobile" aria-expanded="false">Menu</button>
         <ul class="nav navbar-nav menu-target contrast-switcher" id="menu-mobile"><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/goals">Goals</a>
+    <a href="/open-sdg-cambodia/goals">Goals</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/reporting-status">Reporting Status</a>
+    <a href="/open-sdg-cambodia/reporting-status">Reporting Status</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/about">About</a>
+    <a href="/open-sdg-cambodia/about">About</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/guidance">Guidance</a>
+    <a href="/open-sdg-cambodia/guidance">Guidance</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/faq">FAQ</a>
+    <a href="/open-sdg-cambodia/faq">FAQ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/news">Updates</a>
+    <a href="/open-sdg-cambodia/news">Updates</a>
+</li><li class="language-toggle-menu-header">
+    
+
+
+
+
+
+  <div class="language-toggle-container">
+  
+  <div class="btn-group language-toggle-dropdown ">
+    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      <span class="language-globe-in-dropdown"><i class="fa fa-globe language-toggle-globe-dropdown"></i></span><span class="language-name">English</span>
+      <span class="language-abbreviation">en</span><i class="language-toggle-caret fa fa-chevron-down"></i></button>
+    <ul class="dropdown-menu"><li>
+            <a href="/open-sdg-cambodia/km/1/">
+              
+            </a>
+          </li></ul>
+  </div>
+</div>
+
+
+
 </li>
 </ul>
 
@@ -214,7 +275,7 @@ var translations = {
         aria-haspopup="true">
         <button data-target="search-mobile" aria-expanded="false">Search</button>
         <div id="search-mobile" class="menu-target">
-  <form action="/open-sdg-simple-starter/search">
+  <form action="/open-sdg-cambodia/search">
     <label class="sr-only" for="indicator_search-mobile">Search</label>
     <input type="text" name="q" id="indicator_search-mobile" title="Search" /><!--
     --><button aria-label="Search" id="search-mobile-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
@@ -224,17 +285,17 @@ var translations = {
     </li>
 </ul>
       <ul class="nav navbar-nav menu-target " id="menu"><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/goals">Goals</a>
+    <a href="/open-sdg-cambodia/goals">Goals</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/reporting-status">Reporting Status</a>
+    <a href="/open-sdg-cambodia/reporting-status">Reporting Status</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/about">About</a>
+    <a href="/open-sdg-cambodia/about">About</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/guidance">Guidance</a>
+    <a href="/open-sdg-cambodia/guidance">Guidance</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/faq">FAQ</a>
+    <a href="/open-sdg-cambodia/faq">FAQ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/news">Updates</a>
+    <a href="/open-sdg-cambodia/news">Updates</a>
 </li>
 </ul>
 
@@ -251,8 +312,8 @@ var translations = {
 <div class="container">
   <ol class="breadcrumb">
   
-  <li><a href="/open-sdg-simple-starter/">Home</a></li>
-  <li><a href="/open-sdg-simple-starter/goals">Goals</a></li>
+  <li><a href="/open-sdg-cambodia/">Home</a></li>
+  <li><a href="/open-sdg-cambodia/goals">Goals</a></li>
   
   
 </ol>
@@ -289,38 +350,6 @@ var translations = {
       
       <div class="row no-gutters goal-target-and-indicators">
         <h3 class="goal-target">
-          <span class="target-number"><span class="sr-only">Target</span> 1.1</span>
-        </h3>
-        <span class="target-name">By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day</span>
-        
-
-          
-          
-          
-          
-          
-          
-          
-          
-
-          <div class="goal-indicator">
-            <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 1.1.1</span>
-            </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/1-1-1">Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural)</a></span>
-            <span class="sr-only">Indicator status</span>
-            <span class="status complete">
-              Reported online
-            </span>
-            
-
-          </div>
-        
-      </div>
-    
-      
-      <div class="row no-gutters goal-target-and-indicators">
-        <h3 class="goal-target">
           <span class="target-number"><span class="sr-only">Target</span> 1.2</span>
         </h3>
         <span class="target-name">By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</span>
@@ -339,10 +368,10 @@ var translations = {
             <h4>
               <span class="indicator-number"><span class="sr-only">Indicator</span> 1.2.1</span>
             </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/1-2-1">Proportion of population living below the national poverty line, by sex and age</a></span>
+            <span class="indicator-name"><a href="/open-sdg-cambodia/1-2-1">Proportion of population below national poverty line</a></span>
             <span class="sr-only">Indicator status</span>
-            <span class="status notstarted">
-              Exploring data sources
+            <span class="status complete">
+              Reported online
             </span>
             
 
@@ -362,10 +391,10 @@ var translations = {
             <h4>
               <span class="indicator-number"><span class="sr-only">Indicator</span> 1.2.2</span>
             </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/1-2-2">Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions</a></span>
+            <span class="indicator-name"><a href="/open-sdg-cambodia/1-2-2">Proportion of children living in poverty measured by multiple dimensions according to national definitions</a></span>
             <span class="sr-only">Indicator status</span>
-            <span class="status notstarted">
-              Exploring data sources
+            <span class="status complete">
+              Reported online
             </span>
             
 
@@ -394,10 +423,10 @@ var translations = {
             <h4>
               <span class="indicator-number"><span class="sr-only">Indicator</span> 1.3.1</span>
             </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/1-3-1">Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable</a></span>
+            <span class="indicator-name"><a href="/open-sdg-cambodia/1-3-1">Proportion of the poor and the vulnerable received social emergency relief services</a></span>
             <span class="sr-only">Indicator status</span>
-            <span class="status notstarted">
-              Exploring data sources
+            <span class="status complete">
+              Reported online
             </span>
             
 
@@ -426,244 +455,10 @@ var translations = {
             <h4>
               <span class="indicator-number"><span class="sr-only">Indicator</span> 1.4.1</span>
             </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/1-4-1">Proportion of population living in households with access to basic services</a></span>
+            <span class="indicator-name"><a href="/open-sdg-cambodia/1-4-1">Percentage of total members of registered community fisheries and forestry with tenure rights to fisheries and forestry resources management through effective community registration and development</a></span>
             <span class="sr-only">Indicator status</span>
-            <span class="status notstarted">
-              Exploring data sources
-            </span>
-            
-
-          </div>
-        
-
-          
-          
-          
-          
-          
-          
-          
-          
-
-          <div class="goal-indicator">
-            <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 1.4.2</span>
-            </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/1-4-2">Proportion of total adult population with secure tenure rights to land, with legally recognized documentation, and who perceive their rights to land as secure, by sex and by type of tenure</a></span>
-            <span class="sr-only">Indicator status</span>
-            <span class="status notstarted">
-              Exploring data sources
-            </span>
-            
-
-          </div>
-        
-      </div>
-    
-      
-      <div class="row no-gutters goal-target-and-indicators">
-        <h3 class="goal-target">
-          <span class="target-number"><span class="sr-only">Target</span> 1.5</span>
-        </h3>
-        <span class="target-name">By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters</span>
-        
-
-          
-          
-          
-          
-          
-          
-          
-          
-
-          <div class="goal-indicator">
-            <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 1.5.1</span>
-            </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/1-5-1">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</a></span>
-            <span class="sr-only">Indicator status</span>
-            <span class="status notstarted">
-              Exploring data sources
-            </span>
-            
-
-          </div>
-        
-
-          
-          
-          
-          
-          
-          
-          
-          
-
-          <div class="goal-indicator">
-            <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 1.5.2</span>
-            </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/1-5-2">Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)</a></span>
-            <span class="sr-only">Indicator status</span>
-            <span class="status notstarted">
-              Exploring data sources
-            </span>
-            
-
-          </div>
-        
-
-          
-          
-          
-          
-          
-          
-          
-          
-
-          <div class="goal-indicator">
-            <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 1.5.3</span>
-            </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/1-5-3">Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030</a></span>
-            <span class="sr-only">Indicator status</span>
-            <span class="status notstarted">
-              Exploring data sources
-            </span>
-            
-
-          </div>
-        
-
-          
-          
-          
-          
-          
-          
-          
-          
-
-          <div class="goal-indicator">
-            <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 1.5.4</span>
-            </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/1-5-4">Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies</a></span>
-            <span class="sr-only">Indicator status</span>
-            <span class="status notstarted">
-              Exploring data sources
-            </span>
-            
-
-          </div>
-        
-      </div>
-    
-      
-      <div class="row no-gutters goal-target-and-indicators">
-        <h3 class="goal-target">
-          <span class="target-number"><span class="sr-only">Target</span> 1.a</span>
-        </h3>
-        <span class="target-name">Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions</span>
-        
-
-          
-          
-          
-          
-          
-          
-          
-          
-
-          <div class="goal-indicator">
-            <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 1.a.1</span>
-            </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/1-a-1">Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes</a></span>
-            <span class="sr-only">Indicator status</span>
-            <span class="status notstarted">
-              Exploring data sources
-            </span>
-            
-
-          </div>
-        
-
-          
-          
-          
-          
-          
-          
-          
-          
-
-          <div class="goal-indicator">
-            <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 1.a.2</span>
-            </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/1-a-2">Proportion of total government spending on essential services (education, health and social protection)</a></span>
-            <span class="sr-only">Indicator status</span>
-            <span class="status notstarted">
-              Exploring data sources
-            </span>
-            
-
-          </div>
-        
-
-          
-          
-          
-          
-          
-          
-          
-          
-
-          <div class="goal-indicator">
-            <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 1.a.3</span>
-            </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/1-a-3">Sum of total grants and non-debt-creating inflows directly allocated to poverty reduction programmes as a proportion of GDP</a></span>
-            <span class="sr-only">Indicator status</span>
-            <span class="status notstarted">
-              Exploring data sources
-            </span>
-            
-
-          </div>
-        
-      </div>
-    
-      
-      <div class="row no-gutters goal-target-and-indicators">
-        <h3 class="goal-target">
-          <span class="target-number"><span class="sr-only">Target</span> 1.b</span>
-        </h3>
-        <span class="target-name">Create sound policy frameworks at the national, regional and international levels, based on pro-poor and gender-sensitive development strategies, to support accelerated investment in poverty eradication actions</span>
-        
-
-          
-          
-          
-          
-          
-          
-          
-          
-
-          <div class="goal-indicator">
-            <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 1.b.1</span>
-            </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/1-b-1">Proportion of government recurrent and capital spending to sectors that disproportionately benefit women, the poor and vulnerable groups</a></span>
-            <span class="sr-only">Indicator status</span>
-            <span class="status notstarted">
-              Exploring data sources
+            <span class="status complete">
+              Reported online
             </span>
             
 
@@ -698,7 +493,7 @@ var translations = {
                 
                 </li>
               <li>
-                <a href="/open-sdg-simple-starter/about/cookies-and-privacy/">Cookies</a>
+                <a href="/open-sdg-cambodia/about/cookies-and-privacy/">Cookies</a>
                 
                 </li>
               
@@ -735,12 +530,12 @@ var translations = {
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Search';</script>
 
-<script src='/open-sdg-simple-starter/assets/js/sdg.js?v=20210328175547'></script>
+<script src='/open-sdg-cambodia/assets/js/sdg.js?v=20210328202133'></script>
 
 
     
     
-    <script src="/open-sdg-simple-starter/assets/js/custom.js?v=20210328175547"></script><script>
+    <script src="/open-sdg-cambodia/assets/js/custom.js?v=20210328202133"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();

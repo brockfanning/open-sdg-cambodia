@@ -1,7 +1,102 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Degree of urbanisation,COMPOSITE_BREAKDOWN,Value
+1993,,,5.8
+1996,,,26.4
+1997,,,29.9
+1999,,,47.5
+2004,,,51.2
+2007,,,54.5
+2008,,,55.0
+2009,,,48.7
+2010,,,48.2
+2011,,,50.5
+2012,,,50.7
+2013,,,54.2
+2014,,,54.5
+2015,,,59.2
+2016,,,61.1
+2017,,,64.8
+2019,,,79.71
+2009,,Type of water source: Piped In Dwelling Or On Premises,15.0
+2010,,Type of water source: Piped In Dwelling Or On Premises,14.2
+2011,,Type of water source: Piped In Dwelling Or On Premises,16.2
+2012,,Type of water source: Piped In Dwelling Or On Premises,20.0
+2013,,Type of water source: Piped In Dwelling Or On Premises,22.5
+2014,,Type of water source: Piped In Dwelling Or On Premises,21.7
+2015,,Type of water source: Piped In Dwelling Or On Premises,24.1
+2016,,Type of water source: Piped In Dwelling Or On Premises,29.5
+2017,,Type of water source: Piped In Dwelling Or On Premises,29.2
+2019,,Type of water source: Piped In Dwelling Or On Premises,29.55
+2009,,Type of water source: Public Tap,0.5
+2010,,Type of water source: Public Tap,0.1
+2011,,Type of water source: Public Tap,0.1
+2012,,Type of water source: Public Tap,0.1
+2013,,Type of water source: Public Tap,0.0
+2014,,Type of water source: Public Tap,0.1
+2015,,Type of water source: Public Tap,0.6
+2016,,Type of water source: Public Tap,0.3
+2017,,Type of water source: Public Tap,1.0
+2019,,Type of water source: Public Tap,0.95
+2009,,Type of water source: Tube Piped Well Or Borehole,26.0
+2010,,Type of water source: Tube Piped Well Or Borehole,26.2
+2011,,Type of water source: Tube Piped Well Or Borehole,26.5
+2012,,Type of water source: Tube Piped Well Or Borehole,24.9
+2013,,Type of water source: Tube Piped Well Or Borehole,26.7
+2014,,Type of water source: Tube Piped Well Or Borehole,25.2
+2015,,Type of water source: Tube Piped Well Or Borehole,28.0
+2016,,Type of water source: Tube Piped Well Or Borehole,26.0
+2017,,Type of water source: Tube Piped Well Or Borehole,29.0
+2019,,Type of water source: Tube Piped Well Or Borehole,30.1
+2009,,Type of water source: Protected Dug Well,6.9
+2010,,Type of water source: Protected Dug Well,7.4
+2011,,Type of water source: Protected Dug Well,7.5
+2012,,Type of water source: Protected Dug Well,5.5
+2013,,Type of water source: Protected Dug Well,4.8
+2014,,Type of water source: Protected Dug Well,7.0
+2015,,Type of water source: Protected Dug Well,6.4
+2016,,Type of water source: Protected Dug Well,4.8
+2017,,Type of water source: Protected Dug Well,5.3
+2019,,Type of water source: Protected Dug Well,4.16
+2009,,Type of water source: Improved Rainwater Collection,0.3
+2010,,Type of water source: Improved Rainwater Collection,0.3
+2011,,Type of water source: Improved Rainwater Collection,0.2
+2012,,Type of water source: Improved Rainwater Collection,0.3
+2013,,Type of water source: Improved Rainwater Collection,0.1
+2014,,Type of water source: Improved Rainwater Collection,0.5
+2015,,Type of water source: Improved Rainwater Collection,0.1
+2016,,Type of water source: Improved Rainwater Collection,0.5
+2017,,Type of water source: Improved Rainwater Collection,0.3
+2019,,Type of water source: Improved Rainwater Collection,5.81
+1993,Urban,,23.5
+1996,Urban,,41.9
+1997,Urban,,52.9
+1999,Urban,,57.2
+2004,Urban,,61.6
+2007,Urban,,61.5
+2008,Urban,,82.3
+2009,Urban,,78.2
+2010,Urban,,79.0
+2011,Urban,,81.3
+2012,Urban,,81.5
+2013,Urban,,83.1
+2014,Urban,,80.7
+2015,Urban,,84.2
+2016,Urban,,88.8
+2017,Urban,,87.7
+2019,Urban,,88.01
+1993,Rural,,2.9
+1996,Rural,,23.4
+1997,Rural,,24.5
+1999,Rural,,45.4
+2004,Rural,,46.6
+2007,Rural,,48.5
+2008,Rural,,49.0
+2009,Rural,,42.2
+2010,Rural,,41.1
+2011,Rural,,43.2
+2012,Rural,,41.9
+2013,Rural,,46.6
+2014,Rural,,47.4
+2015,Rural,,52.4
+2016,Rural,,53.9
+2017,Rural,,58.7
+2019,Rural,,74.69
