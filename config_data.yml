@@ -49,6 +49,15 @@ inputs:
     source: https://nsiws-stable-camstat-live.officialstatistics.org/rest/data/KH_NIS,DF_SDG_KH,1.2/A..............
     dsd: https://nsiws-stable-camstat-live.officialstatistics.org/rest/dataflow/KH_NIS/DF_SDG_KH/1.2?references=all&detail=referencepartial
     import_codes: true
+    drop_singleton_dimensions: false
+    drop_dimensions:
+      - NATURE
+      - OBS_STATUS
+      - REPORTING_TYPE
+      - SOURCE_DETAIL
+      - TIME_DETAIL
+      - UNIT_MULT
+      - FREQ
     indicator_id_xpath: .//Name[@lang='en']
     indicator_name_xpath: .//Name[@lang='en']
     request_params:
