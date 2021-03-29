@@ -1,52 +1,52 @@
-Year,Degree of urbanisation,Value
-1993,,9.5
-1996,,11.9
-1997,,9.0
-1999,,10.6
-2004,,14.177744
-2007,,20.2
-2008,,24.2
-2009,,25.6
-2010,,32.5
-2011,,37.4
-2012,,42.3
-2013,,50.948558
-2014,,59.8
-2015,,67.4
-2016,,80.928907
-2017,,85.9
-2019,,85.77
-1993,Urban,30.2
-1996,Urban,29.3
-1997,Urban,22.3
-1999,Urban,24.4
-2004,Urban,44.014684
-2007,Urban,56.0
-2008,Urban,62.1
-2009,Urban,76.7
-2010,Urban,78.1
-2011,Urban,80.9
-2012,Urban,87.0
-2013,Urban,94.296733
-2014,Urban,91.8
-2015,Urban,94.3
-2016,Urban,93.366283
-2017,Urban,96.6
-2019,Urban,96.78
-1993,Rural,3.0
-1996,Rural,5.3
-1997,Rural,2.2
-1999,Rural,2.4
-2004,Rural,2.267038
-2007,Rural,10.3
-2008,Rural,11.3
-2009,Rural,11.5
-2010,Rural,18.8
-2011,Rural,24.0
-2012,Rural,26.8
-2013,Rural,37.911397
-2014,Rural,48.3
-2015,Rural,63.3
-2016,Rural,76.448811
-2017,Rural,82.4
-2019,Rural,79.09
+Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Value
+1993,7.1.1 Proportion of population with access to electricity,Cambodia,,Percent,9.5
+1996,7.1.1 Proportion of population with access to electricity,Cambodia,,Percent,11.9
+1997,7.1.1 Proportion of population with access to electricity,Cambodia,,Percent,9.0
+1999,7.1.1 Proportion of population with access to electricity,Cambodia,,Percent,10.6
+2004,7.1.1 Proportion of population with access to electricity,Cambodia,,Percent,14.177744
+2007,7.1.1 Proportion of population with access to electricity,Cambodia,,Percent,20.2
+2008,7.1.1 Proportion of population with access to electricity,Cambodia,,Percent,24.2
+2009,7.1.1 Proportion of population with access to electricity,Cambodia,,Percent,25.6
+2010,7.1.1 Proportion of population with access to electricity,Cambodia,,Percent,32.5
+2011,7.1.1 Proportion of population with access to electricity,Cambodia,,Percent,37.4
+2012,7.1.1 Proportion of population with access to electricity,Cambodia,,Percent,42.3
+2013,7.1.1 Proportion of population with access to electricity,Cambodia,,Percent,50.948558
+2014,7.1.1 Proportion of population with access to electricity,Cambodia,,Percent,59.8
+2015,7.1.1 Proportion of population with access to electricity,Cambodia,,Percent,67.4
+2016,7.1.1 Proportion of population with access to electricity,Cambodia,,Percent,80.928907
+2017,7.1.1 Proportion of population with access to electricity,Cambodia,,Percent,85.9
+2019,7.1.1 Proportion of population with access to electricity,Cambodia,,Percent,85.77
+1993,7.1.1 Proportion of population with access to electricity,Cambodia,Urban,Percent,30.2
+1996,7.1.1 Proportion of population with access to electricity,Cambodia,Urban,Percent,29.3
+1997,7.1.1 Proportion of population with access to electricity,Cambodia,Urban,Percent,22.3
+1999,7.1.1 Proportion of population with access to electricity,Cambodia,Urban,Percent,24.4
+2004,7.1.1 Proportion of population with access to electricity,Cambodia,Urban,Percent,44.014684
+2007,7.1.1 Proportion of population with access to electricity,Cambodia,Urban,Percent,56.0
+2008,7.1.1 Proportion of population with access to electricity,Cambodia,Urban,Percent,62.1
+2009,7.1.1 Proportion of population with access to electricity,Cambodia,Urban,Percent,76.7
+2010,7.1.1 Proportion of population with access to electricity,Cambodia,Urban,Percent,78.1
+2011,7.1.1 Proportion of population with access to electricity,Cambodia,Urban,Percent,80.9
+2012,7.1.1 Proportion of population with access to electricity,Cambodia,Urban,Percent,87.0
+2013,7.1.1 Proportion of population with access to electricity,Cambodia,Urban,Percent,94.296733
+2014,7.1.1 Proportion of population with access to electricity,Cambodia,Urban,Percent,91.8
+2015,7.1.1 Proportion of population with access to electricity,Cambodia,Urban,Percent,94.3
+2016,7.1.1 Proportion of population with access to electricity,Cambodia,Urban,Percent,93.366283
+2017,7.1.1 Proportion of population with access to electricity,Cambodia,Urban,Percent,96.6
+2019,7.1.1 Proportion of population with access to electricity,Cambodia,Urban,Percent,96.78
+1993,7.1.1 Proportion of population with access to electricity,Cambodia,Rural,Percent,3.0
+1996,7.1.1 Proportion of population with access to electricity,Cambodia,Rural,Percent,5.3
+1997,7.1.1 Proportion of population with access to electricity,Cambodia,Rural,Percent,2.2
+1999,7.1.1 Proportion of population with access to electricity,Cambodia,Rural,Percent,2.4
+2004,7.1.1 Proportion of population with access to electricity,Cambodia,Rural,Percent,2.267038
+2007,7.1.1 Proportion of population with access to electricity,Cambodia,Rural,Percent,10.3
+2008,7.1.1 Proportion of population with access to electricity,Cambodia,Rural,Percent,11.3
+2009,7.1.1 Proportion of population with access to electricity,Cambodia,Rural,Percent,11.5
+2010,7.1.1 Proportion of population with access to electricity,Cambodia,Rural,Percent,18.8
+2011,7.1.1 Proportion of population with access to electricity,Cambodia,Rural,Percent,24.0
+2012,7.1.1 Proportion of population with access to electricity,Cambodia,Rural,Percent,26.8
+2013,7.1.1 Proportion of population with access to electricity,Cambodia,Rural,Percent,37.911397
+2014,7.1.1 Proportion of population with access to electricity,Cambodia,Rural,Percent,48.3
+2015,7.1.1 Proportion of population with access to electricity,Cambodia,Rural,Percent,63.3
+2016,7.1.1 Proportion of population with access to electricity,Cambodia,Rural,Percent,76.448811
+2017,7.1.1 Proportion of population with access to electricity,Cambodia,Rural,Percent,82.4
+2019,7.1.1 Proportion of population with access to electricity,Cambodia,Rural,Percent,79.09

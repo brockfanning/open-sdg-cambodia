@@ -1,110 +1,110 @@
-Year,Reference area,Sex,Degree of urbanisation,Income or wealth quantile,Time period details,Value
-2000,Cambodia,Female,,,2014,45.9
-2005,Cambodia,Female,,,2014,35.8
-2010,Cambodia,Female,,,2014,38.2
-2014,Cambodia,Female,,,2014,31.9
-2000,Cambodia,Male,,,2014,43.3
-2005,Cambodia,Male,,,2014,38.8
-2010,Cambodia,Male,,,2014,41.6
-2014,Cambodia,Male,,,2014,32.9
-2000,Cambodia,,,,2014,44.6
-2005,Cambodia,,,,2014,37.3
-2010,Cambodia,,,,2014,39.9
-2014,Cambodia,,,,2014,32.4
-2005,Cambodia,,,Quintile 1 (poorest),2014,46.7
-2010,Cambodia,,,Quintile 1 (poorest),2014,51.1
-2014,Cambodia,,,Quintile 1 (poorest),2014,41.9
-2005,Cambodia,,,Quintile 2,2014,42.5
-2010,Cambodia,,,Quintile 2,2014,44.4
-2014,Cambodia,,,Quintile 2,2014,37.1
-2005,Cambodia,,,Quintile 3,2014,36.5
-2010,Cambodia,,,Quintile 3,2014,39.3
-2014,Cambodia,,,Quintile 3,2014,31.7
-2005,Cambodia,,,Quintile 4,2014,35.5
-2010,Cambodia,,,Quintile 4,2014,34.2
-2014,Cambodia,,,Quintile 4,2014,29.1
-2005,Cambodia,,,Quintile 5 (richest),2014,19.4
-2010,Cambodia,,,Quintile 5 (richest),2014,23.1
-2014,Cambodia,,,Quintile 5 (richest),2014,18.5
-2000,Cambodia,,Urban,,2014,38.1
-2005,Cambodia,,Urban,,2014,30.5
-2010,Cambodia,,Urban,,2014,27.5
-2014,Cambodia,,Urban,,2014,23.7
-2000,Cambodia,,Rural,,2014,45.7
-2005,Cambodia,,Rural,,2014,38.3
-2010,Cambodia,,Rural,,2014,42.2
-2014,Cambodia,,Rural,,2014,33.8
-2000,Banteay Meanchey,,,,2014,28.9
-2005,Banteay Meanchey,,,,2014,34.1
-2010,Banteay Meanchey,,,,2014,33.4
-2014,Banteay Meanchey,,,,2014,28.6
-2000,Kampong Cham,,,,2014,48.2
-2005,Kampong Cham,,,,2014,37.2
-2010,Kampong Cham,,,,2014,46.9
-2014,Kampong Cham,,,,2014,33.5
-2000,Kampong Chhnang,,,,2014,45.9
-2005,Kampong Chhnang,,,,2014,37.3
-2010,Kampong Chhnang,,,,2014,40.3
-2014,Kampong Chhnang,,,,2014,42.8
-2000,Kampong Speu,,,,2014,44.5
-2005,Kampong Speu,,,,2014,36.6
-2010,Kampong Speu,,,,2014,42.1
-2014,Kampong Speu,,,,2014,40.5
-2000,Kampong Thom,,,,2014,47.2
-2005,Kampong Thom,,,,2014,41.1
-2010,Kampong Thom,,,,2014,49.9
-2014,Kampong Thom,,,,2014,36.4
-2000,Kandal,,,,2014,46.2
-2005,Kandal,,,,2014,26.8
-2010,Kandal,,,,2014,34.9
-2014,Kandal,,,,2014,28.1
-2000,Koh Kong,,,,2000,55.0
-2005,Kratie,,,,2014,37.1
-2010,Kratie,,,,2014,47.6
-2014,Kratie,,,,2014,38.4
-2005,Oddar Meanchey,,,,2014,47.3
-2010,Oddar Meanchey,,,,2014,39.6
-2014,Oddar Meanchey,,,,2014,36.3
-2000,Phnom Penh,,,,2014,22.6
-2005,Phnom Penh,,,,2014,22.3
-2010,Phnom Penh,,,,2014,25.1
-2014,Phnom Penh,,,,2014,17.9
-2000,Prey Veng,,,,2014,51.2
-2005,Prey Veng,,,,2014,38.3
-2010,Prey Veng,,,,2014,34.6
-2014,Prey Veng,,,,2014,32.7
-2000,Pursat,,,,2014,46.3
-2005,Pursat,,,,2014,61.6
-2010,Pursat,,,,2014,44.8
-2014,Pursat,,,,2014,38.8
-2005,Siemreap,,,,2014,53.3
-2010,Siemreap,,,,2014,50.3
-2014,Siemreap,,,,2014,35.9
-2000,Svay Rieng,,,,2014,51.3
-2005,Svay Rieng,,,,2014,35.4
-2010,Svay Rieng,,,,2014,31.2
-2014,Svay Rieng,,,,2014,32.8
-2000,Takeo,,,,2014,42.1
-2005,Takeo,,,,2014,38.5
-2010,Takeo,,,,2014,41.3
-2014,Takeo,,,,2014,30.7
-2000,Battambang and Pailin,,,,2014,36.3
-2005,Battambang and Pailin,,,,2014,36.2
-2010,Battambang and Pailin,,,,2014,26.5
-2014,Battambang and Pailin,,,,2014,24.9
-2000,"Kampot, Preah Sihanouk and Kep",,,,2000,43.4
-2000,"Kratie, Preah Vihear and Stung Treng",,,,2000,51.0
-2000,Mondul Kiri and Ratanak Kiri,,,,2014,55.0
-2005,Mondul Kiri and Ratanak Kiri,,,,2014,54.0
-2010,Mondul Kiri and Ratanak Kiri,,,,2014,54.9
-2014,Mondul Kiri and Ratanak Kiri,,,,2014,39.8
-2000,Otdar Meanchey and Siem Reap,,,,2000,50.7
-2005,Kampot and Kep,,,,2014,28.2
-2010,Kampot and Kep,,,,2014,43.4
-2014,Kampot and Kep,,,,2014,25.2
-2005,Koh Kong and Preah Sihanouk,,,,2014,36.8
-2010,Koh Kong and Preah Sihanouk,,,,2014,41.8
-2014,Koh Kong and Preah Sihanouk,,,,2014,33.4
-2005,Preah Vihear and Stung Treng,,,,2014,42.0
-2010,Preah Vihear and Stung Treng,,,,2014,56.4
-2014,Preah Vihear and Stung Treng,,,,2014,44.3
+Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,UNIT_MEASURE,Value
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,Female,under 5 years old,,,Percent,45.9
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,Female,under 5 years old,,,Percent,35.8
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,Female,under 5 years old,,,Percent,38.2
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,Female,under 5 years old,,,Percent,31.9
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,Male,under 5 years old,,,Percent,43.3
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,Male,under 5 years old,,,Percent,38.8
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,Male,under 5 years old,,,Percent,41.6
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,Male,under 5 years old,,,Percent,32.9
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,,,Percent,44.6
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,,,Percent,37.3
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,,,Percent,39.9
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,,,Percent,32.4
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,,Quintile 1 (poorest),Percent,46.7
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,,Quintile 1 (poorest),Percent,51.1
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,,Quintile 1 (poorest),Percent,41.9
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,,Quintile 2,Percent,42.5
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,,Quintile 2,Percent,44.4
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,,Quintile 2,Percent,37.1
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,,Quintile 3,Percent,36.5
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,,Quintile 3,Percent,39.3
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,,Quintile 3,Percent,31.7
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,,Quintile 4,Percent,35.5
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,,Quintile 4,Percent,34.2
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,,Quintile 4,Percent,29.1
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,,Quintile 5 (richest),Percent,19.4
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,,Quintile 5 (richest),Percent,23.1
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,,Quintile 5 (richest),Percent,18.5
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,Urban,,Percent,38.1
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,Urban,,Percent,30.5
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,Urban,,Percent,27.5
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,Urban,,Percent,23.7
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,Rural,,Percent,45.7
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,Rural,,Percent,38.3
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,Rural,,Percent,42.2
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Cambodia,,under 5 years old,Rural,,Percent,33.8
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Banteay Meanchey,,under 5 years old,,,Percent,28.9
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Banteay Meanchey,,under 5 years old,,,Percent,34.1
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Banteay Meanchey,,under 5 years old,,,Percent,33.4
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Banteay Meanchey,,under 5 years old,,,Percent,28.6
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kampong Cham,,under 5 years old,,,Percent,48.2
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kampong Cham,,under 5 years old,,,Percent,37.2
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kampong Cham,,under 5 years old,,,Percent,46.9
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kampong Cham,,under 5 years old,,,Percent,33.5
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kampong Chhnang,,under 5 years old,,,Percent,45.9
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kampong Chhnang,,under 5 years old,,,Percent,37.3
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kampong Chhnang,,under 5 years old,,,Percent,40.3
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kampong Chhnang,,under 5 years old,,,Percent,42.8
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kampong Speu,,under 5 years old,,,Percent,44.5
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kampong Speu,,under 5 years old,,,Percent,36.6
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kampong Speu,,under 5 years old,,,Percent,42.1
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kampong Speu,,under 5 years old,,,Percent,40.5
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kampong Thom,,under 5 years old,,,Percent,47.2
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kampong Thom,,under 5 years old,,,Percent,41.1
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kampong Thom,,under 5 years old,,,Percent,49.9
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kampong Thom,,under 5 years old,,,Percent,36.4
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kandal,,under 5 years old,,,Percent,46.2
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kandal,,under 5 years old,,,Percent,26.8
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kandal,,under 5 years old,,,Percent,34.9
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kandal,,under 5 years old,,,Percent,28.1
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Koh Kong,,under 5 years old,,,Percent,55.0
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kratie,,under 5 years old,,,Percent,37.1
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kratie,,under 5 years old,,,Percent,47.6
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kratie,,under 5 years old,,,Percent,38.4
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Oddar Meanchey,,under 5 years old,,,Percent,47.3
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Oddar Meanchey,,under 5 years old,,,Percent,39.6
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Oddar Meanchey,,under 5 years old,,,Percent,36.3
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Phnom Penh,,under 5 years old,,,Percent,22.6
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Phnom Penh,,under 5 years old,,,Percent,22.3
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Phnom Penh,,under 5 years old,,,Percent,25.1
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Phnom Penh,,under 5 years old,,,Percent,17.9
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Prey Veng,,under 5 years old,,,Percent,51.2
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Prey Veng,,under 5 years old,,,Percent,38.3
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Prey Veng,,under 5 years old,,,Percent,34.6
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Prey Veng,,under 5 years old,,,Percent,32.7
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Pursat,,under 5 years old,,,Percent,46.3
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Pursat,,under 5 years old,,,Percent,61.6
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Pursat,,under 5 years old,,,Percent,44.8
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Pursat,,under 5 years old,,,Percent,38.8
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Siemreap,,under 5 years old,,,Percent,53.3
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Siemreap,,under 5 years old,,,Percent,50.3
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Siemreap,,under 5 years old,,,Percent,35.9
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Svay Rieng,,under 5 years old,,,Percent,51.3
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Svay Rieng,,under 5 years old,,,Percent,35.4
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Svay Rieng,,under 5 years old,,,Percent,31.2
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Svay Rieng,,under 5 years old,,,Percent,32.8
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Takeo,,under 5 years old,,,Percent,42.1
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Takeo,,under 5 years old,,,Percent,38.5
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Takeo,,under 5 years old,,,Percent,41.3
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Takeo,,under 5 years old,,,Percent,30.7
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Battambang and Pailin,,under 5 years old,,,Percent,36.3
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Battambang and Pailin,,under 5 years old,,,Percent,36.2
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Battambang and Pailin,,under 5 years old,,,Percent,26.5
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Battambang and Pailin,,under 5 years old,,,Percent,24.9
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,"Kampot, Preah Sihanouk and Kep",,under 5 years old,,,Percent,43.4
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,"Kratie, Preah Vihear and Stung Treng",,under 5 years old,,,Percent,51.0
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Mondul Kiri and Ratanak Kiri,,under 5 years old,,,Percent,55.0
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Mondul Kiri and Ratanak Kiri,,under 5 years old,,,Percent,54.0
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Mondul Kiri and Ratanak Kiri,,under 5 years old,,,Percent,54.9
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Mondul Kiri and Ratanak Kiri,,under 5 years old,,,Percent,39.8
+2000,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Otdar Meanchey and Siem Reap,,under 5 years old,,,Percent,50.7
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kampot and Kep,,under 5 years old,,,Percent,28.2
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kampot and Kep,,under 5 years old,,,Percent,43.4
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Kampot and Kep,,under 5 years old,,,Percent,25.2
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Koh Kong and Preah Sihanouk,,under 5 years old,,,Percent,36.8
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Koh Kong and Preah Sihanouk,,under 5 years old,,,Percent,41.8
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Koh Kong and Preah Sihanouk,,under 5 years old,,,Percent,33.4
+2005,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Preah Vihear and Stung Treng,,under 5 years old,,,Percent,42.0
+2010,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Preah Vihear and Stung Treng,,under 5 years old,,,Percent,56.4
+2014,2.2.1 Percent of children under 5 years old who are moderately or severely stunted,Preah Vihear and Stung Treng,,under 5 years old,,,Percent,44.3

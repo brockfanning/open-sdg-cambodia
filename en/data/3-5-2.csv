@@ -1,7 +1,7 @@
-Year,Value
-2015,2
-2016,4
-2017,6
-2018,10
-2019,15
-2020,20
+Year,SERIES,Reference area,UNIT_MEASURE,Value
+2015,3.5.2 Percentage of adult population with depression received treatment,Cambodia,Percent,2
+2016,3.5.2 Percentage of adult population with depression received treatment,Cambodia,Percent,4
+2017,3.5.2 Percentage of adult population with depression received treatment,Cambodia,Percent,6
+2018,3.5.2 Percentage of adult population with depression received treatment,Cambodia,Percent,10
+2019,3.5.2 Percentage of adult population with depression received treatment,Cambodia,Percent,15
+2020,3.5.2 Percentage of adult population with depression received treatment,Cambodia,Percent,20

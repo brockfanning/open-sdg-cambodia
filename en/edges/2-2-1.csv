@@ -1,5 +1,5 @@
 From,To
-Reference area,Time period details
-Time period details,Sex
-Time period details,Degree of urbanisation
-Time period details,Income or wealth quantile
+Reference area,Age
+Age,Sex
+Age,Degree of urbanisation
+Age,Income or wealth quantile

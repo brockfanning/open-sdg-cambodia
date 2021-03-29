@@ -1,7 +1,7 @@
-Year,Value
-2015,2.0
-2016,1.85
-2017,1.65
-2018,1.45
-2019,1.25
-2020,1.05
+Year,SERIES,Reference area,UNIT_MEASURE,Value
+2015,3.4.3 Malaria incidence,Cambodia,"Per 1,000 population",2.0
+2016,3.4.3 Malaria incidence,Cambodia,"Per 1,000 population",1.85
+2017,3.4.3 Malaria incidence,Cambodia,"Per 1,000 population",1.65
+2018,3.4.3 Malaria incidence,Cambodia,"Per 1,000 population",1.45
+2019,3.4.3 Malaria incidence,Cambodia,"Per 1,000 population",1.25
+2020,3.4.3 Malaria incidence,Cambodia,"Per 1,000 population",1.05

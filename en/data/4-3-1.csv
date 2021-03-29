@@ -1,13 +1,13 @@
-Year,Sex,Value
-2015,,12.4
-2016,,10.9
-2017,,10.5
-2018,,11.6
-2019,,12.7
-2020,,13.8
-2018,Female,11.3
-2019,Female,11.6
-2020,Female,12.0
-2018,Male,12.2
-2019,Male,14.3
-2020,Male,15.5
+Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,Value
+2015,4.3.1 Gross enrolment rate in tertiary education (aged 18-21 years) by sex,Cambodia,,18 to 21 years old,Percent,12.4
+2016,4.3.1 Gross enrolment rate in tertiary education (aged 18-21 years) by sex,Cambodia,,18 to 21 years old,Percent,10.9
+2017,4.3.1 Gross enrolment rate in tertiary education (aged 18-21 years) by sex,Cambodia,,18 to 21 years old,Percent,10.5
+2018,4.3.1 Gross enrolment rate in tertiary education (aged 18-21 years) by sex,Cambodia,,18 to 21 years old,Percent,11.6
+2019,4.3.1 Gross enrolment rate in tertiary education (aged 18-21 years) by sex,Cambodia,,18 to 21 years old,Percent,12.7
+2020,4.3.1 Gross enrolment rate in tertiary education (aged 18-21 years) by sex,Cambodia,,18 to 21 years old,Percent,13.8
+2018,4.3.1 Gross enrolment rate in tertiary education (aged 18-21 years) by sex,Cambodia,Female,18 to 21 years old,Percent,11.3
+2019,4.3.1 Gross enrolment rate in tertiary education (aged 18-21 years) by sex,Cambodia,Female,18 to 21 years old,Percent,11.6
+2020,4.3.1 Gross enrolment rate in tertiary education (aged 18-21 years) by sex,Cambodia,Female,18 to 21 years old,Percent,12.0
+2018,4.3.1 Gross enrolment rate in tertiary education (aged 18-21 years) by sex,Cambodia,Male,18 to 21 years old,Percent,12.2
+2019,4.3.1 Gross enrolment rate in tertiary education (aged 18-21 years) by sex,Cambodia,Male,18 to 21 years old,Percent,14.3
+2020,4.3.1 Gross enrolment rate in tertiary education (aged 18-21 years) by sex,Cambodia,Male,18 to 21 years old,Percent,15.5
