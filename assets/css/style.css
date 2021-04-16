@@ -35,9 +35,9 @@ ul {
   direction: rtl; }
 
 .language-km #page-content,
-.language-km #toolbar,
-.language-km #national,
-.language-km #global {
+.language-km #indicator-sidebar,
+.language-km #indicator-main,
+.language-km #main-content {
   line-break: anywhere; }
 
 .js #headlineTable {

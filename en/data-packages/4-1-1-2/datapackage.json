@@ -1,0 +1,101 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Cambodia",
+                "Banteay Meanchey",
+                "Battambang",
+                "Kampong Cham",
+                "Kampong Chhnang",
+                "Kampong Speu",
+                "Kampong Thom",
+                "Kampot",
+                "Kandal",
+                "Koh Kong",
+                "Kratie",
+                "Mondul Kiri",
+                "Phnom Penh",
+                "Preah Vihear",
+                "Prey Veng",
+                "Pursat",
+                "Ratanak Kiri",
+                "Siemreap",
+                "Preah Sihanouk",
+                "Stung Treng",
+                "Svay Rieng",
+                "Takeo",
+                "Oddar Meanchey",
+                "Kep",
+                "Pailin",
+                "Tboung Khmum"
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Rural",
+                "Remote Area",
+                "Urban"
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-1-1-2",
+  "title": "4-1-1-2"
+}
