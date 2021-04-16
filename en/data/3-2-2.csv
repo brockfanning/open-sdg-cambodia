@@ -1,20 +1,20 @@
 Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Value
-2000,3.2.2 Proportion of births attended by skilled health personnel,Cambodia,,Percent,31.8
-2005,3.2.2 Proportion of births attended by skilled health personnel,Cambodia,,Percent,43.8
-2010,3.2.2 Proportion of births attended by skilled health personnel,Cambodia,,Percent,71.0
-2014,3.2.2 Proportion of births attended by skilled health personnel,Cambodia,,Percent,89.0
-2015,3.2.2 Proportion of births attended by skilled health personnel,Cambodia,,Percent,89.0
-2016,3.2.2 Proportion of births attended by skilled health personnel,Cambodia,,Percent,85.0
-2017,3.2.2 Proportion of births attended by skilled health personnel,Cambodia,,Percent,89.0
-2018,3.2.2 Proportion of births attended by skilled health personnel,Cambodia,,Percent,87.3
-2000,3.2.2 Proportion of births attended by skilled health personnel,Cambodia,Urban,Percent,57.2
-2005,3.2.2 Proportion of births attended by skilled health personnel,Cambodia,Urban,Percent,70.1
-2010,3.2.2 Proportion of births attended by skilled health personnel,Cambodia,Urban,Percent,94.7
-2014,3.2.2 Proportion of births attended by skilled health personnel,Cambodia,Urban,Percent,97.8
-2000,3.2.2 Proportion of births attended by skilled health personnel,Cambodia,Rural,Percent,28.0
-2005,3.2.2 Proportion of births attended by skilled health personnel,Cambodia,Rural,Percent,39.4
-2010,3.2.2 Proportion of births attended by skilled health personnel,Cambodia,Rural,Percent,66.6
-2014,3.2.2 Proportion of births attended by skilled health personnel,Cambodia,Rural,Percent,87.6
+2000,3.2.2 Proportion of births attended by skilled health personnel,,,Percent,31.8
+2005,3.2.2 Proportion of births attended by skilled health personnel,,,Percent,43.8
+2010,3.2.2 Proportion of births attended by skilled health personnel,,,Percent,71.0
+2014,3.2.2 Proportion of births attended by skilled health personnel,,,Percent,89.0
+2015,3.2.2 Proportion of births attended by skilled health personnel,,,Percent,89.0
+2016,3.2.2 Proportion of births attended by skilled health personnel,,,Percent,85.0
+2017,3.2.2 Proportion of births attended by skilled health personnel,,,Percent,89.0
+2018,3.2.2 Proportion of births attended by skilled health personnel,,,Percent,87.3
+2000,3.2.2 Proportion of births attended by skilled health personnel,,Urban,Percent,57.2
+2005,3.2.2 Proportion of births attended by skilled health personnel,,Urban,Percent,70.1
+2010,3.2.2 Proportion of births attended by skilled health personnel,,Urban,Percent,94.7
+2014,3.2.2 Proportion of births attended by skilled health personnel,,Urban,Percent,97.8
+2000,3.2.2 Proportion of births attended by skilled health personnel,,Rural,Percent,28.0
+2005,3.2.2 Proportion of births attended by skilled health personnel,,Rural,Percent,39.4
+2010,3.2.2 Proportion of births attended by skilled health personnel,,Rural,Percent,66.6
+2014,3.2.2 Proportion of births attended by skilled health personnel,,Rural,Percent,87.6
 2000,3.2.2 Proportion of births attended by skilled health personnel,Banteay Meanchey,,Percent,36.6
 2005,3.2.2 Proportion of births attended by skilled health personnel,Banteay Meanchey,,Percent,33.1
 2010,3.2.2 Proportion of births attended by skilled health personnel,Banteay Meanchey,,Percent,69.0

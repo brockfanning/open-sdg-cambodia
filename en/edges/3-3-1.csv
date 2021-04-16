@@ -1,5 +1,5 @@
 From,To
-Reference area,Age
+Age,Reference area
 Age,Sex
 Age,Degree of urbanisation
 Age,Income or wealth quantile

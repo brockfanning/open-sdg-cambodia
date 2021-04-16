@@ -23,7 +23,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH",
                 "KH12",
                 ""
               ]

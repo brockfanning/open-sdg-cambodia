@@ -1,10 +1,10 @@
 Year,SERIES,Reference area,Sex,UNIT_MEASURE,Value
-2000,3.2.1 Maternal mortality ratio (MMR),Cambodia,Female,"Per 100,000 live births",437.0
-2005,3.2.1 Maternal mortality ratio (MMR),Cambodia,Female,"Per 100,000 live births",472.0
-2008,3.2.1 Maternal mortality ratio (MMR),Cambodia,Female,"Per 100,000 live births",460.84
-2010,3.2.1 Maternal mortality ratio (MMR),Cambodia,Female,"Per 100,000 live births",206.0
-2014,3.2.1 Maternal mortality ratio (MMR),Cambodia,Female,"Per 100,000 live births",170.0
-2019,3.2.1 Maternal mortality ratio (MMR),Cambodia,Female,"Per 100,000 live births",141.0
+2000,3.2.1 Maternal mortality ratio (MMR),,Female,"Per 100,000 live births",437.0
+2005,3.2.1 Maternal mortality ratio (MMR),,Female,"Per 100,000 live births",472.0
+2008,3.2.1 Maternal mortality ratio (MMR),,Female,"Per 100,000 live births",460.84
+2010,3.2.1 Maternal mortality ratio (MMR),,Female,"Per 100,000 live births",206.0
+2014,3.2.1 Maternal mortality ratio (MMR),,Female,"Per 100,000 live births",170.0
+2019,3.2.1 Maternal mortality ratio (MMR),,Female,"Per 100,000 live births",141.0
 2008,3.2.1 Maternal mortality ratio (MMR),Banteay Meanchey,Female,"Per 100,000 live births",263.5
 2008,3.2.1 Maternal mortality ratio (MMR),Battambang,Female,"Per 100,000 live births",219.41
 2008,3.2.1 Maternal mortality ratio (MMR),Kampong Cham,Female,"Per 100,000 live births",451.02

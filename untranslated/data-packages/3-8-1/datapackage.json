@@ -20,10 +20,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             }

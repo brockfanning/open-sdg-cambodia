@@ -24,10 +24,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -69,10 +68,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -114,10 +112,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -159,10 +156,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -204,10 +200,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -249,10 +244,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -294,10 +288,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -339,10 +332,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -384,10 +376,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -429,10 +420,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -474,10 +464,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -519,10 +508,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -564,10 +552,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -609,10 +596,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -654,10 +640,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -699,10 +684,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -744,10 +728,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -789,10 +772,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -834,10 +816,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -879,10 +860,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -924,10 +904,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -969,10 +948,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -1014,10 +992,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -1084,10 +1061,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -1156,10 +1132,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -1201,10 +1176,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -1246,10 +1220,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -1291,10 +1264,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -1358,10 +1330,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -1414,10 +1385,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -1470,10 +1440,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -1526,10 +1495,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -1571,10 +1539,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -1638,10 +1605,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -1705,10 +1671,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -1772,10 +1737,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -1817,10 +1781,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -1862,10 +1825,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -1918,10 +1880,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -1974,10 +1935,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -2030,10 +1990,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -2075,10 +2034,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -2120,10 +2078,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -2165,10 +2122,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -2210,10 +2166,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -2291,7 +2246,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH",
                 "KH01",
                 "KH02",
                 "KH03",
@@ -2381,10 +2335,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -2438,10 +2391,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -2494,10 +2446,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -2562,10 +2513,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -2607,10 +2557,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -2655,7 +2604,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH",
                 "KH01",
                 "KH02",
                 "KH03",
@@ -2750,7 +2698,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH",
                 "KH01",
                 "KH02",
                 "KH03",
@@ -2842,10 +2789,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -2887,10 +2833,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -2943,10 +2888,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -3011,10 +2955,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -3056,10 +2999,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -3101,10 +3043,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -3168,10 +3109,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -3235,10 +3175,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -3280,10 +3219,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -3336,10 +3274,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -3381,10 +3318,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -3426,10 +3362,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -3471,10 +3406,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -3516,10 +3450,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -3561,10 +3494,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -3609,7 +3541,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH",
                 "KH01",
                 "KH03",
                 "KH04",
@@ -3728,7 +3659,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH",
                 "KH01",
                 "KH03",
                 "KH04",
@@ -3846,7 +3776,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH",
                 "KH01",
                 "KH03",
                 "KH04",
@@ -3926,7 +3855,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH",
                 "KH01",
                 "KH02",
                 "KH03",
@@ -4006,7 +3934,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH",
                 "KH01",
                 "KH02",
                 "KH03",
@@ -4095,7 +4022,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH",
                 "KH01",
                 "KH02",
                 "KH03",
@@ -4185,10 +4111,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -4230,10 +4155,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -4275,10 +4199,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -4320,10 +4243,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -4365,10 +4287,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -4413,7 +4334,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH",
                 "KH01",
                 "KH03",
                 "KH04",
@@ -4531,7 +4451,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH",
                 "KH01",
                 "KH03",
                 "KH04",
@@ -4646,10 +4565,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -4691,10 +4609,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -4736,10 +4653,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -4781,10 +4697,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -4826,10 +4741,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -4871,10 +4785,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -4916,10 +4829,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -4961,10 +4873,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5006,10 +4917,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5051,10 +4961,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5096,10 +5005,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5141,10 +5049,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5186,10 +5093,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5231,10 +5137,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5276,10 +5181,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5321,10 +5225,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5366,10 +5269,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5422,10 +5324,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5467,10 +5368,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5512,10 +5412,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5557,10 +5456,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5602,10 +5500,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5647,10 +5544,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5692,10 +5588,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5737,10 +5632,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5782,10 +5676,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5827,10 +5720,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5872,10 +5764,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5917,10 +5808,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -5962,10 +5852,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -6007,10 +5896,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -6052,10 +5940,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -6097,10 +5984,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -6142,10 +6028,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -6187,10 +6072,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -6232,10 +6116,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -6277,10 +6160,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -6322,10 +6204,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -6367,10 +6248,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -6412,10 +6292,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -6457,10 +6336,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -6502,10 +6380,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -6547,10 +6424,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -6592,10 +6468,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -6637,10 +6512,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -6682,10 +6556,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -6727,10 +6600,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -6772,10 +6644,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -6820,7 +6691,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH",
                 "KH01",
                 "KH02",
                 "KH03",
@@ -6886,10 +6756,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -6942,10 +6811,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -6998,10 +6866,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -7043,10 +6910,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -7088,10 +6954,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -7147,7 +7012,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH",
                 "KH12",
                 ""
               ]
@@ -7202,10 +7066,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },
@@ -7259,10 +7122,9 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "KH",
                 ""
               ]
             },

@@ -27,7 +27,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Cambodia",
                 "Banteay Meanchey",
                 "Battambang",
                 "Kampong Cham",

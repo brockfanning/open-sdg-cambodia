@@ -1,39 +1,39 @@
 Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,Income or wealth quantile,UNIT_MEASURE,Value
-2000,3.3.1 Under-five mortality rate (U5MR),Cambodia,Female,under 5 years old,,,Per 100 live births,110.1
-2005,3.3.1 Under-five mortality rate (U5MR),Cambodia,Female,under 5 years old,,,Per 100 live births,97.0
-2010,3.3.1 Under-five mortality rate (U5MR),Cambodia,Female,under 5 years old,,,Per 100 live births,59.0
-2014,3.3.1 Under-five mortality rate (U5MR),Cambodia,Female,under 5 years old,,,Per 100 live births,41.0
-2000,3.3.1 Under-five mortality rate (U5MR),Cambodia,Male,under 5 years old,,,Per 100 live births,132.8
-2005,3.3.1 Under-five mortality rate (U5MR),Cambodia,Male,under 5 years old,,,Per 100 live births,115.0
-2010,3.3.1 Under-five mortality rate (U5MR),Cambodia,Male,under 5 years old,,,Per 100 live births,76.0
-2014,3.3.1 Under-five mortality rate (U5MR),Cambodia,Male,under 5 years old,,,Per 100 live births,54.0
-2000,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,,,Per 100 live births,124.4
-2005,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,,,Per 100 live births,83.0
-2010,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,,,Per 100 live births,54.0
-2014,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,,,Per 100 live births,35.0
-2005,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,,Quintile 1 (poorest),Per 100 live births,127.0
-2010,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,,Quintile 1 (poorest),Per 100 live births,90.0
-2014,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,,Quintile 1 (poorest),Per 100 live births,76.0
-2005,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,,Quintile 2,Per 100 live births,129.0
-2010,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,,Quintile 2,Per 100 live births,83.0
-2014,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,,Quintile 2,Per 100 live births,56.0
-2005,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,,Quintile 3,Per 100 live births,114.0
-2010,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,,Quintile 3,Per 100 live births,68.0
-2014,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,,Quintile 3,Per 100 live births,41.0
-2005,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,,Quintile 4,Per 100 live births,92.0
-2010,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,,Quintile 4,Per 100 live births,49.0
-2014,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,,Quintile 4,Per 100 live births,33.0
-2005,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,,Quintile 5 (richest),Per 100 live births,43.0
-2010,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,,Quintile 5 (richest),Per 100 live births,30.0
-2014,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,,Quintile 5 (richest),Per 100 live births,19.0
-2000,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,Urban,,Per 100 live births,92.6
-2005,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,Urban,,Per 100 live births,76.0
-2010,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,Urban,,Per 100 live births,29.0
-2014,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,Urban,,Per 100 live births,18.0
-2000,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,Rural,,Per 100 live births,126.0
-2005,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,Rural,,Per 100 live births,111.0
-2010,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,Rural,,Per 100 live births,75.0
-2014,3.3.1 Under-five mortality rate (U5MR),Cambodia,,under 5 years old,Rural,,Per 100 live births,52.0
+2000,3.3.1 Under-five mortality rate (U5MR),,Female,under 5 years old,,,Per 100 live births,110.1
+2005,3.3.1 Under-five mortality rate (U5MR),,Female,under 5 years old,,,Per 100 live births,97.0
+2010,3.3.1 Under-five mortality rate (U5MR),,Female,under 5 years old,,,Per 100 live births,59.0
+2014,3.3.1 Under-five mortality rate (U5MR),,Female,under 5 years old,,,Per 100 live births,41.0
+2000,3.3.1 Under-five mortality rate (U5MR),,Male,under 5 years old,,,Per 100 live births,132.8
+2005,3.3.1 Under-five mortality rate (U5MR),,Male,under 5 years old,,,Per 100 live births,115.0
+2010,3.3.1 Under-five mortality rate (U5MR),,Male,under 5 years old,,,Per 100 live births,76.0
+2014,3.3.1 Under-five mortality rate (U5MR),,Male,under 5 years old,,,Per 100 live births,54.0
+2000,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,,,Per 100 live births,124.4
+2005,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,,,Per 100 live births,83.0
+2010,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,,,Per 100 live births,54.0
+2014,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,,,Per 100 live births,35.0
+2005,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,,Quintile 1 (poorest),Per 100 live births,127.0
+2010,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,,Quintile 1 (poorest),Per 100 live births,90.0
+2014,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,,Quintile 1 (poorest),Per 100 live births,76.0
+2005,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,,Quintile 2,Per 100 live births,129.0
+2010,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,,Quintile 2,Per 100 live births,83.0
+2014,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,,Quintile 2,Per 100 live births,56.0
+2005,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,,Quintile 3,Per 100 live births,114.0
+2010,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,,Quintile 3,Per 100 live births,68.0
+2014,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,,Quintile 3,Per 100 live births,41.0
+2005,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,,Quintile 4,Per 100 live births,92.0
+2010,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,,Quintile 4,Per 100 live births,49.0
+2014,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,,Quintile 4,Per 100 live births,33.0
+2005,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,,Quintile 5 (richest),Per 100 live births,43.0
+2010,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,,Quintile 5 (richest),Per 100 live births,30.0
+2014,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,,Quintile 5 (richest),Per 100 live births,19.0
+2000,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,Urban,,Per 100 live births,92.6
+2005,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,Urban,,Per 100 live births,76.0
+2010,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,Urban,,Per 100 live births,29.0
+2014,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,Urban,,Per 100 live births,18.0
+2000,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,Rural,,Per 100 live births,126.0
+2005,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,Rural,,Per 100 live births,111.0
+2010,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,Rural,,Per 100 live births,75.0
+2014,3.3.1 Under-five mortality rate (U5MR),,,under 5 years old,Rural,,Per 100 live births,52.0
 2000,3.3.1 Under-five mortality rate (U5MR),Banteay Meanchey,,under 5 years old,,,Per 100 live births,107.7
 2005,3.3.1 Under-five mortality rate (U5MR),Banteay Meanchey,,under 5 years old,,,Per 100 live births,96.0
 2010,3.3.1 Under-five mortality rate (U5MR),Banteay Meanchey,,under 5 years old,,,Per 100 live births,76.0

@@ -12,11 +12,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"

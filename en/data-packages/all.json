@@ -14,11 +14,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -59,11 +58,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -104,11 +102,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -149,11 +146,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -194,11 +190,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -239,11 +234,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -284,11 +278,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -329,11 +322,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -374,11 +366,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -419,11 +410,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -464,11 +454,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -509,11 +498,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -554,11 +542,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -599,11 +586,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -644,11 +630,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -689,11 +674,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -734,11 +718,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -779,11 +762,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -824,11 +806,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -869,11 +850,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -914,11 +894,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -959,11 +938,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -1017,11 +995,10 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -1089,11 +1066,10 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -1146,11 +1122,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -1191,11 +1166,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -1236,11 +1210,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -1292,11 +1265,10 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -1348,11 +1320,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -1404,11 +1375,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -1460,11 +1430,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -1516,11 +1485,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -1572,11 +1540,10 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -1639,11 +1606,10 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -1706,11 +1672,10 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -1762,11 +1727,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -1807,11 +1771,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -1863,11 +1826,10 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -1919,11 +1881,10 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -1975,11 +1936,10 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -2020,11 +1980,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -2065,11 +2024,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -2110,11 +2068,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -2155,11 +2112,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -2221,11 +2177,10 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -2293,7 +2248,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Cambodia",
                 "Banteay Meanchey",
                 "Battambang",
                 "Kampong Cham",
@@ -2371,11 +2325,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -2439,11 +2392,10 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -2495,11 +2447,10 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -2552,11 +2503,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -2597,11 +2547,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -2646,7 +2595,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Cambodia",
                 "Banteay Meanchey",
                 "Battambang",
                 "Kampong Cham",
@@ -2741,7 +2689,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Cambodia",
                 "Banteay Meanchey",
                 "Battambang",
                 "Kampong Cham",
@@ -2832,11 +2779,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -2888,11 +2834,10 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -2944,11 +2889,10 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -3001,11 +2945,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -3046,11 +2989,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -3102,11 +3044,10 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -3169,11 +3110,10 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -3225,11 +3165,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -3281,11 +3220,10 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -3326,11 +3264,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -3371,11 +3308,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -3416,11 +3352,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -3461,11 +3396,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -3506,11 +3440,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -3551,11 +3484,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -3627,7 +3559,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Cambodia",
                 "Banteay Meanchey",
                 "Kampong Cham",
                 "Kampong Chhnang",
@@ -3745,7 +3676,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Cambodia",
                 "Banteay Meanchey",
                 "Kampong Cham",
                 "Kampong Chhnang",
@@ -3837,7 +3767,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Cambodia",
                 "Banteay Meanchey",
                 "Kampong Cham",
                 "Kampong Chhnang",
@@ -3917,7 +3846,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Cambodia",
                 "Banteay Meanchey",
                 "Battambang",
                 "Kampong Cham",
@@ -3997,7 +3925,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Cambodia",
                 "Banteay Meanchey",
                 "Battambang",
                 "Kampong Cham",
@@ -4086,7 +4013,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Cambodia",
                 "Banteay Meanchey",
                 "Battambang",
                 "Kampong Cham",
@@ -4175,11 +4101,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -4220,11 +4145,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -4265,11 +4189,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -4310,11 +4233,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -4355,11 +4277,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -4430,7 +4351,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Cambodia",
                 "Banteay Meanchey",
                 "Kampong Cham",
                 "Kampong Chhnang",
@@ -4548,7 +4468,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Cambodia",
                 "Banteay Meanchey",
                 "Kampong Cham",
                 "Kampong Chhnang",
@@ -4636,11 +4555,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -4681,11 +4599,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -4726,11 +4643,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -4771,11 +4687,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -4816,11 +4731,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -4861,11 +4775,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -4906,11 +4819,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -4951,11 +4863,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -4996,11 +4907,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5041,11 +4951,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5086,11 +4995,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5131,11 +5039,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5176,11 +5083,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5221,11 +5127,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5266,11 +5171,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5311,11 +5215,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5356,11 +5259,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5412,11 +5314,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5457,11 +5358,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5502,11 +5402,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5547,11 +5446,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5592,11 +5490,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5637,11 +5534,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5682,11 +5578,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5727,11 +5622,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5772,11 +5666,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5817,11 +5710,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5862,11 +5754,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5907,11 +5798,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5952,11 +5842,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -5997,11 +5886,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -6042,11 +5930,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -6087,11 +5974,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -6132,11 +6018,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -6177,11 +6062,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -6222,11 +6106,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -6267,11 +6150,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -6312,11 +6194,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -6357,11 +6238,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -6402,11 +6282,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -6447,11 +6326,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -6492,11 +6370,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -6537,11 +6414,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -6582,11 +6458,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -6627,11 +6502,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -6672,11 +6546,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -6717,11 +6590,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -6762,11 +6634,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -6811,7 +6682,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Cambodia",
                 "Banteay Meanchey",
                 "Battambang",
                 "Kampong Cham",
@@ -6887,11 +6757,10 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -6943,11 +6812,10 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -6988,11 +6856,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -7033,11 +6900,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -7089,11 +6955,10 @@
           },
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -7138,7 +7003,6 @@
             "constraints": {
               "enum": [
                 "",
-                "Cambodia",
                 "Phnom Penh"
               ]
             },
@@ -7192,11 +7056,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
@@ -7249,11 +7112,10 @@
         "fields": [
           {
             "name": "REF_AREA",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "Cambodia"
+                ""
               ]
             },
             "title": "Reference area"
