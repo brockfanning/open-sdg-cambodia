@@ -1,7 +1,7 @@
 # Jekyll configuration for Open SDG platform
 
 # Tell the Remote Theme plugin to use the Open SDG platform (Jekyll theme).
-remote_theme: brockfanning/open-sdg@line-breaks-for-certain-languages
+remote_theme: brockfanning/open-sdg@cambodia-feature-set
 
 # Replace this title as needed.
 title: Indicators For The Sustainable Development Goals
@@ -178,7 +178,7 @@ custom_js:
 
 # Specify the format of the language toggles. Choices are:
 # "dropdown", "links", or "none"
-header_language_toggle: dropdown
+header_language_toggle: links
 footer_language_toggle: none
 
 # Configure the header style.
@@ -205,3 +205,8 @@ breadcrumbs:
       path: /
     - label: general.goals
       path: /goals
+
+data_fields:
+  series: SERIES
+  units: UNIT_MEASURE
+graph_title_from_series: true
