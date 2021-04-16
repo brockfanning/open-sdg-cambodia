@@ -28,6 +28,18 @@ body {
 ul {
   padding-left: 2rem; }
 
+/**
+ * CSS rules specific to certain languages.
+ */
+.language-ar {
+  direction: rtl; }
+
+.language-km #page-content,
+.language-km #toolbar,
+.language-km #national,
+.language-km #global {
+  line-break: anywhere; }
+
 .js #headlineTable {
   display: none; }
 
@@ -651,9 +663,6 @@ body.contrast-high #zip-download-info {
   color: #0b0c0c; }
 .goal-banner .goal-icon a:focus {
   outline: 6px #ffdd00 solid !important; }
-
-.language-ar {
-  direction: rtl; }
 
 .language-toggle-dropdown {
   margin-top: -2px; }
@@ -2615,3 +2624,8 @@ body.contrast-high.layout-search form input, body.contrast-high.layout-search fo
   border-bottom: 2px solid black; }
 .layout-config-builder.contrast-high .btn-group .btn span {
   color: black; }
+
+#goal-18 {
+  box-shadow: 5px 5px 5px 0px rgba(5, 5, 5, 0.3); }
+  #goal-18:hover {
+    box-shadow: 5px 5px 5px 0px rgba(5, 5, 5, 0.6); }
