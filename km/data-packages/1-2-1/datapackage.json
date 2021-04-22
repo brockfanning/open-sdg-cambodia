@@ -25,28 +25,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH12",
+                "ភ្នំពេញ",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "ទីប្រជុំជន",
+                "ជនបទ",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",

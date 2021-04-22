@@ -1,9 +1,9 @@
 Value,en,km,Disaggregation combinations using this value,Number of indicators
-_L_TLT_FLSEPT,Type of toilet: Pour FlushConnected To Septic Tank,_L_TLT_FLSEPT,1,1
-_L_TLT_FLSEWER,Type of toilet: Pour Flush Connected To Sewerage,_L_TLT_FLSEWER,1,1
-_L_TLT_PLWS,Type of toilet: Pit Latrine With Slab,_L_TLT_PLWS,1,1
-_L_TWS_DUGWELL,Type of water source: Protected Dug Well,_L_TWS_DUGWELL,1,1
-_L_TWS_PIPE,Type of water source: Piped In Dwelling Or On Premises,_L_TWS_PIPE,1,1
-_L_TWS_PIPEWELL,Type of water source: Tube Piped Well Or Borehole,_L_TWS_PIPEWELL,1,1
-_L_TWS_PUBTAP,Type of water source: Public Tap,_L_TWS_PUBTAP,1,1
-_L_TWS_RAINCOLL,Type of water source: Improved Rainwater Collection,_L_TWS_RAINCOLL,1,1
+_L_TLT_FLSEPT,Type of toilet: Pour FlushConnected To Septic Tank,ប្រភេទបង្គន់: ចាក់ FlushConnected To Septic Tank,1,1
+_L_TLT_FLSEWER,Type of toilet: Pour Flush Connected To Sewerage,ប្រភេទបង្គន់: ចាក់ទឹកភ្ជាប់ភ្ជាប់ទៅនឹងលូទឹក,1,1
+_L_TLT_PLWS,Type of toilet: Pit Latrine With Slab,ប្រភេទបង្គន់៖ បង្គន់រណ្តៅជាមួយស្លា,1,1
+_L_TWS_DUGWELL,Type of water source: Protected Dug Well,ប្រភេទប្រភពទឹក៖ ជីកអណ្តូងការពារ,1,1
+_L_TWS_PIPE,Type of water source: Piped In Dwelling Or On Premises,ប្រភេទប្រភពទឹក: បំពង់បង្ហូរទឹកនៅក្នុងទីជម្រកឬនៅតាមបរិវេណ,1,1
+_L_TWS_PIPEWELL,Type of water source: Tube Piped Well Or Borehole,ប្រភេទប្រភពទឹក៖ បំពង់ទុយោអណ្តូងរឺបូរី,1,1
+_L_TWS_PUBTAP,Type of water source: Public Tap,ប្រភេទប្រភពទឹក៖ ប្រភពសាធារណៈ,1,1
+_L_TWS_RAINCOLL,Type of water source: Improved Rainwater Collection,ប្រភេទប្រភពទឹក៖ ការប្រមូលទឹកភ្លៀងឱ្យប្រសើរឡើង,1,1

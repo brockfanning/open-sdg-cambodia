@@ -28,37 +28,37 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "ទីប្រជុំជន",
+                "ជនបទ",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_TLT_FLSEWER",
-                "_L_TLT_FLSEPT",
-                "_L_TLT_PLWS",
+                "ប្រភេទបង្គន់: ចាក់ទឹកភ្ជាប់ភ្ជាប់ទៅនឹងលូទឹក",
+                "ប្រភេទបង្គន់: ចាក់ FlushConnected To Septic Tank",
+                "ប្រភេទបង្គន់៖ បង្គន់រណ្តៅជាមួយស្លា",
                 ""
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "ការវិភាគសមាសធាតុ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",

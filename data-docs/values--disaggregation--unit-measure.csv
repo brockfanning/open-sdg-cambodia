@@ -1,15 +1,15 @@
 Value,en,km,Disaggregation combinations using this value,Number of indicators
-HA,Hectares,HA,3,3
-LIVE_BIRTHS_PER_WOMAN,Live births per woman,LIVE_BIRTHS_PER_WOMAN,35,1
-NUMBER,Number,NUMBER,48,23
-PER_100_LIVE_BIRTHS,Per 100 live births,PER_100_LIVE_BIRTHS,76,2
-PER_1000_POP,"Per 1,000 population",PER_1000_POP,4,4
-PER_100000_LIVE_BIRTHS,"Per 100,000 live births",PER_100000_LIVE_BIRTHS,25,1
-PER_100000_POP,"Per 100,000 population",PER_100000_POP,2,2
-PT,Percent,PT,436,93
-T_OE,Tons oil equivalent,T_OE,1,1
-T,Metric Tons,T,5,4
-USD_PER_FARMER,USD per farmer,USD_PER_FARMER,1,1
-USD_PER_HA,USD per Hectare,USD_PER_HA,1,1
-USD,USD,USD,1,1
-Y,Years,Y,81,1
+HA,Hectares,ហិកតា,3,3
+LIVE_BIRTHS_PER_WOMAN,Live births per woman,កំណើតរស់ក្នុងស្ត្រីម្នាក់,35,1
+NUMBER,Number,ចំនួន,48,23
+PER_100_LIVE_BIRTHS,Per 100 live births,ក្នុង ១០០ កំណើតរស់,76,2
+PER_1000_POP,"Per 1,000 population",ក្នុង ១.០០០ នាក់,4,4
+PER_100000_LIVE_BIRTHS,"Per 100,000 live births",ក្នុងមួយកំណើតរស់ ១០០.០០០ នាក់,25,1
+PER_100000_POP,"Per 100,000 population",ក្នុងមួយប្រជាជន ១០០.០០០ នាក់,2,2
+PT,Percent,ភាគរយ,436,93
+T_OE,Tons oil equivalent,ស្មើនឹងប្រេងកាតតោន,1,1
+T,Metric Tons,តោន,5,4
+USD_PER_FARMER,USD per farmer,ដុល្លារអាមេរិកសម្រាប់កសិករម្នាក់,1,1
+USD_PER_HA,USD per Hectare,ដុល្លារក្នុងមួយហិកតា,1,1
+USD,USD,ដុល្លារ​អាមេរិក,1,1
+Y,Years,ឆ្នាំ,81,1

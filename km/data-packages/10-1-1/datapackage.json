@@ -28,23 +28,23 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "B40",
+                "បាត ៤០%",
                 ""
               ]
             },
-            "title": "INCOME_WEALTH_QUANTILE"
+            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",

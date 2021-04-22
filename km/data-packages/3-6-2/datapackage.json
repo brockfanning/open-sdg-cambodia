@@ -28,23 +28,23 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y_GE18",
+                "អាយុ ១៨ ឆ្នាំឡើងទៅ",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",

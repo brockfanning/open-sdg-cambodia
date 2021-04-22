@@ -28,23 +28,23 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
+                "ស្រី",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",

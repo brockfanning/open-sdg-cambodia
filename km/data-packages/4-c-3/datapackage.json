@@ -28,23 +28,23 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11_1",
+                "ការអប់រំ​បឋម",
                 ""
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "កម្រិត​ការ​អប់រំ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",

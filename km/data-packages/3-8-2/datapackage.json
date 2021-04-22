@@ -28,34 +28,34 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
+                "ស្រី",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y15T19",
+                "អាយុពី ១៥ ទៅ ១៩ ឆ្នាំ",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",

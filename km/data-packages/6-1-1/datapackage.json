@@ -28,39 +28,39 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "ទីប្រជុំជន",
+                "ជនបទ",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_TWS_PIPE",
-                "_L_TWS_PUBTAP",
-                "_L_TWS_PIPEWELL",
-                "_L_TWS_DUGWELL",
-                "_L_TWS_RAINCOLL",
+                "ប្រភេទប្រភពទឹក: បំពង់បង្ហូរទឹកនៅក្នុងទីជម្រកឬនៅតាមបរិវេណ",
+                "ប្រភេទប្រភពទឹក៖ ប្រភពសាធារណៈ",
+                "ប្រភេទប្រភពទឹក៖ បំពង់ទុយោអណ្តូងរឺបូរី",
+                "ប្រភេទប្រភពទឹក៖ ជីកអណ្តូងការពារ",
+                "ប្រភេទប្រភពទឹក៖ ការប្រមូលទឹកភ្លៀងឱ្យប្រសើរឡើង",
                 ""
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "ការវិភាគសមាសធាតុ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",

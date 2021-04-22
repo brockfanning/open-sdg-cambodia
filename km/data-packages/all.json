@@ -30,12 +30,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -74,12 +74,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -118,12 +118,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -162,12 +162,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -206,12 +206,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -250,12 +250,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -294,12 +294,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -338,12 +338,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -382,12 +382,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -426,12 +426,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -470,12 +470,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -514,12 +514,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -558,12 +558,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -602,12 +602,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -646,12 +646,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -690,12 +690,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -734,12 +734,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -778,12 +778,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -822,12 +822,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -866,12 +866,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -910,12 +910,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -954,12 +954,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -998,37 +998,37 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "ទីប្រជុំជន",
+                "ជនបទ",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_TLT_FLSEWER",
-                "_L_TLT_FLSEPT",
-                "_L_TLT_PLWS",
+                "ប្រភេទបង្គន់: ចាក់ទឹកភ្ជាប់ភ្ជាប់ទៅនឹងលូទឹក",
+                "ប្រភេទបង្គន់: ចាក់ FlushConnected To Septic Tank",
+                "ប្រភេទបង្គន់៖ បង្គន់រណ្តៅជាមួយស្លា",
                 ""
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "ការវិភាគសមាសធាតុ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -1067,39 +1067,39 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "ទីប្រជុំជន",
+                "ជនបទ",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
             "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_TWS_PIPE",
-                "_L_TWS_PUBTAP",
-                "_L_TWS_PIPEWELL",
-                "_L_TWS_DUGWELL",
-                "_L_TWS_RAINCOLL",
+                "ប្រភេទប្រភពទឹក: បំពង់បង្ហូរទឹកនៅក្នុងទីជម្រកឬនៅតាមបរិវេណ",
+                "ប្រភេទប្រភពទឹក៖ ប្រភពសាធារណៈ",
+                "ប្រភេទប្រភពទឹក៖ បំពង់ទុយោអណ្តូងរឺបូរី",
+                "ប្រភេទប្រភពទឹក៖ ជីកអណ្តូងការពារ",
+                "ប្រភេទប្រភពទឹក៖ ការប្រមូលទឹកភ្លៀងឱ្យប្រសើរឡើង",
                 ""
               ]
             },
-            "title": "COMPOSITE_BREAKDOWN"
+            "title": "ការវិភាគសមាសធាតុ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -1138,12 +1138,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -1182,12 +1182,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -1226,12 +1226,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -1270,34 +1270,34 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
+                "ស្រី",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y15T49",
+                "អាយុពី ១៥ ទៅ ៤៩ ឆ្នាំ",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -1336,23 +1336,23 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
+                "ស្រី",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -1391,23 +1391,23 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
+                "ស្រី",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -1446,23 +1446,23 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
+                "ស្រី",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -1501,12 +1501,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -1545,34 +1545,34 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
+                "ស្រី",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y20T24",
+                "អាយុពី ២០ ទៅ ២៤ ឆ្នាំ",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -1611,34 +1611,34 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
+                "ស្រី",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y_GE15",
+                "អាយុ ១៥ ឆ្នាំឡើងទៅ",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -1677,34 +1677,34 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
+                "ស្រី",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y_GE15",
+                "អាយុ ១៥ ឆ្នាំឡើងទៅ",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -1743,12 +1743,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -1787,12 +1787,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -1831,23 +1831,23 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "AGG_2_3",
+                "អនុវិទ្យាល័យ (អនុវិទ្យាល័យនិងមធ្យមសិក្សាទុតិយភូមិ)",
                 ""
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "កម្រិត​ការ​អប់រំ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -1886,23 +1886,23 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11_1",
+                "ការអប់រំ​បឋម",
                 ""
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "កម្រិត​ការ​អប់រំ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -1941,23 +1941,23 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11_02",
+                "ការអប់រំបឋម",
                 ""
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "កម្រិត​ការ​អប់រំ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -1996,12 +1996,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -2040,12 +2040,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -2084,12 +2084,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -2128,12 +2128,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -2172,45 +2172,45 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "ស្រី",
+                "ប្រុស",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y6T14",
-                "Y_GE6",
-                "Y7T14",
-                "Y_GE7",
-                "Y15T24",
-                "Y_GE15",
-                "Y25T34",
-                "Y35T44",
-                "Y_GE65",
-                "Y45T54",
-                "Y55T64",
+                "អាយុពី ៦ ទៅ ១៤ ឆ្នាំ",
+                "អាយុ ៦ ឆ្នាំឡើងទៅ",
+                "អាយុពី ៧ ទៅ ១៤ ឆ្នាំ",
+                "អាយុ ៧ ឆ្នាំឡើងទៅ",
+                "អាយុពី ១៥ ទៅ ២៤ ឆ្នាំ",
+                "អាយុ ១៥ ឆ្នាំឡើងទៅ",
+                "អាយុពី ២៥ ទៅ ៣៤ ឆ្នាំ",
+                "អាយុពី ៣៥ ទៅ ៤៤ ឆ្នាំ",
+                "អាយុ ៦៥ ឆ្នាំឡើងទៅ",
+                "អាយុពី ៤៥ ទៅ ៥៤ ឆ្នាំ",
+                "អាយុពី ៥៥ ទៅ ៦៤ ឆ្នាំ",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -2246,63 +2246,63 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH01",
-                "KH02",
-                "KH03",
-                "KH04",
-                "KH05",
-                "KH06",
-                "KH07",
-                "KH08",
-                "KH23",
-                "KH09",
-                "KH10",
-                "KH11",
-                "KH22",
-                "KH24",
-                "KH12",
-                "KH18",
-                "KH13",
-                "KH14",
-                "KH15",
-                "KH16",
-                "KH17",
-                "KH19",
-                "KH20",
-                "KH21",
-                "KH25",
+                "បន្ទាយមានជ័យ",
+                "បាត់ដំបង",
+                "កំពង់ចាម",
+                "កំពង់ឆ្នាំង",
+                "កំពង់ស្ពឺ",
+                "កំពង់ធំ",
+                "កំពត",
+                "កណ្តាល",
+                "កែប",
+                "កោះកុង",
+                "ខេត្តក្រចេះ",
+                "មណ្ឌលគីរី",
+                "ឧត្តរមានជ័យ",
+                "ប៉ៃលិន",
+                "ភ្នំពេញ",
+                "ព្រះសីហនុ",
+                "ព្រះវិហារ",
+                "ព្រៃវែង",
+                "ពោធិសាត់",
+                "រតនគិរី",
+                "សៀមរាប",
+                "ស្ទឹងត្រែង",
+                "ស្វាយរៀង",
+                "តាកែវ",
+                "ត្បូងឃ្មុំ",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "ទីប្រជុំជន",
+                "ជនបទ",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11_3",
+                "មធ្យមសិក្សាទុតិយភូមិ",
                 ""
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "កម្រិត​ការ​អប់រំ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -2341,24 +2341,24 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "ទីប្រជុំជន",
+                "ជនបទ",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -2397,23 +2397,23 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y15T24",
+                "អាយុពី ១៥ ទៅ ២៤ ឆ្នាំ",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -2452,35 +2452,35 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "ស្រី",
+                "ប្រុស",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y18T21",
+                "អាយុពី ១៨ ទៅ ២១ ឆ្នាំ",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -2519,12 +2519,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -2563,12 +2563,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -2604,65 +2604,65 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH01",
-                "KH02",
-                "KH03",
-                "KH04",
-                "KH05",
-                "KH06",
-                "KH07",
-                "KH08",
-                "KH23",
-                "KH09",
-                "KH10",
-                "KH11",
-                "KH22",
-                "KH24",
-                "KH12",
-                "KH18",
-                "KH13",
-                "KH14",
-                "KH15",
-                "KH16",
-                "KH17",
-                "KH19",
-                "KH20",
-                "KH21",
-                "KH25",
+                "បន្ទាយមានជ័យ",
+                "បាត់ដំបង",
+                "កំពង់ចាម",
+                "កំពង់ឆ្នាំង",
+                "កំពង់ស្ពឺ",
+                "កំពង់ធំ",
+                "កំពត",
+                "កណ្តាល",
+                "កែប",
+                "កោះកុង",
+                "ខេត្តក្រចេះ",
+                "មណ្ឌលគីរី",
+                "ឧត្តរមានជ័យ",
+                "ប៉ៃលិន",
+                "ភ្នំពេញ",
+                "ព្រះសីហនុ",
+                "ព្រះវិហារ",
+                "ព្រៃវែង",
+                "ពោធិសាត់",
+                "រតនគិរី",
+                "សៀមរាប",
+                "ស្ទឹងត្រែង",
+                "ស្វាយរៀង",
+                "តាកែវ",
+                "ត្បូងឃ្មុំ",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "ស្រី",
+                "ប្រុស",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
-                "REMOTE",
+                "ទីប្រជុំជន",
+                "ជនបទ",
+                "តំបន់ដាច់ស្រយាល",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -2698,65 +2698,65 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH01",
-                "KH02",
-                "KH03",
-                "KH04",
-                "KH05",
-                "KH06",
-                "KH07",
-                "KH08",
-                "KH23",
-                "KH09",
-                "KH10",
-                "KH11",
-                "KH22",
-                "KH24",
-                "KH12",
-                "KH18",
-                "KH13",
-                "KH14",
-                "KH15",
-                "KH16",
-                "KH17",
-                "KH19",
-                "KH20",
-                "KH21",
-                "KH25",
+                "បន្ទាយមានជ័យ",
+                "បាត់ដំបង",
+                "កំពង់ចាម",
+                "កំពង់ឆ្នាំង",
+                "កំពង់ស្ពឺ",
+                "កំពង់ធំ",
+                "កំពត",
+                "កណ្តាល",
+                "កែប",
+                "កោះកុង",
+                "ខេត្តក្រចេះ",
+                "មណ្ឌលគីរី",
+                "ឧត្តរមានជ័យ",
+                "ប៉ៃលិន",
+                "ភ្នំពេញ",
+                "ព្រះសីហនុ",
+                "ព្រះវិហារ",
+                "ព្រៃវែង",
+                "ពោធិសាត់",
+                "រតនគិរី",
+                "សៀមរាប",
+                "ស្ទឹងត្រែង",
+                "ស្វាយរៀង",
+                "តាកែវ",
+                "ត្បូងឃ្មុំ",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "ស្រី",
+                "ប្រុស",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
-                "REMOTE",
+                "ទីប្រជុំជន",
+                "ជនបទ",
+                "តំបន់ដាច់ស្រយាល",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -2795,12 +2795,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -2839,23 +2839,23 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y13T15",
+                "អាយុពី ១៣ ទៅ ១៥ ឆ្នាំ",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -2894,35 +2894,35 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "ស្រី",
+                "ប្រុស",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y_GE15",
+                "អាយុ ១៥ ឆ្នាំឡើងទៅ",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -2961,12 +2961,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -3005,12 +3005,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -3049,34 +3049,34 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
+                "ស្រី",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y15T19",
+                "អាយុពី ១៥ ទៅ ១៩ ឆ្នាំ",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -3115,34 +3115,34 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
+                "ស្រី",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y15T49",
+                "អាយុពី ១៥ ទៅ ៤៩ ឆ្នាំ",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -3181,12 +3181,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -3225,23 +3225,23 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y_GE18",
+                "អាយុ ១៨ ឆ្នាំឡើងទៅ",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -3280,12 +3280,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -3324,12 +3324,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -3368,12 +3368,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -3412,12 +3412,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -3456,12 +3456,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -3500,12 +3500,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -3541,89 +3541,89 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH01",
-                "KH03",
-                "KH04",
-                "KH05",
-                "KH06",
-                "KH08",
-                "KH09",
-                "KH10",
-                "KH22",
-                "KH12",
-                "KH14",
-                "KH15",
-                "KH17",
-                "KH20",
-                "KH21",
-                "KH_AGG_KH02_KH24",
-                "KH_AGG_KH07_KH18_KH23",
-                "KH_AGG_KH10_KH13_KH19",
-                "KH_AGG_KH11_KH16",
-                "KH_AGG_KH22_KH17",
-                "KH_AGG_KH07_KH23",
-                "KH_KH09_KH18",
-                "KH_AGG_KH13_KH19",
+                "បន្ទាយមានជ័យ",
+                "កំពង់ចាម",
+                "កំពង់ឆ្នាំង",
+                "កំពង់ស្ពឺ",
+                "កំពង់ធំ",
+                "កណ្តាល",
+                "កោះកុង",
+                "ខេត្តក្រចេះ",
+                "ឧត្តរមានជ័យ",
+                "ភ្នំពេញ",
+                "ព្រៃវែង",
+                "ពោធិសាត់",
+                "សៀមរាប",
+                "ស្វាយរៀង",
+                "តាកែវ",
+                "ខេត្តបាត់ដំបងនិងប៉ៃលិន",
+                "កំពតព្រះសីហនុនិងកែប",
+                "ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង",
+                "មណ្ឌលគីរីនិងរតនគិរី",
+                "ឧត្តរមានជ័យនិងសៀមរាប",
+                "កំពតនិងកែប",
+                "កោះកុងនិងព្រះសីហនុ",
+                "ព្រះវិហារនិងស្ទឹងត្រែង",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "ស្រី",
+                "ប្រុស",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "M0",
-                "Y0",
+                "អាយុក្រោម ១ ខែ",
+                "អាយុក្រោម ១ ឆ្នាំ",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "អាយុ"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "ទីប្រជុំជន",
+                "ជនបទ",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
             "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                "Q5",
+                "ឃ្វីនទី ១ (ក្របំផុត)",
+                "ឃ្វីនទី ២",
+                "ឃ្វីនទី ៣",
+                "ឃ្វីនទី ៤",
+                "ឃ្វីនទី ៥ (មានជាងគេបំផុត)",
                 ""
               ]
             },
-            "title": "INCOME_WEALTH_QUANTILE"
+            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -3659,88 +3659,88 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH01",
-                "KH03",
-                "KH04",
-                "KH05",
-                "KH06",
-                "KH08",
-                "KH09",
-                "KH10",
-                "KH22",
-                "KH12",
-                "KH14",
-                "KH15",
-                "KH17",
-                "KH20",
-                "KH21",
-                "KH_AGG_KH02_KH24",
-                "KH_AGG_KH07_KH18_KH23",
-                "KH_AGG_KH10_KH13_KH19",
-                "KH_AGG_KH11_KH16",
-                "KH_AGG_KH22_KH17",
-                "KH_AGG_KH07_KH23",
-                "KH_KH09_KH18",
-                "KH_AGG_KH13_KH19",
+                "បន្ទាយមានជ័យ",
+                "កំពង់ចាម",
+                "កំពង់ឆ្នាំង",
+                "កំពង់ស្ពឺ",
+                "កំពង់ធំ",
+                "កណ្តាល",
+                "កោះកុង",
+                "ខេត្តក្រចេះ",
+                "ឧត្តរមានជ័យ",
+                "ភ្នំពេញ",
+                "ព្រៃវែង",
+                "ពោធិសាត់",
+                "សៀមរាប",
+                "ស្វាយរៀង",
+                "តាកែវ",
+                "ខេត្តបាត់ដំបងនិងប៉ៃលិន",
+                "កំពតព្រះសីហនុនិងកែប",
+                "ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង",
+                "មណ្ឌលគីរីនិងរតនគិរី",
+                "ឧត្តរមានជ័យនិងសៀមរាប",
+                "កំពតនិងកែប",
+                "កោះកុងនិងព្រះសីហនុ",
+                "ព្រះវិហារនិងស្ទឹងត្រែង",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "ស្រី",
+                "ប្រុស",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y0T4",
+                "អាយុក្រោម ៥ ឆ្នាំ",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "អាយុ"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "ទីប្រជុំជន",
+                "ជនបទ",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
             "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                "Q5",
+                "ឃ្វីនទី ១ (ក្របំផុត)",
+                "ឃ្វីនទី ២",
+                "ឃ្វីនទី ៣",
+                "ឃ្វីនទី ៤",
+                "ឃ្វីនទី ៥ (មានជាងគេបំផុត)",
                 ""
               ]
             },
-            "title": "INCOME_WEALTH_QUANTILE"
+            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -3776,50 +3776,50 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH01",
-                "KH03",
-                "KH04",
-                "KH05",
-                "KH06",
-                "KH08",
-                "KH09",
-                "KH10",
-                "KH22",
-                "KH12",
-                "KH14",
-                "KH15",
-                "KH17",
-                "KH20",
-                "KH21",
-                "KH_AGG_KH02_KH24",
-                "KH_AGG_KH07_KH18_KH23",
-                "KH_AGG_KH10_KH13_KH19",
-                "KH_AGG_KH11_KH16",
-                "KH_AGG_KH22_KH17",
-                "KH_AGG_KH07_KH23",
-                "KH_KH09_KH18",
-                "KH_AGG_KH13_KH19",
+                "បន្ទាយមានជ័យ",
+                "កំពង់ចាម",
+                "កំពង់ឆ្នាំង",
+                "កំពង់ស្ពឺ",
+                "កំពង់ធំ",
+                "កណ្តាល",
+                "កោះកុង",
+                "ខេត្តក្រចេះ",
+                "ឧត្តរមានជ័យ",
+                "ភ្នំពេញ",
+                "ព្រៃវែង",
+                "ពោធិសាត់",
+                "សៀមរាប",
+                "ស្វាយរៀង",
+                "តាកែវ",
+                "ខេត្តបាត់ដំបងនិងប៉ៃលិន",
+                "កំពតព្រះសីហនុនិងកែប",
+                "ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង",
+                "មណ្ឌលគីរីនិងរតនគិរី",
+                "ឧត្តរមានជ័យនិងសៀមរាប",
+                "កំពតនិងកែប",
+                "កោះកុងនិងព្រះសីហនុ",
+                "ព្រះវិហារនិងស្ទឹងត្រែង",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "ទីប្រជុំជន",
+                "ជនបទ",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -3855,50 +3855,50 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH01",
-                "KH02",
-                "KH03",
-                "KH04",
-                "KH05",
-                "KH06",
-                "KH07",
-                "KH08",
-                "KH23",
-                "KH09",
-                "KH10",
-                "KH11",
-                "KH22",
-                "KH24",
-                "KH12",
-                "KH18",
-                "KH13",
-                "KH14",
-                "KH15",
-                "KH16",
-                "KH17",
-                "KH19",
-                "KH20",
-                "KH21",
+                "បន្ទាយមានជ័យ",
+                "បាត់ដំបង",
+                "កំពង់ចាម",
+                "កំពង់ឆ្នាំង",
+                "កំពង់ស្ពឺ",
+                "កំពង់ធំ",
+                "កំពត",
+                "កណ្តាល",
+                "កែប",
+                "កោះកុង",
+                "ខេត្តក្រចេះ",
+                "មណ្ឌលគីរី",
+                "ឧត្តរមានជ័យ",
+                "ប៉ៃលិន",
+                "ភ្នំពេញ",
+                "ព្រះសីហនុ",
+                "ព្រះវិហារ",
+                "ព្រៃវែង",
+                "ពោធិសាត់",
+                "រតនគិរី",
+                "សៀមរាប",
+                "ស្ទឹងត្រែង",
+                "ស្វាយរៀង",
+                "តាកែវ",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
+                "ស្រី",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -3934,59 +3934,59 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH01",
-                "KH02",
-                "KH03",
-                "KH04",
-                "KH05",
-                "KH06",
-                "KH07",
-                "KH08",
-                "KH23",
-                "KH09",
-                "KH10",
-                "KH11",
-                "KH22",
-                "KH24",
-                "KH12",
-                "KH18",
-                "KH13",
-                "KH14",
-                "KH15",
-                "KH16",
-                "KH17",
-                "KH19",
-                "KH20",
-                "KH21",
-                "KH_AGG_KH02_KH24",
-                "KH_AGG_KH07_KH18_KH23",
-                "KH_AGG_KH10_KH13_KH19",
-                "KH_AGG_KH11_KH16",
-                "KH_AGG_KH22_KH17",
-                "KH_AGG_KH07_KH23",
-                "KH_KH09_KH18",
-                "KH_AGG_KH13_KH19",
+                "បន្ទាយមានជ័យ",
+                "បាត់ដំបង",
+                "កំពង់ចាម",
+                "កំពង់ឆ្នាំង",
+                "កំពង់ស្ពឺ",
+                "កំពង់ធំ",
+                "កំពត",
+                "កណ្តាល",
+                "កែប",
+                "កោះកុង",
+                "ខេត្តក្រចេះ",
+                "មណ្ឌលគីរី",
+                "ឧត្តរមានជ័យ",
+                "ប៉ៃលិន",
+                "ភ្នំពេញ",
+                "ព្រះសីហនុ",
+                "ព្រះវិហារ",
+                "ព្រៃវែង",
+                "ពោធិសាត់",
+                "រតនគិរី",
+                "សៀមរាប",
+                "ស្ទឹងត្រែង",
+                "ស្វាយរៀង",
+                "តាកែវ",
+                "ខេត្តបាត់ដំបងនិងប៉ៃលិន",
+                "កំពតព្រះសីហនុនិងកែប",
+                "ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង",
+                "មណ្ឌលគីរីនិងរតនគិរី",
+                "ឧត្តរមានជ័យនិងសៀមរាប",
+                "កំពតនិងកែប",
+                "កោះកុងនិងព្រះសីហនុ",
+                "ព្រះវិហារនិងស្ទឹងត្រែង",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "ទីប្រជុំជន",
+                "ជនបទ",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -4022,63 +4022,63 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH01",
-                "KH02",
-                "KH03",
-                "KH04",
-                "KH05",
-                "KH06",
-                "KH07",
-                "KH08",
-                "KH23",
-                "KH09",
-                "KH10",
-                "KH11",
-                "KH22",
-                "KH24",
-                "KH12",
-                "KH18",
-                "KH13",
-                "KH14",
-                "KH15",
-                "KH16",
-                "KH17",
-                "KH19",
-                "KH20",
-                "KH21",
+                "បន្ទាយមានជ័យ",
+                "បាត់ដំបង",
+                "កំពង់ចាម",
+                "កំពង់ឆ្នាំង",
+                "កំពង់ស្ពឺ",
+                "កំពង់ធំ",
+                "កំពត",
+                "កណ្តាល",
+                "កែប",
+                "កោះកុង",
+                "ខេត្តក្រចេះ",
+                "មណ្ឌលគីរី",
+                "ឧត្តរមានជ័យ",
+                "ប៉ៃលិន",
+                "ភ្នំពេញ",
+                "ព្រះសីហនុ",
+                "ព្រះវិហារ",
+                "ព្រៃវែង",
+                "ពោធិសាត់",
+                "រតនគិរី",
+                "សៀមរាប",
+                "ស្ទឹងត្រែង",
+                "ស្វាយរៀង",
+                "តាកែវ",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "ស្រី",
+                "ប្រុស",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "ទីប្រជុំជន",
+                "ជនបទ",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -4117,12 +4117,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -4161,12 +4161,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -4205,12 +4205,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -4249,12 +4249,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -4293,12 +4293,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -4334,88 +4334,88 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH01",
-                "KH03",
-                "KH04",
-                "KH05",
-                "KH06",
-                "KH08",
-                "KH09",
-                "KH10",
-                "KH22",
-                "KH12",
-                "KH14",
-                "KH15",
-                "KH17",
-                "KH20",
-                "KH21",
-                "KH_AGG_KH02_KH24",
-                "KH_AGG_KH07_KH18_KH23",
-                "KH_AGG_KH10_KH13_KH19",
-                "KH_AGG_KH11_KH16",
-                "KH_AGG_KH22_KH17",
-                "KH_AGG_KH07_KH23",
-                "KH_KH09_KH18",
-                "KH_AGG_KH13_KH19",
+                "បន្ទាយមានជ័យ",
+                "កំពង់ចាម",
+                "កំពង់ឆ្នាំង",
+                "កំពង់ស្ពឺ",
+                "កំពង់ធំ",
+                "កណ្តាល",
+                "កោះកុង",
+                "ខេត្តក្រចេះ",
+                "ឧត្តរមានជ័យ",
+                "ភ្នំពេញ",
+                "ព្រៃវែង",
+                "ពោធិសាត់",
+                "សៀមរាប",
+                "ស្វាយរៀង",
+                "តាកែវ",
+                "ខេត្តបាត់ដំបងនិងប៉ៃលិន",
+                "កំពតព្រះសីហនុនិងកែប",
+                "ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង",
+                "មណ្ឌលគីរីនិងរតនគិរី",
+                "ឧត្តរមានជ័យនិងសៀមរាប",
+                "កំពតនិងកែប",
+                "កោះកុងនិងព្រះសីហនុ",
+                "ព្រះវិហារនិងស្ទឹងត្រែង",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "ស្រី",
+                "ប្រុស",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y0T4",
+                "អាយុក្រោម ៥ ឆ្នាំ",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "អាយុ"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "ទីប្រជុំជន",
+                "ជនបទ",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
             "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                "Q5",
+                "ឃ្វីនទី ១ (ក្របំផុត)",
+                "ឃ្វីនទី ២",
+                "ឃ្វីនទី ៣",
+                "ឃ្វីនទី ៤",
+                "ឃ្វីនទី ៥ (មានជាងគេបំផុត)",
                 ""
               ]
             },
-            "title": "INCOME_WEALTH_QUANTILE"
+            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -4451,88 +4451,88 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH01",
-                "KH03",
-                "KH04",
-                "KH05",
-                "KH06",
-                "KH08",
-                "KH09",
-                "KH10",
-                "KH22",
-                "KH12",
-                "KH14",
-                "KH15",
-                "KH17",
-                "KH20",
-                "KH21",
-                "KH_AGG_KH02_KH24",
-                "KH_AGG_KH07_KH18_KH23",
-                "KH_AGG_KH10_KH13_KH19",
-                "KH_AGG_KH11_KH16",
-                "KH_AGG_KH22_KH17",
-                "KH_AGG_KH07_KH23",
-                "KH_KH09_KH18",
-                "KH_AGG_KH13_KH19",
+                "បន្ទាយមានជ័យ",
+                "កំពង់ចាម",
+                "កំពង់ឆ្នាំង",
+                "កំពង់ស្ពឺ",
+                "កំពង់ធំ",
+                "កណ្តាល",
+                "កោះកុង",
+                "ខេត្តក្រចេះ",
+                "ឧត្តរមានជ័យ",
+                "ភ្នំពេញ",
+                "ព្រៃវែង",
+                "ពោធិសាត់",
+                "សៀមរាប",
+                "ស្វាយរៀង",
+                "តាកែវ",
+                "ខេត្តបាត់ដំបងនិងប៉ៃលិន",
+                "កំពតព្រះសីហនុនិងកែប",
+                "ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង",
+                "មណ្ឌលគីរីនិងរតនគិរី",
+                "ឧត្តរមានជ័យនិងសៀមរាប",
+                "កំពតនិងកែប",
+                "កោះកុងនិងព្រះសីហនុ",
+                "ព្រះវិហារនិងស្ទឹងត្រែង",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "ស្រី",
+                "ប្រុស",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y0T4",
+                "អាយុក្រោម ៥ ឆ្នាំ",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "អាយុ"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "ទីប្រជុំជន",
+                "ជនបទ",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
             "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Q1",
-                "Q2",
-                "Q3",
-                "Q4",
-                "Q5",
+                "ឃ្វីនទី ១ (ក្របំផុត)",
+                "ឃ្វីនទី ២",
+                "ឃ្វីនទី ៣",
+                "ឃ្វីនទី ៤",
+                "ឃ្វីនទី ៥ (មានជាងគេបំផុត)",
                 ""
               ]
             },
-            "title": "INCOME_WEALTH_QUANTILE"
+            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -4571,12 +4571,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -4615,12 +4615,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -4659,12 +4659,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -4703,12 +4703,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -4747,12 +4747,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -4791,12 +4791,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -4835,12 +4835,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -4879,12 +4879,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -4923,12 +4923,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -4967,12 +4967,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5011,12 +5011,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5055,12 +5055,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5099,12 +5099,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5143,12 +5143,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5187,12 +5187,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5231,12 +5231,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5275,23 +5275,23 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
+                "ស្រី",
                 ""
               ]
             },
-            "title": "SEX"
+            "title": "ការរួមភេទ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5330,12 +5330,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5374,12 +5374,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5418,12 +5418,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5462,12 +5462,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5506,12 +5506,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5550,12 +5550,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5594,12 +5594,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5638,12 +5638,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5682,12 +5682,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5726,12 +5726,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5770,12 +5770,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5814,12 +5814,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5858,12 +5858,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5902,12 +5902,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5946,12 +5946,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -5990,12 +5990,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -6034,12 +6034,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -6078,12 +6078,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -6122,12 +6122,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -6166,12 +6166,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -6210,12 +6210,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -6254,12 +6254,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -6298,12 +6298,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -6342,12 +6342,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -6386,12 +6386,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -6430,12 +6430,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -6474,12 +6474,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -6518,12 +6518,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -6562,12 +6562,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -6606,12 +6606,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -6650,12 +6650,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -6691,39 +6691,39 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH01",
-                "KH02",
-                "KH03",
-                "KH04",
-                "KH05",
-                "KH06",
-                "KH07",
-                "KH08",
-                "KH23",
-                "KH09",
-                "KH10",
-                "KH11",
-                "KH22",
-                "KH24",
-                "KH12",
-                "KH18",
-                "KH13",
-                "KH14",
-                "KH15",
-                "KH16",
-                "KH17",
-                "KH19",
-                "KH20",
-                "KH21",
+                "បន្ទាយមានជ័យ",
+                "បាត់ដំបង",
+                "កំពង់ចាម",
+                "កំពង់ឆ្នាំង",
+                "កំពង់ស្ពឺ",
+                "កំពង់ធំ",
+                "កំពត",
+                "កណ្តាល",
+                "កែប",
+                "កោះកុង",
+                "ខេត្តក្រចេះ",
+                "មណ្ឌលគីរី",
+                "ឧត្តរមានជ័យ",
+                "ប៉ៃលិន",
+                "ភ្នំពេញ",
+                "ព្រះសីហនុ",
+                "ព្រះវិហារ",
+                "ព្រៃវែង",
+                "ពោធិសាត់",
+                "រតនគិរី",
+                "សៀមរាប",
+                "ស្ទឹងត្រែង",
+                "ស្វាយរៀង",
+                "តាកែវ",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -6762,23 +6762,23 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "B50",
+                "ក្រោម ៥០%",
                 ""
               ]
             },
-            "title": "INCOME_WEALTH_QUANTILE"
+            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -6817,23 +6817,23 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "B40",
+                "បាត ៤០%",
                 ""
               ]
             },
-            "title": "INCOME_WEALTH_QUANTILE"
+            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -6872,12 +6872,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -6916,12 +6916,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -6960,23 +6960,23 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y0T17",
+                "អាយុក្រោម ១៨ ឆ្នាំ",
                 ""
               ]
             },
-            "title": "AGE"
+            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -7012,28 +7012,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "KH12",
+                "ភ្នំពេញ",
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "ទីប្រជុំជន",
+                "ជនបទ",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -7072,24 +7072,24 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "ទីប្រជុំជន",
+                "ជនបទ",
                 ""
               ]
             },
-            "title": "URBANISATION"
+            "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
@@ -7128,12 +7128,12 @@
                 ""
               ]
             },
-            "title": "REF_AREA"
+            "title": "តំបន់យោង"
           },
           {
             "name": "UNIT_MEASURE",
             "type": "string",
-            "title": "UNIT_MEASURE"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "Value",
