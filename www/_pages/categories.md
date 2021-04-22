@@ -1,7 +1,7 @@
 ---
 layout: categories
 permalink: /categories/
+language: km
 title: Categories
 ---
-## Posts by Category
-Here is a list of posts, grouped by category:
+ការបកប្រែដែលត្រូវការ

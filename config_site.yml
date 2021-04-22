@@ -17,8 +17,8 @@ disclaimer:
 
 # The list of languages that are translated. The first one is the default.
 languages:
-  - en
   - km
+  - en
 
 # URL for the "Edit Data" button on indicators.
 data_edit_url: http://prose.io/#brockfanning/open-sdg-cambodia/edit/develop/data/indicator_[id].csv
