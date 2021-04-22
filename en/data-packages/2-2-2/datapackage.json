@@ -11,37 +11,20 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "under 5 years old"
-              ]
-            },
-            "title": "Age"
+            "title": "Year"
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Quintile 1 (poorest)",
-                "Quintile 2",
-                "Quintile 3",
-                "Quintile 4",
-                "Quintile 5 (richest)"
-              ]
-            },
-            "title": "Income or wealth quantile"
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Banteay Meanchey",
                 "Kampong Cham",
                 "Kampong Chhnang",
@@ -50,41 +33,75 @@
                 "Kandal",
                 "Koh Kong",
                 "Kratie",
+                "Oddar Meanchey",
                 "Phnom Penh",
                 "Prey Veng",
                 "Pursat",
                 "Siemreap",
                 "Svay Rieng",
                 "Takeo",
-                "Oddar Meanchey",
                 "Battambang and Pailin",
                 "Kampot, Preah Sihanouk and Kep",
-                "Kampot and Kep",
                 "Kratie, Preah Vihear and Stung Treng",
                 "Mondul Kiri and Ratanak Kiri",
-                "Preah Vihear and Stung Treng",
                 "Otdar Meanchey and Siem Reap",
-                "Koh Kong and Preah Sihanouk"
+                "Kampot and Kep",
+                "Koh Kong and Preah Sihanouk",
+                "Preah Vihear and Stung Treng",
+                ""
               ]
             },
             "title": "Reference area"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Female",
-                "Male"
+                "Male",
+                ""
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "under 5 years old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "INCOME_WEALTH_QUANTILE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Quintile 1 (poorest)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (richest)",
+                ""
+              ]
+            },
+            "title": "Income or wealth quantile"
           },
           {
             "name": "UNIT_MEASURE",
@@ -92,26 +109,9 @@
             "title": "Unit of measure"
           },
           {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Rural",
-                "Urban"
-              ]
-            },
-            "title": "Degree of urbanisation"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

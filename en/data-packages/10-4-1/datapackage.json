@@ -11,11 +11,20 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Banteay Meanchey",
                 "Battambang",
                 "Kampong Cham",
@@ -24,30 +33,26 @@
                 "Kampong Thom",
                 "Kampot",
                 "Kandal",
+                "Kep",
                 "Koh Kong",
                 "Kratie",
                 "Mondul Kiri",
+                "Oddar Meanchey",
+                "Pailin",
                 "Phnom Penh",
+                "Preah Sihanouk",
                 "Preah Vihear",
                 "Prey Veng",
                 "Pursat",
                 "Ratanak Kiri",
                 "Siemreap",
-                "Preah Sihanouk",
                 "Stung Treng",
                 "Svay Rieng",
                 "Takeo",
-                "Oddar Meanchey",
-                "Kep",
-                "Pailin"
+                ""
               ]
             },
             "title": "Reference area"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SDG Series"
           },
           {
             "name": "UNIT_MEASURE",
@@ -58,11 +63,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

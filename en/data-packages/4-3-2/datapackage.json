@@ -11,15 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
+            "name": "Year",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "15 to 24 years old"
-              ]
-            },
-            "title": "Age"
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -32,9 +31,15 @@
             "title": "Reference area"
           },
           {
-            "name": "SERIES",
+            "name": "AGE",
             "type": "string",
-            "title": "SDG Series"
+            "constraints": {
+              "enum": [
+                "15 to 24 years old",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "UNIT_MEASURE",
@@ -45,11 +50,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

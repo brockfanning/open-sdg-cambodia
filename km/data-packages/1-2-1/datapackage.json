@@ -11,9 +11,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "REF_AREA",
             "type": "string",
-            "title": "Year"
+            "constraints": {
+              "enum": [
+                "",
+                "ភ្នំពេញ"
+              ]
+            },
+            "title": "តំបន់យោង"
           },
           {
             "name": "SERIES",
@@ -21,37 +27,31 @@
             "title": "SERIES"
           },
           {
-            "name": "REF_AREA",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "ភ្នំពេញ",
-                ""
-              ]
-            },
-            "title": "តំបន់យោង"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "ទីប្រជុំជន",
+                "",
                 "ជនបទ",
-                ""
+                "ទីប្រជុំជន"
               ]
             },
             "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

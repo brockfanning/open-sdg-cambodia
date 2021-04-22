@@ -1,4 +1,4 @@
-Value,en,km,Disaggregation combinations using this value,Number of indicators
-R,Rural,ជនបទ,22,15
-REMOTE,Remote Area,តំបន់ដាច់ស្រយាល,6,2
-U,Urban,ទីប្រជុំជន,22,15
+Value,km,en,Disaggregation combinations using this value,Number of indicators
+R,ជនបទ,Rural,22,15
+REMOTE,តំបន់ដាច់ស្រយាល,Remote Area,6,2
+U,ទីប្រជុំជន,Urban,22,15

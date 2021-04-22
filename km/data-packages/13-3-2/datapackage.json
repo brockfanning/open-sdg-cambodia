@@ -11,16 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -31,6 +21,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -39,6 +34,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

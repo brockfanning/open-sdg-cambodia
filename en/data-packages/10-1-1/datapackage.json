@@ -11,15 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "INCOME_WEALTH_QUANTILE",
+            "name": "Year",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Bottom 40%"
-              ]
-            },
-            "title": "Income or wealth quantile"
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -32,9 +31,15 @@
             "title": "Reference area"
           },
           {
-            "name": "SERIES",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
-            "title": "SDG Series"
+            "constraints": {
+              "enum": [
+                "Bottom 40%",
+                ""
+              ]
+            },
+            "title": "Income or wealth quantile"
           },
           {
             "name": "UNIT_MEASURE",
@@ -45,11 +50,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

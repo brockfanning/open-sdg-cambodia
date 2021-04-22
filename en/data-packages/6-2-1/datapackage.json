@@ -11,17 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Type of toilet: Pour FlushConnected To Septic Tank",
-                "Type of toilet: Pour Flush Connected To Sewerage",
-                "Type of toilet: Pit Latrine With Slab"
-              ]
-            },
-            "title": "Composite breakdown"
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -34,9 +31,29 @@
             "title": "Reference area"
           },
           {
-            "name": "SERIES",
+            "name": "URBANISATION",
             "type": "string",
-            "title": "SDG Series"
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Type of toilet: Pour Flush Connected To Sewerage",
+                "Type of toilet: Pour FlushConnected To Septic Tank",
+                "Type of toilet: Pit Latrine With Slab",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
           },
           {
             "name": "UNIT_MEASURE",
@@ -44,26 +61,9 @@
             "title": "Unit of measure"
           },
           {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Rural",
-                "Urban"
-              ]
-            },
-            "title": "Degree of urbanisation"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

@@ -11,15 +11,14 @@
       "schema": {
         "fields": [
           {
-            "name": "EDUCATION_LEV",
+            "name": "Year",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Pre-primary education"
-              ]
-            },
-            "title": "Education level"
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
@@ -32,9 +31,15 @@
             "title": "Reference area"
           },
           {
-            "name": "SERIES",
+            "name": "EDUCATION_LEV",
             "type": "string",
-            "title": "SDG Series"
+            "constraints": {
+              "enum": [
+                "Pre-primary education",
+                ""
+              ]
+            },
+            "title": "Education level"
           },
           {
             "name": "UNIT_MEASURE",
@@ -45,11 +50,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

@@ -13,16 +13,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -33,6 +23,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -41,6 +36,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -57,16 +57,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -77,6 +67,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -85,6 +80,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -101,16 +101,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -121,6 +111,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -129,6 +124,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -145,16 +145,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -165,6 +155,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -173,6 +168,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -189,16 +189,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -209,6 +199,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -217,6 +212,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -233,16 +233,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -253,6 +243,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -261,6 +256,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -277,16 +277,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -297,6 +287,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -305,6 +300,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -321,16 +321,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -341,6 +331,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -349,6 +344,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -365,16 +365,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -385,6 +375,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -393,6 +388,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -409,16 +409,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -429,6 +419,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -437,6 +432,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -453,16 +453,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -473,6 +463,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -481,6 +476,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -497,16 +497,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -517,6 +507,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -525,6 +520,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -541,16 +541,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -561,6 +551,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -569,6 +564,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -585,16 +585,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -605,6 +595,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -613,6 +608,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -629,16 +629,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -649,6 +639,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -657,6 +652,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -673,16 +673,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -693,6 +683,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -701,6 +696,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -717,16 +717,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -737,6 +727,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -745,6 +740,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -761,16 +761,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -781,6 +771,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -789,6 +784,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -805,16 +805,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -825,6 +815,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -833,6 +828,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -849,16 +849,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -869,6 +859,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -877,6 +872,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -893,16 +893,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -913,6 +903,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -921,6 +916,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -937,16 +937,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -957,6 +947,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -965,6 +960,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -981,14 +981,17 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "ប្រភេទបង្គន់: ចាក់ FlushConnected To Septic Tank",
+                "ប្រភេទបង្គន់: ចាក់ទឹកភ្ជាប់ភ្ជាប់ទៅនឹងលូទឹក",
+                "ប្រភេទបង្គន់៖ បង្គន់រណ្តៅជាមួយស្លា"
+              ]
+            },
+            "title": "ការវិភាគសមាសធាតុ"
           },
           {
             "name": "REF_AREA",
@@ -1001,29 +1004,9 @@
             "title": "តំបន់យោង"
           },
           {
-            "name": "URBANISATION",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "ទីប្រជុំជន",
-                "ជនបទ",
-                ""
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ប្រភេទបង្គន់: ចាក់ទឹកភ្ជាប់ភ្ជាប់ទៅនឹងលូទឹក",
-                "ប្រភេទបង្គន់: ចាក់ FlushConnected To Septic Tank",
-                "ប្រភេទបង្គន់៖ បង្គន់រណ្តៅជាមួយស្លា",
-                ""
-              ]
-            },
-            "title": "ការវិភាគសមាសធាតុ"
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1031,9 +1014,26 @@
             "title": "ឯកតារង្វាស់"
           },
           {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -1050,14 +1050,19 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "ប្រភេទប្រភពទឹក៖ ជីកអណ្តូងការពារ",
+                "ប្រភេទប្រភពទឹក: បំពង់បង្ហូរទឹកនៅក្នុងទីជម្រកឬនៅតាមបរិវេណ",
+                "ប្រភេទប្រភពទឹក៖ បំពង់ទុយោអណ្តូងរឺបូរី",
+                "ប្រភេទប្រភពទឹក៖ ប្រភពសាធារណៈ",
+                "ប្រភេទប្រភពទឹក៖ ការប្រមូលទឹកភ្លៀងឱ្យប្រសើរឡើង"
+              ]
+            },
+            "title": "ការវិភាគសមាសធាតុ"
           },
           {
             "name": "REF_AREA",
@@ -1070,31 +1075,9 @@
             "title": "តំបន់យោង"
           },
           {
-            "name": "URBANISATION",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "ទីប្រជុំជន",
-                "ជនបទ",
-                ""
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
-          },
-          {
-            "name": "COMPOSITE_BREAKDOWN",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ប្រភេទប្រភពទឹក: បំពង់បង្ហូរទឹកនៅក្នុងទីជម្រកឬនៅតាមបរិវេណ",
-                "ប្រភេទប្រភពទឹក៖ ប្រភពសាធារណៈ",
-                "ប្រភេទប្រភពទឹក៖ បំពង់ទុយោអណ្តូងរឺបូរី",
-                "ប្រភេទប្រភពទឹក៖ ជីកអណ្តូងការពារ",
-                "ប្រភេទប្រភពទឹក៖ ការប្រមូលទឹកភ្លៀងឱ្យប្រសើរឡើង",
-                ""
-              ]
-            },
-            "title": "ការវិភាគសមាសធាតុ"
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1102,9 +1085,26 @@
             "title": "ឯកតារង្វាស់"
           },
           {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -1121,16 +1121,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -1141,6 +1131,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -1149,6 +1144,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -1165,16 +1165,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -1185,6 +1175,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -1193,6 +1188,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -1209,16 +1209,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -1229,6 +1219,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -1237,6 +1232,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -1253,14 +1253,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុពី ១៥ ទៅ ៤៩ ឆ្នាំ"
+              ]
+            },
+            "title": "អាយុ"
           },
           {
             "name": "REF_AREA",
@@ -1273,26 +1274,20 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "ស្រី",
-                ""
+                "",
+                "ស្រី"
               ]
             },
             "title": "ការរួមភេទ"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "អាយុពី ១៥ ទៅ ៤៩ ឆ្នាំ",
-                ""
-              ]
-            },
-            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1303,6 +1298,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -1319,16 +1319,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -1339,12 +1329,17 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "ស្រី",
-                ""
+                "",
+                "ស្រី"
               ]
             },
             "title": "ការរួមភេទ"
@@ -1358,6 +1353,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -1374,16 +1374,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -1394,12 +1384,17 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "ស្រី",
-                ""
+                "",
+                "ស្រី"
               ]
             },
             "title": "ការរួមភេទ"
@@ -1413,6 +1408,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -1429,16 +1429,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -1449,12 +1439,17 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "ស្រី",
-                ""
+                "",
+                "ស្រី"
               ]
             },
             "title": "ការរួមភេទ"
@@ -1468,6 +1463,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -1484,16 +1484,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -1504,6 +1494,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -1512,6 +1507,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -1528,14 +1528,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុពី ២០ ទៅ ២៤ ឆ្នាំ"
+              ]
+            },
+            "title": "អាយុ"
           },
           {
             "name": "REF_AREA",
@@ -1548,26 +1549,20 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "ស្រី",
-                ""
+                "",
+                "ស្រី"
               ]
             },
             "title": "ការរួមភេទ"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "អាយុពី ២០ ទៅ ២៤ ឆ្នាំ",
-                ""
-              ]
-            },
-            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1578,6 +1573,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -1594,14 +1594,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុ ១៥ ឆ្នាំឡើងទៅ"
+              ]
+            },
+            "title": "អាយុ"
           },
           {
             "name": "REF_AREA",
@@ -1614,26 +1615,20 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "ស្រី",
-                ""
+                "",
+                "ស្រី"
               ]
             },
             "title": "ការរួមភេទ"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "អាយុ ១៥ ឆ្នាំឡើងទៅ",
-                ""
-              ]
-            },
-            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1644,6 +1639,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -1660,14 +1660,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុ ១៥ ឆ្នាំឡើងទៅ"
+              ]
+            },
+            "title": "អាយុ"
           },
           {
             "name": "REF_AREA",
@@ -1680,26 +1681,20 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "ស្រី",
-                ""
+                "",
+                "ស្រី"
               ]
             },
             "title": "ការរួមភេទ"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "អាយុ ១៥ ឆ្នាំឡើងទៅ",
-                ""
-              ]
-            },
-            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1710,6 +1705,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -1726,16 +1726,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -1746,6 +1736,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -1754,6 +1749,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -1770,16 +1770,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -1790,6 +1780,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -1798,6 +1793,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -1814,14 +1814,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "EDUCATION_LEV",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "អនុវិទ្យាល័យ (អនុវិទ្យាល័យនិងមធ្យមសិក្សាទុតិយភូមិ)"
+              ]
+            },
+            "title": "កម្រិត​ការ​អប់រំ"
           },
           {
             "name": "REF_AREA",
@@ -1834,15 +1835,9 @@
             "title": "តំបន់យោង"
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "អនុវិទ្យាល័យ (អនុវិទ្យាល័យនិងមធ្យមសិក្សាទុតិយភូមិ)",
-                ""
-              ]
-            },
-            "title": "កម្រិត​ការ​អប់រំ"
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1853,6 +1848,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -1869,14 +1869,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "EDUCATION_LEV",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "ការអប់រំ​បឋម"
+              ]
+            },
+            "title": "កម្រិត​ការ​អប់រំ"
           },
           {
             "name": "REF_AREA",
@@ -1889,15 +1890,9 @@
             "title": "តំបន់យោង"
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "ការអប់រំ​បឋម",
-                ""
-              ]
-            },
-            "title": "កម្រិត​ការ​អប់រំ"
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1908,6 +1903,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -1924,14 +1924,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "EDUCATION_LEV",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "ការអប់រំបឋម"
+              ]
+            },
+            "title": "កម្រិត​ការ​អប់រំ"
           },
           {
             "name": "REF_AREA",
@@ -1944,15 +1945,9 @@
             "title": "តំបន់យោង"
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "ការអប់រំបឋម",
-                ""
-              ]
-            },
-            "title": "កម្រិត​ការ​អប់រំ"
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -1963,6 +1958,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -1979,16 +1979,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -1999,6 +1989,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -2007,6 +2002,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -2023,16 +2023,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -2043,6 +2033,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -2051,6 +2046,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -2067,16 +2067,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -2087,6 +2077,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -2095,6 +2090,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -2111,16 +2111,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -2131,6 +2121,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -2139,6 +2134,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -2155,14 +2155,25 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុពី ១៥ ទៅ ២៤ ឆ្នាំ",
+                "អាយុពី ២៥ ទៅ ៣៤ ឆ្នាំ",
+                "អាយុពី ៣៥ ទៅ ៤៤ ឆ្នាំ",
+                "អាយុពី ៤៥ ទៅ ៥៤ ឆ្នាំ",
+                "អាយុពី ៥៥ ទៅ ៦៤ ឆ្នាំ",
+                "អាយុពី ៦ ទៅ ១៤ ឆ្នាំ",
+                "អាយុពី ៧ ទៅ ១៤ ឆ្នាំ",
+                "អាយុ ១៥ ឆ្នាំឡើងទៅ",
+                "អាយុ ៦ ឆ្នាំឡើងទៅ",
+                "អាយុ ៦៥ ឆ្នាំឡើងទៅ",
+                "អាយុ ៧ ឆ្នាំឡើងទៅ"
+              ]
+            },
+            "title": "អាយុ"
           },
           {
             "name": "REF_AREA",
@@ -2175,37 +2186,21 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "ស្រី",
-                "ប្រុស",
-                ""
+                "ប្រុស"
               ]
             },
             "title": "ការរួមភេទ"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "អាយុពី ៦ ទៅ ១៤ ឆ្នាំ",
-                "អាយុ ៦ ឆ្នាំឡើងទៅ",
-                "អាយុពី ៧ ទៅ ១៤ ឆ្នាំ",
-                "អាយុ ៧ ឆ្នាំឡើងទៅ",
-                "អាយុពី ១៥ ទៅ ២៤ ឆ្នាំ",
-                "អាយុ ១៥ ឆ្នាំឡើងទៅ",
-                "អាយុពី ២៥ ទៅ ៣៤ ឆ្នាំ",
-                "អាយុពី ៣៥ ទៅ ៤៤ ឆ្នាំ",
-                "អាយុ ៦៥ ឆ្នាំឡើងទៅ",
-                "អាយុពី ៤៥ ទៅ ៥៤ ឆ្នាំ",
-                "អាយុពី ៥៥ ទៅ ៦៤ ឆ្នាំ",
-                ""
-              ]
-            },
-            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2216,6 +2211,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -2232,20 +2232,22 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "EDUCATION_LEV",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "មធ្យមសិក្សាទុតិយភូមិ"
+              ]
+            },
+            "title": "កម្រិត​ការ​អប់រំ"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "បន្ទាយមានជ័យ",
                 "បាត់ដំបង",
                 "កំពង់ចាម",
@@ -2254,50 +2256,31 @@
                 "កំពង់ធំ",
                 "កំពត",
                 "កណ្តាល",
-                "កែប",
                 "កោះកុង",
                 "ខេត្តក្រចេះ",
                 "មណ្ឌលគីរី",
-                "ឧត្តរមានជ័យ",
-                "ប៉ៃលិន",
                 "ភ្នំពេញ",
-                "ព្រះសីហនុ",
                 "ព្រះវិហារ",
                 "ព្រៃវែង",
                 "ពោធិសាត់",
                 "រតនគិរី",
                 "សៀមរាប",
+                "ព្រះសីហនុ",
                 "ស្ទឹងត្រែង",
                 "ស្វាយរៀង",
                 "តាកែវ",
-                "ត្បូងឃ្មុំ",
-                ""
+                "ឧត្តរមានជ័យ",
+                "កែប",
+                "ប៉ៃលិន",
+                "ត្បូងឃ្មុំ"
               ]
             },
             "title": "តំបន់យោង"
           },
           {
-            "name": "URBANISATION",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "ទីប្រជុំជន",
-                "ជនបទ",
-                ""
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
-          },
-          {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "មធ្យមសិក្សាទុតិយភូមិ",
-                ""
-              ]
-            },
-            "title": "កម្រិត​ការ​អប់រំ"
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2305,9 +2288,26 @@
             "title": "ឯកតារង្វាស់"
           },
           {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -2324,16 +2324,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -2344,16 +2334,9 @@
             "title": "តំបន់យោង"
           },
           {
-            "name": "URBANISATION",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "ទីប្រជុំជន",
-                "ជនបទ",
-                ""
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2361,9 +2344,26 @@
             "title": "ឯកតារង្វាស់"
           },
           {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -2380,14 +2380,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុពី ១៥ ទៅ ២៤ ឆ្នាំ"
+              ]
+            },
+            "title": "អាយុ"
           },
           {
             "name": "REF_AREA",
@@ -2400,15 +2401,9 @@
             "title": "តំបន់យោង"
           },
           {
-            "name": "AGE",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "អាយុពី ១៥ ទៅ ២៤ ឆ្នាំ",
-                ""
-              ]
-            },
-            "title": "អាយុ"
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2419,6 +2414,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -2435,14 +2435,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុពី ១៨ ទៅ ២១ ឆ្នាំ"
+              ]
+            },
+            "title": "អាយុ"
           },
           {
             "name": "REF_AREA",
@@ -2455,27 +2456,21 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "ស្រី",
-                "ប្រុស",
-                ""
+                "ប្រុស"
               ]
             },
             "title": "ការរួមភេទ"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "អាយុពី ១៨ ទៅ ២១ ឆ្នាំ",
-                ""
-              ]
-            },
-            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2486,6 +2481,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -2502,16 +2502,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -2522,6 +2512,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -2530,6 +2525,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -2546,16 +2546,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -2566,6 +2556,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -2574,6 +2569,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -2590,20 +2590,11 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "បន្ទាយមានជ័យ",
                 "បាត់ដំបង",
                 "កំពង់ចាម",
@@ -2612,52 +2603,43 @@
                 "កំពង់ធំ",
                 "កំពត",
                 "កណ្តាល",
-                "កែប",
                 "កោះកុង",
                 "ខេត្តក្រចេះ",
                 "មណ្ឌលគីរី",
-                "ឧត្តរមានជ័យ",
-                "ប៉ៃលិន",
                 "ភ្នំពេញ",
-                "ព្រះសីហនុ",
                 "ព្រះវិហារ",
                 "ព្រៃវែង",
                 "ពោធិសាត់",
                 "រតនគិរី",
                 "សៀមរាប",
+                "ព្រះសីហនុ",
                 "ស្ទឹងត្រែង",
                 "ស្វាយរៀង",
                 "តាកែវ",
-                "ត្បូងឃ្មុំ",
-                ""
+                "ឧត្តរមានជ័យ",
+                "កែប",
+                "ប៉ៃលិន",
+                "ត្បូងឃ្មុំ"
               ]
             },
             "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "ស្រី",
-                "ប្រុស",
-                ""
+                "ប្រុស"
               ]
             },
             "title": "ការរួមភេទ"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ទីប្រជុំជន",
-                "ជនបទ",
-                "តំបន់ដាច់ស្រយាល",
-                ""
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2665,9 +2647,27 @@
             "title": "ឯកតារង្វាស់"
           },
           {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "តំបន់ដាច់ស្រយាល",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -2684,20 +2684,11 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "បន្ទាយមានជ័យ",
                 "បាត់ដំបង",
                 "កំពង់ចាម",
@@ -2706,52 +2697,43 @@
                 "កំពង់ធំ",
                 "កំពត",
                 "កណ្តាល",
-                "កែប",
                 "កោះកុង",
                 "ខេត្តក្រចេះ",
                 "មណ្ឌលគីរី",
-                "ឧត្តរមានជ័យ",
-                "ប៉ៃលិន",
                 "ភ្នំពេញ",
-                "ព្រះសីហនុ",
                 "ព្រះវិហារ",
                 "ព្រៃវែង",
                 "ពោធិសាត់",
                 "រតនគិរី",
                 "សៀមរាប",
+                "ព្រះសីហនុ",
                 "ស្ទឹងត្រែង",
                 "ស្វាយរៀង",
                 "តាកែវ",
-                "ត្បូងឃ្មុំ",
-                ""
+                "ឧត្តរមានជ័យ",
+                "កែប",
+                "ប៉ៃលិន",
+                "ត្បូងឃ្មុំ"
               ]
             },
             "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "ស្រី",
-                "ប្រុស",
-                ""
+                "ប្រុស"
               ]
             },
             "title": "ការរួមភេទ"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ទីប្រជុំជន",
-                "ជនបទ",
-                "តំបន់ដាច់ស្រយាល",
-                ""
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2759,9 +2741,27 @@
             "title": "ឯកតារង្វាស់"
           },
           {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "តំបន់ដាច់ស្រយាល",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -2778,16 +2778,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -2798,6 +2788,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -2806,6 +2801,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -2822,14 +2822,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុពី ១៣ ទៅ ១៥ ឆ្នាំ"
+              ]
+            },
+            "title": "អាយុ"
           },
           {
             "name": "REF_AREA",
@@ -2842,15 +2843,9 @@
             "title": "តំបន់យោង"
           },
           {
-            "name": "AGE",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "អាយុពី ១៣ ទៅ ១៥ ឆ្នាំ",
-                ""
-              ]
-            },
-            "title": "អាយុ"
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2861,6 +2856,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -2877,14 +2877,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុ ១៥ ឆ្នាំឡើងទៅ"
+              ]
+            },
+            "title": "អាយុ"
           },
           {
             "name": "REF_AREA",
@@ -2897,27 +2898,21 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "ស្រី",
-                "ប្រុស",
-                ""
+                "ប្រុស"
               ]
             },
             "title": "ការរួមភេទ"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "អាយុ ១៥ ឆ្នាំឡើងទៅ",
-                ""
-              ]
-            },
-            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
@@ -2928,6 +2923,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -2944,16 +2944,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -2964,6 +2954,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -2972,6 +2967,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -2988,16 +2988,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -3008,6 +2998,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -3016,6 +3011,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -3032,14 +3032,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុពី ១៥ ទៅ ១៩ ឆ្នាំ"
+              ]
+            },
+            "title": "អាយុ"
           },
           {
             "name": "REF_AREA",
@@ -3052,26 +3053,20 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "ស្រី",
-                ""
+                "",
+                "ស្រី"
               ]
             },
             "title": "ការរួមភេទ"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "អាយុពី ១៥ ទៅ ១៩ ឆ្នាំ",
-                ""
-              ]
-            },
-            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
@@ -3082,6 +3077,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -3098,14 +3098,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុពី ១៥ ទៅ ៤៩ ឆ្នាំ"
+              ]
+            },
+            "title": "អាយុ"
           },
           {
             "name": "REF_AREA",
@@ -3118,26 +3119,20 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "ស្រី",
-                ""
+                "",
+                "ស្រី"
               ]
             },
             "title": "ការរួមភេទ"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "អាយុពី ១៥ ទៅ ៤៩ ឆ្នាំ",
-                ""
-              ]
-            },
-            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
@@ -3148,6 +3143,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -3164,16 +3164,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -3184,6 +3174,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -3192,6 +3187,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -3208,14 +3208,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុ ១៨ ឆ្នាំឡើងទៅ"
+              ]
+            },
+            "title": "អាយុ"
           },
           {
             "name": "REF_AREA",
@@ -3228,15 +3229,9 @@
             "title": "តំបន់យោង"
           },
           {
-            "name": "AGE",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "អាយុ ១៨ ឆ្នាំឡើងទៅ",
-                ""
-              ]
-            },
-            "title": "អាយុ"
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -3247,6 +3242,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -3263,16 +3263,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -3283,6 +3273,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -3291,6 +3286,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -3307,16 +3307,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -3327,6 +3317,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -3335,6 +3330,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -3351,16 +3351,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -3371,6 +3361,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -3379,6 +3374,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -3395,16 +3395,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -3415,6 +3405,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -3423,6 +3418,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -3439,16 +3439,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -3459,6 +3449,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -3467,6 +3462,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -3483,16 +3483,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -3503,6 +3493,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -3511,6 +3506,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -3527,20 +3527,38 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុក្រោម ១ ខែ",
+                "អាយុក្រោម ១ ឆ្នាំ"
+              ]
+            },
+            "title": "អាយុ"
           },
           {
-            "name": "SERIES",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "ឃ្វីនទី ១ (ក្របំផុត)",
+                "ឃ្វីនទី ២",
+                "ឃ្វីនទី ៣",
+                "ឃ្វីនទី ៤",
+                "ឃ្វីនទី ៥ (មានជាងគេបំផុត)"
+              ]
+            },
+            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "បន្ទាយមានជ័យ",
                 "កំពង់ចាម",
                 "កំពង់ឆ្នាំង",
@@ -3549,76 +3567,41 @@
                 "កណ្តាល",
                 "កោះកុង",
                 "ខេត្តក្រចេះ",
-                "ឧត្តរមានជ័យ",
                 "ភ្នំពេញ",
                 "ព្រៃវែង",
                 "ពោធិសាត់",
                 "សៀមរាប",
                 "ស្វាយរៀង",
                 "តាកែវ",
+                "ឧត្តរមានជ័យ",
                 "ខេត្តបាត់ដំបងនិងប៉ៃលិន",
                 "កំពតព្រះសីហនុនិងកែប",
+                "កំពតនិងកែប",
                 "ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង",
                 "មណ្ឌលគីរីនិងរតនគិរី",
-                "ឧត្តរមានជ័យនិងសៀមរាប",
-                "កំពតនិងកែប",
-                "កោះកុងនិងព្រះសីហនុ",
                 "ព្រះវិហារនិងស្ទឹងត្រែង",
-                ""
+                "ឧត្តរមានជ័យនិងសៀមរាប",
+                "កោះកុងនិងព្រះសីហនុ"
               ]
             },
             "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "ស្រី",
-                "ប្រុស",
-                ""
+                "ប្រុស"
               ]
             },
             "title": "ការរួមភេទ"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "អាយុក្រោម ១ ខែ",
-                "អាយុក្រោម ១ ឆ្នាំ",
-                ""
-              ]
-            },
-            "title": "អាយុ"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ទីប្រជុំជន",
-                "ជនបទ",
-                ""
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
-          },
-          {
-            "name": "INCOME_WEALTH_QUANTILE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ឃ្វីនទី ១ (ក្របំផុត)",
-                "ឃ្វីនទី ២",
-                "ឃ្វីនទី ៣",
-                "ឃ្វីនទី ៤",
-                "ឃ្វីនទី ៥ (មានជាងគេបំផុត)",
-                ""
-              ]
-            },
-            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
           },
           {
             "name": "UNIT_MEASURE",
@@ -3626,9 +3609,26 @@
             "title": "ឯកតារង្វាស់"
           },
           {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -3645,20 +3645,37 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុក្រោម ៥ ឆ្នាំ"
+              ]
+            },
+            "title": "អាយុ"
           },
           {
-            "name": "SERIES",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "ឃ្វីនទី ១ (ក្របំផុត)",
+                "ឃ្វីនទី ២",
+                "ឃ្វីនទី ៣",
+                "ឃ្វីនទី ៤",
+                "ឃ្វីនទី ៥ (មានជាងគេបំផុត)"
+              ]
+            },
+            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "បន្ទាយមានជ័យ",
                 "កំពង់ចាម",
                 "កំពង់ឆ្នាំង",
@@ -3667,75 +3684,41 @@
                 "កណ្តាល",
                 "កោះកុង",
                 "ខេត្តក្រចេះ",
-                "ឧត្តរមានជ័យ",
                 "ភ្នំពេញ",
                 "ព្រៃវែង",
                 "ពោធិសាត់",
                 "សៀមរាប",
                 "ស្វាយរៀង",
                 "តាកែវ",
+                "ឧត្តរមានជ័យ",
                 "ខេត្តបាត់ដំបងនិងប៉ៃលិន",
                 "កំពតព្រះសីហនុនិងកែប",
+                "កំពតនិងកែប",
                 "ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង",
                 "មណ្ឌលគីរីនិងរតនគិរី",
-                "ឧត្តរមានជ័យនិងសៀមរាប",
-                "កំពតនិងកែប",
-                "កោះកុងនិងព្រះសីហនុ",
                 "ព្រះវិហារនិងស្ទឹងត្រែង",
-                ""
+                "ឧត្តរមានជ័យនិងសៀមរាប",
+                "កោះកុងនិងព្រះសីហនុ"
               ]
             },
             "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "ស្រី",
-                "ប្រុស",
-                ""
+                "ប្រុស"
               ]
             },
             "title": "ការរួមភេទ"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "អាយុក្រោម ៥ ឆ្នាំ",
-                ""
-              ]
-            },
-            "title": "អាយុ"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ទីប្រជុំជន",
-                "ជនបទ",
-                ""
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
-          },
-          {
-            "name": "INCOME_WEALTH_QUANTILE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ឃ្វីនទី ១ (ក្របំផុត)",
-                "ឃ្វីនទី ២",
-                "ឃ្វីនទី ៣",
-                "ឃ្វីនទី ៤",
-                "ឃ្វីនទី ៥ (មានជាងគេបំផុត)",
-                ""
-              ]
-            },
-            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
           },
           {
             "name": "UNIT_MEASURE",
@@ -3743,9 +3726,26 @@
             "title": "ឯកតារង្វាស់"
           },
           {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -3762,20 +3762,11 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "បន្ទាយមានជ័យ",
                 "កំពង់ចាម",
                 "កំពង់ឆ្នាំង",
@@ -3784,37 +3775,29 @@
                 "កណ្តាល",
                 "កោះកុង",
                 "ខេត្តក្រចេះ",
-                "ឧត្តរមានជ័យ",
                 "ភ្នំពេញ",
                 "ព្រៃវែង",
                 "ពោធិសាត់",
                 "សៀមរាប",
                 "ស្វាយរៀង",
                 "តាកែវ",
+                "ឧត្តរមានជ័យ",
                 "ខេត្តបាត់ដំបងនិងប៉ៃលិន",
                 "កំពតព្រះសីហនុនិងកែប",
+                "កំពតនិងកែប",
                 "ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង",
                 "មណ្ឌលគីរីនិងរតនគិរី",
-                "ឧត្តរមានជ័យនិងសៀមរាប",
-                "កំពតនិងកែប",
-                "កោះកុងនិងព្រះសីហនុ",
                 "ព្រះវិហារនិងស្ទឹងត្រែង",
-                ""
+                "ឧត្តរមានជ័យនិងសៀមរាប",
+                "កោះកុងនិងព្រះសីហនុ"
               ]
             },
             "title": "តំបន់យោង"
           },
           {
-            "name": "URBANISATION",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "ទីប្រជុំជន",
-                "ជនបទ",
-                ""
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -3822,9 +3805,26 @@
             "title": "ឯកតារង្វាស់"
           },
           {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -3841,20 +3841,11 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "បន្ទាយមានជ័យ",
                 "បាត់ដំបង",
                 "កំពង់ចាម",
@@ -3863,34 +3854,38 @@
                 "កំពង់ធំ",
                 "កំពត",
                 "កណ្តាល",
-                "កែប",
                 "កោះកុង",
                 "ខេត្តក្រចេះ",
                 "មណ្ឌលគីរី",
-                "ឧត្តរមានជ័យ",
-                "ប៉ៃលិន",
                 "ភ្នំពេញ",
-                "ព្រះសីហនុ",
                 "ព្រះវិហារ",
                 "ព្រៃវែង",
                 "ពោធិសាត់",
                 "រតនគិរី",
                 "សៀមរាប",
+                "ព្រះសីហនុ",
                 "ស្ទឹងត្រែង",
                 "ស្វាយរៀង",
                 "តាកែវ",
-                ""
+                "ឧត្តរមានជ័យ",
+                "កែប",
+                "ប៉ៃលិន"
               ]
             },
             "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "ស្រី",
-                ""
+                "",
+                "ស្រី"
               ]
             },
             "title": "ការរួមភេទ"
@@ -3904,6 +3899,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -3920,20 +3920,11 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "បន្ទាយមានជ័យ",
                 "បាត់ដំបង",
                 "កំពង់ចាម",
@@ -3942,46 +3933,38 @@
                 "កំពង់ធំ",
                 "កំពត",
                 "កណ្តាល",
-                "កែប",
                 "កោះកុង",
                 "ខេត្តក្រចេះ",
                 "មណ្ឌលគីរី",
-                "ឧត្តរមានជ័យ",
-                "ប៉ៃលិន",
                 "ភ្នំពេញ",
-                "ព្រះសីហនុ",
                 "ព្រះវិហារ",
                 "ព្រៃវែង",
                 "ពោធិសាត់",
                 "រតនគិរី",
                 "សៀមរាប",
+                "ព្រះសីហនុ",
                 "ស្ទឹងត្រែង",
                 "ស្វាយរៀង",
                 "តាកែវ",
+                "ឧត្តរមានជ័យ",
+                "កែប",
+                "ប៉ៃលិន",
                 "ខេត្តបាត់ដំបងនិងប៉ៃលិន",
                 "កំពតព្រះសីហនុនិងកែប",
+                "កំពតនិងកែប",
                 "ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង",
                 "មណ្ឌលគីរីនិងរតនគិរី",
-                "ឧត្តរមានជ័យនិងសៀមរាប",
-                "កំពតនិងកែប",
-                "កោះកុងនិងព្រះសីហនុ",
                 "ព្រះវិហារនិងស្ទឹងត្រែង",
-                ""
+                "ឧត្តរមានជ័យនិងសៀមរាប",
+                "កោះកុងនិងព្រះសីហនុ"
               ]
             },
             "title": "តំបន់យោង"
           },
           {
-            "name": "URBANISATION",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "ទីប្រជុំជន",
-                "ជនបទ",
-                ""
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -3989,9 +3972,26 @@
             "title": "ឯកតារង្វាស់"
           },
           {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -4008,20 +4008,11 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "បន្ទាយមានជ័យ",
                 "បាត់ដំបង",
                 "កំពង់ចាម",
@@ -4030,50 +4021,42 @@
                 "កំពង់ធំ",
                 "កំពត",
                 "កណ្តាល",
-                "កែប",
                 "កោះកុង",
                 "ខេត្តក្រចេះ",
                 "មណ្ឌលគីរី",
-                "ឧត្តរមានជ័យ",
-                "ប៉ៃលិន",
                 "ភ្នំពេញ",
-                "ព្រះសីហនុ",
                 "ព្រះវិហារ",
                 "ព្រៃវែង",
                 "ពោធិសាត់",
                 "រតនគិរី",
                 "សៀមរាប",
+                "ព្រះសីហនុ",
                 "ស្ទឹងត្រែង",
                 "ស្វាយរៀង",
                 "តាកែវ",
-                ""
+                "ឧត្តរមានជ័យ",
+                "កែប",
+                "ប៉ៃលិន"
               ]
             },
             "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "ស្រី",
-                "ប្រុស",
-                ""
+                "ប្រុស"
               ]
             },
             "title": "ការរួមភេទ"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ទីប្រជុំជន",
-                "ជនបទ",
-                ""
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
             "name": "UNIT_MEASURE",
@@ -4081,9 +4064,26 @@
             "title": "ឯកតារង្វាស់"
           },
           {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -4100,16 +4100,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -4120,6 +4110,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -4128,6 +4123,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -4144,16 +4144,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -4164,6 +4154,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -4172,6 +4167,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -4188,16 +4188,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -4208,6 +4198,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -4216,6 +4211,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -4232,16 +4232,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -4252,6 +4242,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -4260,6 +4255,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -4276,16 +4276,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -4296,6 +4286,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -4304,6 +4299,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -4320,20 +4320,37 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុក្រោម ៥ ឆ្នាំ"
+              ]
+            },
+            "title": "អាយុ"
           },
           {
-            "name": "SERIES",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "ឃ្វីនទី ១ (ក្របំផុត)",
+                "ឃ្វីនទី ២",
+                "ឃ្វីនទី ៣",
+                "ឃ្វីនទី ៤",
+                "ឃ្វីនទី ៥ (មានជាងគេបំផុត)"
+              ]
+            },
+            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "បន្ទាយមានជ័យ",
                 "កំពង់ចាម",
                 "កំពង់ឆ្នាំង",
@@ -4342,75 +4359,41 @@
                 "កណ្តាល",
                 "កោះកុង",
                 "ខេត្តក្រចេះ",
-                "ឧត្តរមានជ័យ",
                 "ភ្នំពេញ",
                 "ព្រៃវែង",
                 "ពោធិសាត់",
                 "សៀមរាប",
                 "ស្វាយរៀង",
                 "តាកែវ",
+                "ឧត្តរមានជ័យ",
                 "ខេត្តបាត់ដំបងនិងប៉ៃលិន",
                 "កំពតព្រះសីហនុនិងកែប",
+                "កំពតនិងកែប",
                 "ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង",
                 "មណ្ឌលគីរីនិងរតនគិរី",
-                "ឧត្តរមានជ័យនិងសៀមរាប",
-                "កំពតនិងកែប",
-                "កោះកុងនិងព្រះសីហនុ",
                 "ព្រះវិហារនិងស្ទឹងត្រែង",
-                ""
+                "ឧត្តរមានជ័យនិងសៀមរាប",
+                "កោះកុងនិងព្រះសីហនុ"
               ]
             },
             "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "ស្រី",
-                "ប្រុស",
-                ""
+                "ប្រុស"
               ]
             },
             "title": "ការរួមភេទ"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "អាយុក្រោម ៥ ឆ្នាំ",
-                ""
-              ]
-            },
-            "title": "អាយុ"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ទីប្រជុំជន",
-                "ជនបទ",
-                ""
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
-          },
-          {
-            "name": "INCOME_WEALTH_QUANTILE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ឃ្វីនទី ១ (ក្របំផុត)",
-                "ឃ្វីនទី ២",
-                "ឃ្វីនទី ៣",
-                "ឃ្វីនទី ៤",
-                "ឃ្វីនទី ៥ (មានជាងគេបំផុត)",
-                ""
-              ]
-            },
-            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
           },
           {
             "name": "UNIT_MEASURE",
@@ -4418,9 +4401,26 @@
             "title": "ឯកតារង្វាស់"
           },
           {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -4437,20 +4437,37 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុក្រោម ៥ ឆ្នាំ"
+              ]
+            },
+            "title": "អាយុ"
           },
           {
-            "name": "SERIES",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "ឃ្វីនទី ១ (ក្របំផុត)",
+                "ឃ្វីនទី ២",
+                "ឃ្វីនទី ៣",
+                "ឃ្វីនទី ៤",
+                "ឃ្វីនទី ៥ (មានជាងគេបំផុត)"
+              ]
+            },
+            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "បន្ទាយមានជ័យ",
                 "កំពង់ចាម",
                 "កំពង់ឆ្នាំង",
@@ -4459,75 +4476,41 @@
                 "កណ្តាល",
                 "កោះកុង",
                 "ខេត្តក្រចេះ",
-                "ឧត្តរមានជ័យ",
                 "ភ្នំពេញ",
                 "ព្រៃវែង",
                 "ពោធិសាត់",
                 "សៀមរាប",
                 "ស្វាយរៀង",
                 "តាកែវ",
+                "ឧត្តរមានជ័យ",
                 "ខេត្តបាត់ដំបងនិងប៉ៃលិន",
                 "កំពតព្រះសីហនុនិងកែប",
+                "កំពតនិងកែប",
                 "ខេត្តក្រចេះព្រះវិហារនិងស្ទឹងត្រែង",
                 "មណ្ឌលគីរីនិងរតនគិរី",
-                "ឧត្តរមានជ័យនិងសៀមរាប",
-                "កំពតនិងកែប",
-                "កោះកុងនិងព្រះសីហនុ",
                 "ព្រះវិហារនិងស្ទឹងត្រែង",
-                ""
+                "ឧត្តរមានជ័យនិងសៀមរាប",
+                "កោះកុងនិងព្រះសីហនុ"
               ]
             },
             "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "ស្រី",
-                "ប្រុស",
-                ""
+                "ប្រុស"
               ]
             },
             "title": "ការរួមភេទ"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "អាយុក្រោម ៥ ឆ្នាំ",
-                ""
-              ]
-            },
-            "title": "អាយុ"
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ទីប្រជុំជន",
-                "ជនបទ",
-                ""
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
-          },
-          {
-            "name": "INCOME_WEALTH_QUANTILE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ឃ្វីនទី ១ (ក្របំផុត)",
-                "ឃ្វីនទី ២",
-                "ឃ្វីនទី ៣",
-                "ឃ្វីនទី ៤",
-                "ឃ្វីនទី ៥ (មានជាងគេបំផុត)",
-                ""
-              ]
-            },
-            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
           },
           {
             "name": "UNIT_MEASURE",
@@ -4535,9 +4518,26 @@
             "title": "ឯកតារង្វាស់"
           },
           {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -4554,16 +4554,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -4574,6 +4564,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -4582,6 +4577,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -4598,16 +4598,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -4618,6 +4608,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -4626,6 +4621,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -4642,16 +4642,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -4662,6 +4652,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -4670,6 +4665,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -4686,16 +4686,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -4706,6 +4696,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -4714,6 +4709,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -4730,16 +4730,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -4750,6 +4740,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -4758,6 +4753,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -4774,16 +4774,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -4794,6 +4784,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -4802,6 +4797,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -4818,16 +4818,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -4838,6 +4828,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -4846,6 +4841,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -4862,16 +4862,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -4882,6 +4872,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -4890,6 +4885,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -4906,16 +4906,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -4926,6 +4916,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -4934,6 +4929,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -4950,16 +4950,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -4970,6 +4960,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -4978,6 +4973,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -4994,16 +4994,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5014,6 +5004,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -5022,6 +5017,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5038,16 +5038,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5058,6 +5048,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -5066,6 +5061,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5082,16 +5082,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5102,6 +5092,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -5110,6 +5105,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5126,16 +5126,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5146,6 +5136,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -5154,6 +5149,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5170,16 +5170,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5190,6 +5180,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -5198,6 +5193,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5214,16 +5214,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5234,6 +5224,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -5242,6 +5237,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5258,16 +5258,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5278,12 +5268,17 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "ស្រី",
-                ""
+                "",
+                "ស្រី"
               ]
             },
             "title": "ការរួមភេទ"
@@ -5297,6 +5292,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5313,16 +5313,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5333,6 +5323,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -5341,6 +5336,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5357,16 +5357,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5377,6 +5367,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -5385,6 +5380,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5401,16 +5401,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5421,6 +5411,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -5429,6 +5424,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5445,16 +5445,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5465,6 +5455,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -5473,6 +5468,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5489,16 +5489,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5509,6 +5499,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -5517,6 +5512,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5533,16 +5533,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5553,6 +5543,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -5561,6 +5556,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5577,16 +5577,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5597,6 +5587,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -5605,6 +5600,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5621,16 +5621,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5641,6 +5631,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -5649,6 +5644,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5665,16 +5665,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5685,6 +5675,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -5693,6 +5688,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5709,16 +5709,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5729,6 +5719,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -5737,6 +5732,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5753,16 +5753,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5773,6 +5763,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -5781,6 +5776,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5797,16 +5797,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5817,6 +5807,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -5825,6 +5820,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5841,16 +5841,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5861,6 +5851,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -5869,6 +5864,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5885,16 +5885,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5905,6 +5895,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -5913,6 +5908,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5929,16 +5929,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5949,6 +5939,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -5957,6 +5952,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -5973,16 +5973,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -5993,6 +5983,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -6001,6 +5996,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6017,16 +6017,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -6037,6 +6027,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -6045,6 +6040,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6061,16 +6061,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -6081,6 +6071,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -6089,6 +6084,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6105,16 +6105,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -6125,6 +6115,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -6133,6 +6128,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6149,16 +6149,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -6169,6 +6159,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -6177,6 +6172,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6193,16 +6193,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -6213,6 +6203,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -6221,6 +6216,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6237,16 +6237,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -6257,6 +6247,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -6265,6 +6260,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6281,16 +6281,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -6301,6 +6291,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -6309,6 +6304,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6325,16 +6325,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -6345,6 +6335,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -6353,6 +6348,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6369,16 +6369,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -6389,6 +6379,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -6397,6 +6392,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6413,16 +6413,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -6433,6 +6423,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -6441,6 +6436,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6457,16 +6457,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -6477,6 +6467,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -6485,6 +6480,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6501,16 +6501,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -6521,6 +6511,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -6529,6 +6524,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6545,16 +6545,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -6565,6 +6555,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -6573,6 +6568,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6589,16 +6589,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -6609,6 +6599,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -6617,6 +6612,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6633,16 +6633,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -6653,6 +6643,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -6661,6 +6656,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6677,20 +6677,11 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "បន្ទាយមានជ័យ",
                 "បាត់ដំបង",
                 "កំពង់ចាម",
@@ -6699,26 +6690,30 @@
                 "កំពង់ធំ",
                 "កំពត",
                 "កណ្តាល",
-                "កែប",
                 "កោះកុង",
                 "ខេត្តក្រចេះ",
                 "មណ្ឌលគីរី",
-                "ឧត្តរមានជ័យ",
-                "ប៉ៃលិន",
                 "ភ្នំពេញ",
-                "ព្រះសីហនុ",
                 "ព្រះវិហារ",
                 "ព្រៃវែង",
                 "ពោធិសាត់",
                 "រតនគិរី",
                 "សៀមរាប",
+                "ព្រះសីហនុ",
                 "ស្ទឹងត្រែង",
                 "ស្វាយរៀង",
                 "តាកែវ",
-                ""
+                "ឧត្តរមានជ័យ",
+                "កែប",
+                "ប៉ៃលិន"
               ]
             },
             "title": "តំបន់យោង"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -6729,6 +6724,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6745,14 +6745,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "ក្រោម ៥០%"
+              ]
+            },
+            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
           },
           {
             "name": "REF_AREA",
@@ -6765,15 +6766,9 @@
             "title": "តំបន់យោង"
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "ក្រោម ៥០%",
-                ""
-              ]
-            },
-            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -6784,6 +6779,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6800,14 +6800,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "បាត ៤០%"
+              ]
+            },
+            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
           },
           {
             "name": "REF_AREA",
@@ -6820,15 +6821,9 @@
             "title": "តំបន់យោង"
           },
           {
-            "name": "INCOME_WEALTH_QUANTILE",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "បាត ៤០%",
-                ""
-              ]
-            },
-            "title": "ប្រាក់ចំណូលឬទ្រព្យសម្បត្តិមានចំនួនច្រើន"
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -6839,6 +6834,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6855,16 +6855,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -6875,6 +6865,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -6883,6 +6878,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6899,16 +6899,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -6919,6 +6909,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -6927,6 +6922,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6943,14 +6943,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុក្រោម ១៨ ឆ្នាំ"
+              ]
+            },
+            "title": "អាយុ"
           },
           {
             "name": "REF_AREA",
@@ -6963,15 +6964,9 @@
             "title": "តំបន់យោង"
           },
           {
-            "name": "AGE",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "អាយុក្រោម ១៨ ឆ្នាំ",
-                ""
-              ]
-            },
-            "title": "អាយុ"
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -6982,6 +6977,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -6998,9 +6998,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "REF_AREA",
             "type": "string",
-            "title": "Year"
+            "constraints": {
+              "enum": [
+                "",
+                "ភ្នំពេញ"
+              ]
+            },
+            "title": "តំបន់យោង"
           },
           {
             "name": "SERIES",
@@ -7008,37 +7014,31 @@
             "title": "SERIES"
           },
           {
-            "name": "REF_AREA",
+            "name": "UNIT_MEASURE",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "ភ្នំពេញ",
-                ""
-              ]
-            },
-            "title": "តំបន់យោង"
+            "title": "ឯកតារង្វាស់"
           },
           {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "ទីប្រជុំជន",
+                "",
                 "ជនបទ",
-                ""
+                "ទីប្រជុំជន"
               ]
             },
             "title": "កំរិតនគរូបនីយកម្ម"
           },
           {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "ឯកតារង្វាស់"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -7055,16 +7055,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -7075,16 +7065,9 @@
             "title": "តំបន់យោង"
           },
           {
-            "name": "URBANISATION",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "ទីប្រជុំជន",
-                "ជនបទ",
-                ""
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -7092,9 +7075,26 @@
             "title": "ឯកតារង្វាស់"
           },
           {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -7111,16 +7111,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -7131,6 +7121,11 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "ឯកតារង្វាស់"
@@ -7139,6 +7134,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },

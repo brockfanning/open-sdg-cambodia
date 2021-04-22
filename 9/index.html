@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="no-js">
+<html lang="km" class="no-js">
     <head>
         <meta charset="utf-8">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
@@ -11,7 +11,7 @@
 var opensdg = {
 
   // A base URL for asynchronous calls to SDG data.
-  remoteDataBaseUrl: '/open-sdg-cambodia/en',
+  remoteDataBaseUrl: '/open-sdg-cambodia/km',
 
   chartConfigAlterations: [],
   // A hook which can be used to modify the configuration for Chart.js.
@@ -38,7 +38,7 @@ var opensdg = {
     this.dataDisplayAlterations.push(callback);
   },
 
-  language: 'en',
+  language: 'km',
 };
 
 // For backwards compatibility, some of these might need to be global.
@@ -103,7 +103,7 @@ var translations = {
         ================================================== -->
 
         
-    <title>Goal 9 - Industry, innovation and infrastructure - Indicators For The Sustainable Development Goals</title>
+    <title>គោលដៅ 9 - ឧស្សាហកម្មការច្នៃប្រឌិតនិងហេដ្ឋារចនាសម្ព័ន្ធ - Indicators For The Sustainable Development Goals</title>
 
 
 
@@ -133,7 +133,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/open-sdg-cambodia/assets/css/style.css?v=20210422193403">
+        <link rel="stylesheet" href="/open-sdg-cambodia/assets/css/style.css?v=20210422205751">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet" crossorigin="">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
@@ -144,13 +144,13 @@ var translations = {
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-search@2.9.7/dist/leaflet-search.min.css" crossorigin=""><!-- ShareThis BEGIN --><!-- ShareThis END -->
 
     </head>
-<body class="language-en layout-goal-by-target-vertical">
+<body class="language-km layout-goal-by-target-vertical">
 <!-- <div class="container"> -->
 
 
-<script>translations['header'] = {"alpha":"Alpha","default_contrast":"Default contrast","disable_high_contrast":"Disable high contrast","disclaimer":"This is a development website. We welcome your <a href=\"mailto:%email_address\">feedback</a>.","enable_high_contrast":"Enable high contrast","high_contrast":"High contrast","skip_link":"Skip to main content","tag_line":"17 Goals to Transform our World","toggle_menu":"Menu toggle. Click to expand or collapse the menu.","toggle_search":"Search toggle. Click to expand or collapse the search bar."};</script>
+<script>translations['header'] = {"alpha":"អាល់ហ្វា","default_contrast":"កម្រិតពណ៌លំនាំដើម","disable_high_contrast":"បិទដំណើរការកម្រិតពណ៌ខ្ពស់","disclaimer":"នេះគឺជាគេហទំព័រអភិវឌ្ឍន៍។ យើងសូមស្វាគមន៍រាល់មតិប្រតិកម្មរបស់អ្នក [៤៧] [៨៧] ។","enable_high_contrast":"បើកដំណើរការកម្រិតពណ៌ខ្ពស់","high_contrast":"កម្រិត​ពណ៌​ខ្ពស់","skip_link":"រំលងទៅមាតិកាមេ","tag_line":"គោលដៅចំនួន ១៧ ដើម្បីបំរែបំរួលពិភពលោករបស់យើង","toggle_menu":"បិទ / បើកម៉ឺនុយ។ ចុចដើម្បីពង្រីកឬបង្រួមម៉ឺនុយ។","toggle_search":"ស្វែងរកបិទ / បើក។ ចុចដើម្បីពង្រីកឬបង្រួមរបារស្វែងរក។"};</script>
 
-<a class="sr-only sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
+<a class="sr-only sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">រំលងទៅមាតិកាមេ</a>
 <div id="disclaimer">
   <div class="container">
   <div class="disclaimer-alert">
@@ -167,7 +167,7 @@ var translations = {
 
     <div class="logo-and-mobile-widgets">
       <a class="navbar-brand" href="/open-sdg-cambodia/" id="home">
-    <img src="/open-sdg-cambodia/assets/img/SDG_logo.png" alt="Sustainable Development Goals - 17 Goals to Transform our World" />
+    <img src="/open-sdg-cambodia/assets/img/SDG_logo.png" alt="គោលដៅអភិវឌ្ឍន៍ប្រកបដោយចីរភាព - គោលដៅចំនួន ១៧ ដើម្បីបំរែបំរួលពិភពលោករបស់យើង" />
 </a>
       <div class="mobile-widgets">
     <ul id='accessibility-nav' class='contrast-switcher'></ul><div class="language-toggle-mobile">
@@ -175,11 +175,11 @@ var translations = {
   
   <div class="btn-group language-toggle-dropdown ">
     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-      <span class="language-globe-in-dropdown"><i class="fa fa-globe language-toggle-globe-dropdown"></i></span><span class="language-name">English</span>
-      <span class="language-abbreviation">en</span><i class="language-toggle-caret fa fa-chevron-down"></i></button>
+      <span class="language-globe-in-dropdown"><i class="fa fa-globe language-toggle-globe-dropdown"></i></span><span class="language-name">ភាសាខ្មែរ</span>
+      <span class="language-abbreviation">km</span><i class="language-toggle-caret fa fa-chevron-down"></i></button>
     <ul class="dropdown-menu"><li>
-            <a href="/open-sdg-cambodia/km/9/">
-              ភាសាខ្មែរ
+            <a href="/open-sdg-cambodia/en/9/">
+              English
             </a>
           </li></ul>
   </div>
@@ -191,9 +191,9 @@ var translations = {
     <div class="search-and-desktop-widgets">
       <div id="search" class="menu-target">
   <form action="/open-sdg-cambodia/search">
-    <label class="sr-only" for="indicator_search">Search</label>
-    <input type="text" name="q" id="indicator_search" title="Search" /><!--
-    --><button aria-label="Search" id="search-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
+    <label class="sr-only" for="indicator_search">ស្វែងរក</label>
+    <input type="text" name="q" id="indicator_search" title="ស្វែងរក" /><!--
+    --><button aria-label="ស្វែងរក" id="search-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
   </form>
 </div>
 
@@ -208,8 +208,8 @@ var translations = {
   <div class="language-toggle-container">
   <i class="fa fa-globe language-toggle-globe-links"></i>
   <ul class="language-toggle-links"><li>
-      <a class="language-toggle-link" href="/open-sdg-cambodia/km/9/"><span class="language-name">ភាសាខ្មែរ</span>
-        <span class="language-abbreviation">km</span></a>
+      <a class="language-toggle-link" href="/open-sdg-cambodia/en/9/"><span class="language-name">English</span>
+        <span class="language-abbreviation">en</span></a>
     </li></ul>
 </div>
 
@@ -222,21 +222,21 @@ var translations = {
     <div class="navbar navbar-default menu-without-widgets" id="main-nav">
       <ul class="top-level">
     <li id="menuToggle"
-        aria-label="Menu toggle. Click to expand or collapse the menu."
+        aria-label="បិទ / បើកម៉ឺនុយ។ ចុចដើម្បីពង្រីកឬបង្រួមម៉ឺនុយ។"
         aria-haspopup="true">
-        <button data-target="menu-mobile" aria-expanded="false">Menu</button>
+        <button data-target="menu-mobile" aria-expanded="false">មឺនុយ</button>
         <ul class="nav navbar-nav menu-target contrast-switcher" id="menu-mobile"><li class="nav-link ">
-    <a href="/open-sdg-cambodia/goals">Goals</a>
+    <a href="/open-sdg-cambodia/goals">គោលដៅ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/reporting-status">Reporting Status</a>
+    <a href="/open-sdg-cambodia/reporting-status">ស្ថានភាពរបាយការណ៍</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/about">About</a>
+    <a href="/open-sdg-cambodia/about">អំពី</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/guidance">Guidance</a>
+    <a href="/open-sdg-cambodia/guidance">ការណែនាំ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/faq">FAQ</a>
+    <a href="/open-sdg-cambodia/faq">សំណួរគេសួរញឹកញាប់</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/news">Updates</a>
+    <a href="/open-sdg-cambodia/news">បច្ចុប្បន្នភាព</a>
 </li><li class="language-toggle-menu-header">
     
 
@@ -247,8 +247,8 @@ var translations = {
   <div class="language-toggle-container">
   <i class="fa fa-globe language-toggle-globe-links"></i>
   <ul class="language-toggle-links"><li>
-      <a class="language-toggle-link" href="/open-sdg-cambodia/km/9/"><span class="language-name">ភាសាខ្មែរ</span>
-        <span class="language-abbreviation">km</span></a>
+      <a class="language-toggle-link" href="/open-sdg-cambodia/en/9/"><span class="language-name">English</span>
+        <span class="language-abbreviation">en</span></a>
     </li></ul>
 </div>
 
@@ -259,31 +259,31 @@ var translations = {
 
     </li>
     <li id="searchToggle"
-        aria-label="Search toggle. Click to expand or collapse the search bar."
+        aria-label="ស្វែងរកបិទ / បើក។ ចុចដើម្បីពង្រីកឬបង្រួមរបារស្វែងរក។"
         aria-haspopup="true">
-        <button data-target="search-mobile" aria-expanded="false">Search</button>
+        <button data-target="search-mobile" aria-expanded="false">ស្វែងរក</button>
         <div id="search-mobile" class="menu-target">
   <form action="/open-sdg-cambodia/search">
-    <label class="sr-only" for="indicator_search-mobile">Search</label>
-    <input type="text" name="q" id="indicator_search-mobile" title="Search" /><!--
-    --><button aria-label="Search" id="search-mobile-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
+    <label class="sr-only" for="indicator_search-mobile">ស្វែងរក</label>
+    <input type="text" name="q" id="indicator_search-mobile" title="ស្វែងរក" /><!--
+    --><button aria-label="ស្វែងរក" id="search-mobile-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
   </form>
 </div>
 
     </li>
 </ul>
       <ul class="nav navbar-nav menu-target " id="menu"><li class="nav-link ">
-    <a href="/open-sdg-cambodia/goals">Goals</a>
+    <a href="/open-sdg-cambodia/goals">គោលដៅ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/reporting-status">Reporting Status</a>
+    <a href="/open-sdg-cambodia/reporting-status">ស្ថានភាពរបាយការណ៍</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/about">About</a>
+    <a href="/open-sdg-cambodia/about">អំពី</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/guidance">Guidance</a>
+    <a href="/open-sdg-cambodia/guidance">ការណែនាំ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/faq">FAQ</a>
+    <a href="/open-sdg-cambodia/faq">សំណួរគេសួរញឹកញាប់</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/news">Updates</a>
+    <a href="/open-sdg-cambodia/news">បច្ចុប្បន្នភាព</a>
 </li>
 </ul>
 
@@ -300,8 +300,8 @@ var translations = {
 <div class="container">
   <ol class="breadcrumb">
   
-  <li><a href="/open-sdg-cambodia/">Home</a></li>
-  <li><a href="/open-sdg-cambodia/goals">Goals</a></li>
+  <li><a href="/open-sdg-cambodia/">ទំព័រដើម</a></li>
+  <li><a href="/open-sdg-cambodia/goals">គោលដៅ</a></li>
   
   
 </ol>
@@ -313,11 +313,11 @@ var translations = {
   <div class="container">
     <div class="row">
       <div class="col-xs-4 col-md-3 col-lg-2 goal-tiles">
-        <img src="/open-sdg-cambodia/assets/img/goals/en/9.png" alt="Industry, innovation and infrastructure - Goal 9" id="goal-9" class="goal-icon-image goal-icon-image-" />
+        <img src="/open-sdg-cambodia/assets/img/goals/km/9.png" alt="ឧស្សាហកម្មការច្នៃប្រឌិតនិងហេដ្ឋារចនាសម្ព័ន្ធ - គោលដៅ 9" id="goal-9" class="goal-icon-image goal-icon-image-" />
       </div>
       <div class="col-xs-8 col-md-9 col-lg-10">
         <h1>
-          <span class="hidden-sm hidden-md hidden-lg">Goal 9: </span>Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation
+          <span class="hidden-sm hidden-md hidden-lg">គោលដៅ 9: </span>កសាងហេដ្ឋារចនាសម្ព័ន្ធដែលមានភាពធន់ទ្រាំលើកកម្ពស់ឧស្សាហូបនីយកម្មបញ្ចូលនិងប្រកបដោយនិរន្តរភាពនិងជំរុញការច្នៃប្រឌិត
         </h1>
       </div>
     </div>
@@ -332,16 +332,16 @@ var translations = {
 
 
   <div class="container">
-    <h2>Targets and indicators</h2>
+    <h2>គោលដៅនិងសូចនាករ</h2>
 
     
     
       
       <div class="row no-gutters goal-target-and-indicators">
         <h3 class="goal-target">
-          <span class="target-number"><span class="sr-only">Target</span> 9.1</span>
+          <span class="target-number"><span class="sr-only">គោលដៅ</span> 9.1</span>
         </h3>
-        <span class="target-name">Develop quality, reliable, sustainable and resilient infrastructure, including regional and transborder infrastructure, to support economic development and human well-being, with a focus on affordable and equitable access for all</span>
+        <span class="target-name">អភិវឌ្ឍហេដ្ឋារចនាសម្ព័ន្ធប្រកបដោយគុណភាពអាចជឿទុកចិត្តបានប្រកបដោយនិរន្តរភាពនិងមានភាពធន់ទ្រាំរួមទាំងហេដ្ឋារចនាសម្ព័ន្ធក្នុងតំបន់និងឆ្លងដែនដើម្បីគាំទ្រដល់ការអភិវឌ្ឍសេដ្ឋកិច្ចនិងសុខុមាលភាពមនុស្សដោយផ្តោតលើលទ្ធភាពទទួលបានតំលៃសមរម្យនិងស្មើភាពគ្នាសម្រាប់ទាំងអស់គ្នា។</span>
         
 
           
@@ -350,15 +350,15 @@ var translations = {
 
           <div class="goal-indicator">
             <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 9.1.1</span>
+              <span class="indicator-number"><span class="sr-only">សូចនាករ</span> 9.1.1</span>
             </h4>
-            <span class="indicator-name"><a href="/open-sdg-cambodia/9-1-1">Proportion of the rural population who live within 2 km of an all-season road</a></span>
-            <span class="sr-only">Indicator status</span>
+            <span class="indicator-name"><a href="/open-sdg-cambodia/9-1-1">សមាមាត្រនៃប្រជាជននៅតាមជនបទដែលរស់នៅក្នុងចម្ងាយ ២ គីឡូម៉ែត្រពីផ្លូវមួយរដូវ</a></span>
+            <span class="sr-only">ស្ថានភាពសូចនាករ</span>
             
 
 
 <span class="status complete">
-    Reported online
+    បានរាយការណ៍តាមអ៊ីនធឺណិត
 </span>
 
             
@@ -372,15 +372,15 @@ var translations = {
 
           <div class="goal-indicator">
             <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 9.1.2</span>
+              <span class="indicator-number"><span class="sr-only">សូចនាករ</span> 9.1.2</span>
             </h4>
-            <span class="indicator-name"><a href="/open-sdg-cambodia/9-1-2">Passenger and freight volumes, by mode of transport</a></span>
-            <span class="sr-only">Indicator status</span>
+            <span class="indicator-name"><a href="/open-sdg-cambodia/9-1-2">បរិមាណអ្នកដំណើរនិងដឹកទំនិញតាមប្រភេទនៃការដឹកជញ្ជូន</a></span>
+            <span class="sr-only">ស្ថានភាពសូចនាករ</span>
             
 
 
 <span class="status complete">
-    Reported online
+    បានរាយការណ៍តាមអ៊ីនធឺណិត
 </span>
 
             
@@ -394,15 +394,15 @@ var translations = {
 
           <div class="goal-indicator">
             <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 9.1.3</span>
+              <span class="indicator-number"><span class="sr-only">សូចនាករ</span> 9.1.3</span>
             </h4>
             <span class="indicator-name"><a href="/open-sdg-cambodia/9-1-3">global_indicators.9-1-3-title</a></span>
-            <span class="sr-only">Indicator status</span>
+            <span class="sr-only">ស្ថានភាពសូចនាករ</span>
             
 
 
 <span class="status complete">
-    Reported online
+    បានរាយការណ៍តាមអ៊ីនធឺណិត
 </span>
 
             
@@ -414,9 +414,9 @@ var translations = {
       
       <div class="row no-gutters goal-target-and-indicators">
         <h3 class="goal-target">
-          <span class="target-number"><span class="sr-only">Target</span> 9.2</span>
+          <span class="target-number"><span class="sr-only">គោលដៅ</span> 9.2</span>
         </h3>
-        <span class="target-name">Promote inclusive and sustainable industrialization and, by 2030, significantly raise industry’s share of employment and gross domestic product, in line with national circumstances, and double its share in least developed countries</span>
+        <span class="target-name">ជំរុញឧស្សាហូបនីយកម្មបញ្ចូលនិងប្រកបដោយចីរភាពហើយនៅឆ្នាំ ២០៣០ បង្កើនចំណែកការងាររបស់ឧស្សាហកម្មនិងផលិតផលក្នុងស្រុកសរុបឱ្យស្របទៅនឹងកាលៈទេសៈជាតិនិងបង្កើនចំណែកទ្វេដងនៅក្នុងប្រទេសអភិវឌ្ឍន៍តិចតួច។</span>
         
 
           
@@ -425,15 +425,15 @@ var translations = {
 
           <div class="goal-indicator">
             <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 9.2.1</span>
+              <span class="indicator-number"><span class="sr-only">សូចនាករ</span> 9.2.1</span>
             </h4>
-            <span class="indicator-name"><a href="/open-sdg-cambodia/9-2-1">Manufacturing value added as a proportion of GDP and per capita</a></span>
-            <span class="sr-only">Indicator status</span>
+            <span class="indicator-name"><a href="/open-sdg-cambodia/9-2-1">តម្លៃផលិតកម្មបន្ថែមជាសមាមាត្រនៃផ។ ស។ សនិងសម្រាប់មនុស្សម្នាក់ៗ</a></span>
+            <span class="sr-only">ស្ថានភាពសូចនាករ</span>
             
 
 
 <span class="status complete">
-    Reported online
+    បានរាយការណ៍តាមអ៊ីនធឺណិត
 </span>
 
             
@@ -445,9 +445,9 @@ var translations = {
       
       <div class="row no-gutters goal-target-and-indicators">
         <h3 class="goal-target">
-          <span class="target-number"><span class="sr-only">Target</span> 9.5</span>
+          <span class="target-number"><span class="sr-only">គោលដៅ</span> 9.5</span>
         </h3>
-        <span class="target-name">Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, by 2030, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending</span>
+        <span class="target-name">ពង្រឹងការស្រាវជ្រាវវិទ្យាសាស្ត្រធ្វើឱ្យប្រសើរឡើងនូវសមត្ថភាពបច្ចេកវិទ្យានៃវិស័យឧស្សាហកម្មនៅក្នុងប្រទេសទាំងអស់ជាពិសេសក្នុងប្រទេសកំពុងអភិវឌ្ឍន៍ដែលក្នុងនោះរួមមានដល់ឆ្នាំ ២០៣០ លើកទឹកចិត្តដល់ការបង្កើតថ្មីនិងបង្កើនចំនួនបុគ្គលិកស្រាវជ្រាវនិងអភិវឌ្ឍន៍ក្នុងចំនួន ១ លាននាក់និងការស្រាវជ្រាវសាធារណៈនិងឯកជននិងការចំណាយលើការអភិវឌ្ឍ។</span>
         
 
           
@@ -456,15 +456,15 @@ var translations = {
 
           <div class="goal-indicator">
             <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 9.5.1</span>
+              <span class="indicator-number"><span class="sr-only">សូចនាករ</span> 9.5.1</span>
             </h4>
-            <span class="indicator-name"><a href="/open-sdg-cambodia/9-5-1">Research and development expenditure as a proportion of GDP</a></span>
-            <span class="sr-only">Indicator status</span>
+            <span class="indicator-name"><a href="/open-sdg-cambodia/9-5-1">ចំណាយលើការស្រាវជ្រាវនិងការអភិវឌ្ឍដែលជាសមាមាត្រនៃផលិតផលក្នុងស្រុកសរុប</a></span>
+            <span class="sr-only">ស្ថានភាពសូចនាករ</span>
             
 
 
 <span class="status complete">
-    Reported online
+    បានរាយការណ៍តាមអ៊ីនធឺណិត
 </span>
 
             
@@ -476,9 +476,9 @@ var translations = {
       
       <div class="row no-gutters goal-target-and-indicators">
         <h3 class="goal-target">
-          <span class="target-number"><span class="sr-only">Target</span> 9.a</span>
+          <span class="target-number"><span class="sr-only">គោលដៅ</span> 9.a</span>
         </h3>
-        <span class="target-name">Facilitate sustainable and resilient infrastructure development in developing countries through enhanced financial, technological and technical support to African countries, least developed countries, landlocked developing countries and small island developing States</span>
+        <span class="target-name">សម្របសម្រួលការអភិវឌ្ឍហេដ្ឋារចនាសម្ព័ន្ធប្រកបដោយចីរភាពនិងធន់នៅបណ្តាប្រទេសកំពុងអភិវឌ្ឍន៍តាមរយៈការគាំទ្រផ្នែកហិរញ្ញវត្ថុបច្ចេកវិទ្យានិងបច្ចេកទេសដល់បណ្តាប្រទេសអាហ្វ្រិកដែលជាប្រទេសអភិវឌ្ឍន៍តិចតួចប្រទេសកំពុងអភិវឌ្ឍន៍នៅលើគោកនិងប្រទេសកំពុងអភិវឌ្ឍន៍នៅលើកោះតូចៗ។</span>
         
 
           
@@ -487,15 +487,15 @@ var translations = {
 
           <div class="goal-indicator">
             <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 9.a.1</span>
+              <span class="indicator-number"><span class="sr-only">សូចនាករ</span> 9.a.1</span>
             </h4>
-            <span class="indicator-name"><a href="/open-sdg-cambodia/9-a-1">Total official international support (official development assistance plus other official flows) to infrastructure</a></span>
-            <span class="sr-only">Indicator status</span>
+            <span class="indicator-name"><a href="/open-sdg-cambodia/9-a-1">ការគាំទ្រជាអន្តរជាតិសរុបជាផ្លូវការ (ជំនួយអភិវឌ្ឍន៍ផ្លូវការបូកនឹងលំហូរផ្លូវការផ្សេងទៀត) ដល់ហេដ្ឋារចនាសម្ព័ន្ធ</a></span>
+            <span class="sr-only">ស្ថានភាពសូចនាករ</span>
             
 
 
 <span class="status complete">
-    Reported online
+    បានរាយការណ៍តាមអ៊ីនធឺណិត
 </span>
 
             
@@ -507,9 +507,9 @@ var translations = {
       
       <div class="row no-gutters goal-target-and-indicators">
         <h3 class="goal-target">
-          <span class="target-number"><span class="sr-only">Target</span> 9.c</span>
+          <span class="target-number"><span class="sr-only">គោលដៅ</span> 9.c</span>
         </h3>
-        <span class="target-name">Significantly increase access to information and communications technology and strive to provide universal and affordable access to the Internet in least developed countries by 2020</span>
+        <span class="target-name">បង្កើនការទទួលបានបច្ចេកវិទ្យាព័ត៌មាននិងការប្រាស្រ័យទាក់ទងយ៉ាងខ្លាំងហើយខិតខំផ្តល់នូវអ៊ិនធឺរណែតជាសកលនិងមានតំលៃសមរម្យនៅក្នុងប្រទេសអភិវឌ្ឍន៍តិចតួចបំផុតនៅឆ្នាំ ២០២០</span>
         
 
           
@@ -518,15 +518,15 @@ var translations = {
 
           <div class="goal-indicator">
             <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 9.c.1</span>
+              <span class="indicator-number"><span class="sr-only">សូចនាករ</span> 9.c.1</span>
             </h4>
-            <span class="indicator-name"><a href="/open-sdg-cambodia/9-c-1">Proportion of population covered by a mobile network, by technology</a></span>
-            <span class="sr-only">Indicator status</span>
+            <span class="indicator-name"><a href="/open-sdg-cambodia/9-c-1">សមាមាត្រប្រជាជនគ្របដណ្តប់ដោយបណ្តាញទូរស័ព្ទចល័តដោយបច្ចេកវិទ្យា</a></span>
+            <span class="sr-only">ស្ថានភាពសូចនាករ</span>
             
 
 
 <span class="status complete">
-    Reported online
+    បានរាយការណ៍តាមអ៊ីនធឺណិត
 </span>
 
             
@@ -544,11 +544,11 @@ var translations = {
       <div class="col-xs-12">
         <div id="footerLinks">
           <ul>
-            <li><a href="https://open-sdg.org">Built using Open SDG</a></li>
+            <li><a href="https://open-sdg.org">បង្កើតឡើងដោយប្រើអេសភីអេសជី</a></li>
             
               <li>
                 
-                  <a href="mailto:my-email-address@example.com" target="_blank">Contact us</a>
+                  <a href="mailto:my-email-address@example.com" target="_blank">ទាក់ទង​មក​ពួក​យើង</a>
                 
                 </li>
               <li>
@@ -558,11 +558,11 @@ var translations = {
                 </li>
               <li>
                 
-                  <a href="https://facebook.com/MyFacebookAccount" target="_blank">Facebook</a>
+                  <a href="https://facebook.com/MyFacebookAccount" target="_blank">ហ្វេសប៊ុក</a>
                 
                 </li>
               <li>
-                <a href="/open-sdg-cambodia/about/cookies-and-privacy/">Cookies</a>
+                <a href="/open-sdg-cambodia/about/cookies-and-privacy/">ឃុកឃី</a>
                 
                 </li>
               
@@ -594,17 +594,17 @@ var translations = {
 <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.3/dist/html2canvas.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.2/dist/FileSaver.min.js"></script>
 <script>translations['general'] = translations['general'] || {};
-    translations['general']['hide'] = 'hide';</script>
+    translations['general']['hide'] = 'លាក់';</script>
 
 <script>translations['search'] = translations['search'] || {};
-    translations['search']['search'] = 'Search';</script>
+    translations['search']['search'] = 'ស្វែងរក';</script>
 
-<script src='/open-sdg-cambodia/assets/js/sdg.js?v=20210422193403'></script>
+<script src='/open-sdg-cambodia/assets/js/sdg.js?v=20210422205751'></script>
 
 
     
     
-    <script src="/open-sdg-cambodia/assets/js/custom.js?v=20210422193403"></script><script>
+    <script src="/open-sdg-cambodia/assets/js/custom.js?v=20210422205751"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();

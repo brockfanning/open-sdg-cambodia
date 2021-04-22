@@ -11,16 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -31,16 +21,9 @@
             "title": "តំបន់យោង"
           },
           {
-            "name": "URBANISATION",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "ទីប្រជុំជន",
-                "ជនបទ",
-                ""
-              ]
-            },
-            "title": "កំរិតនគរូបនីយកម្ម"
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -48,9 +31,26 @@
             "title": "ឯកតារង្វាស់"
           },
           {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "ជនបទ",
+                "ទីប្រជុំជន"
+              ]
+            },
+            "title": "កំរិតនគរូបនីយកម្ម"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

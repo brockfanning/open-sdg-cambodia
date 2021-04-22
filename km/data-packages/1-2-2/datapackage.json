@@ -11,14 +11,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុក្រោម ១៨ ឆ្នាំ"
+              ]
+            },
+            "title": "អាយុ"
           },
           {
             "name": "REF_AREA",
@@ -31,15 +32,9 @@
             "title": "តំបន់យោង"
           },
           {
-            "name": "AGE",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "អាយុក្រោម ១៨ ឆ្នាំ",
-                ""
-              ]
-            },
-            "title": "អាយុ"
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -50,6 +45,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

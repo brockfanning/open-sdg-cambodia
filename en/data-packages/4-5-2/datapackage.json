@@ -11,22 +11,20 @@
       "schema": {
         "fields": [
           {
-            "name": "EDUCATION_LEV",
+            "name": "Year",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Upper secondary education"
-              ]
-            },
-            "title": "Education level"
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
           },
           {
             "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Banteay Meanchey",
                 "Battambang",
                 "Kampong Cham",
@@ -35,31 +33,50 @@
                 "Kampong Thom",
                 "Kampot",
                 "Kandal",
+                "Kep",
                 "Koh Kong",
                 "Kratie",
                 "Mondul Kiri",
+                "Oddar Meanchey",
+                "Pailin",
                 "Phnom Penh",
+                "Preah Sihanouk",
                 "Preah Vihear",
                 "Prey Veng",
                 "Pursat",
                 "Ratanak Kiri",
                 "Siemreap",
-                "Preah Sihanouk",
                 "Stung Treng",
                 "Svay Rieng",
                 "Takeo",
-                "Oddar Meanchey",
-                "Kep",
-                "Pailin",
-                "Tboung Khmum"
+                "Tboung Khmum",
+                ""
               ]
             },
             "title": "Reference area"
           },
           {
-            "name": "SERIES",
+            "name": "URBANISATION",
             "type": "string",
-            "title": "SDG Series"
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Upper secondary education",
+                ""
+              ]
+            },
+            "title": "Education level"
           },
           {
             "name": "UNIT_MEASURE",
@@ -67,26 +84,9 @@
             "title": "Unit of measure"
           },
           {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Rural",
-                "Urban"
-              ]
-            },
-            "title": "Degree of urbanisation"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

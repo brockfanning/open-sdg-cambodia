@@ -11,16 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
-          },
-          {
             "name": "REF_AREA",
             "type": "number",
             "constraints": {
@@ -31,12 +21,17 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "ស្រី",
-                ""
+                "",
+                "ស្រី"
               ]
             },
             "title": "ការរួមភេទ"
@@ -50,6 +45,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

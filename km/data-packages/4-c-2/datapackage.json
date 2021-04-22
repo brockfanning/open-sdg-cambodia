@@ -11,14 +11,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "EDUCATION_LEV",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "ការអប់រំបឋម"
+              ]
+            },
+            "title": "កម្រិត​ការ​អប់រំ"
           },
           {
             "name": "REF_AREA",
@@ -31,15 +32,9 @@
             "title": "តំបន់យោង"
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "SERIES",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "ការអប់រំបឋម",
-                ""
-              ]
-            },
-            "title": "កម្រិត​ការ​អប់រំ"
+            "title": "SERIES"
           },
           {
             "name": "UNIT_MEASURE",
@@ -50,6 +45,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }

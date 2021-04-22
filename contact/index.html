@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="no-js">
+<html lang="km" class="no-js">
     <head>
         <meta charset="utf-8">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
@@ -11,7 +11,7 @@
 var opensdg = {
 
   // A base URL for asynchronous calls to SDG data.
-  remoteDataBaseUrl: '/open-sdg-cambodia/en',
+  remoteDataBaseUrl: '/open-sdg-cambodia/km',
 
   chartConfigAlterations: [],
   // A hook which can be used to modify the configuration for Chart.js.
@@ -38,7 +38,7 @@ var opensdg = {
     this.dataDisplayAlterations.push(callback);
   },
 
-  language: 'en',
+  language: 'km',
 };
 
 // For backwards compatibility, some of these might need to be global.
@@ -133,7 +133,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/open-sdg-cambodia/assets/css/style.css?v=20210422193403">
+        <link rel="stylesheet" href="/open-sdg-cambodia/assets/css/style.css?v=20210422205751">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet" crossorigin="">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
@@ -144,13 +144,13 @@ var translations = {
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-search@2.9.7/dist/leaflet-search.min.css" crossorigin=""><!-- ShareThis BEGIN --><!-- ShareThis END -->
 
     </head>
-<body class="language-en layout-page">
+<body class="language-km layout-page">
 <!-- <div class="container"> -->
 
 
-<script>translations['header'] = {"alpha":"Alpha","default_contrast":"Default contrast","disable_high_contrast":"Disable high contrast","disclaimer":"This is a development website. We welcome your <a href=\"mailto:%email_address\">feedback</a>.","enable_high_contrast":"Enable high contrast","high_contrast":"High contrast","skip_link":"Skip to main content","tag_line":"17 Goals to Transform our World","toggle_menu":"Menu toggle. Click to expand or collapse the menu.","toggle_search":"Search toggle. Click to expand or collapse the search bar."};</script>
+<script>translations['header'] = {"alpha":"អាល់ហ្វា","default_contrast":"កម្រិតពណ៌លំនាំដើម","disable_high_contrast":"បិទដំណើរការកម្រិតពណ៌ខ្ពស់","disclaimer":"នេះគឺជាគេហទំព័រអភិវឌ្ឍន៍។ យើងសូមស្វាគមន៍រាល់មតិប្រតិកម្មរបស់អ្នក [៤៧] [៨៧] ។","enable_high_contrast":"បើកដំណើរការកម្រិតពណ៌ខ្ពស់","high_contrast":"កម្រិត​ពណ៌​ខ្ពស់","skip_link":"រំលងទៅមាតិកាមេ","tag_line":"គោលដៅចំនួន ១៧ ដើម្បីបំរែបំរួលពិភពលោករបស់យើង","toggle_menu":"បិទ / បើកម៉ឺនុយ។ ចុចដើម្បីពង្រីកឬបង្រួមម៉ឺនុយ។","toggle_search":"ស្វែងរកបិទ / បើក។ ចុចដើម្បីពង្រីកឬបង្រួមរបារស្វែងរក។"};</script>
 
-<a class="sr-only sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
+<a class="sr-only sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">រំលងទៅមាតិកាមេ</a>
 <div id="disclaimer">
   <div class="container">
   <div class="disclaimer-alert">
@@ -167,7 +167,7 @@ var translations = {
 
     <div class="logo-and-mobile-widgets">
       <a class="navbar-brand" href="/open-sdg-cambodia/" id="home">
-    <img src="/open-sdg-cambodia/assets/img/SDG_logo.png" alt="Sustainable Development Goals - 17 Goals to Transform our World" />
+    <img src="/open-sdg-cambodia/assets/img/SDG_logo.png" alt="គោលដៅអភិវឌ្ឍន៍ប្រកបដោយចីរភាព - គោលដៅចំនួន ១៧ ដើម្បីបំរែបំរួលពិភពលោករបស់យើង" />
 </a>
       <div class="mobile-widgets">
     <ul id='accessibility-nav' class='contrast-switcher'></ul><div class="language-toggle-mobile">
@@ -175,11 +175,11 @@ var translations = {
   
   <div class="btn-group language-toggle-dropdown ">
     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-      <span class="language-globe-in-dropdown"><i class="fa fa-globe language-toggle-globe-dropdown"></i></span><span class="language-name">English</span>
-      <span class="language-abbreviation">en</span><i class="language-toggle-caret fa fa-chevron-down"></i></button>
+      <span class="language-globe-in-dropdown"><i class="fa fa-globe language-toggle-globe-dropdown"></i></span><span class="language-name">ភាសាខ្មែរ</span>
+      <span class="language-abbreviation">km</span><i class="language-toggle-caret fa fa-chevron-down"></i></button>
     <ul class="dropdown-menu"><li>
-            <a href="/open-sdg-cambodia/km/contact/">
-              ភាសាខ្មែរ
+            <a href="/open-sdg-cambodia/en/contact/">
+              English
             </a>
           </li></ul>
   </div>
@@ -191,9 +191,9 @@ var translations = {
     <div class="search-and-desktop-widgets">
       <div id="search" class="menu-target">
   <form action="/open-sdg-cambodia/search">
-    <label class="sr-only" for="indicator_search">Search</label>
-    <input type="text" name="q" id="indicator_search" title="Search" /><!--
-    --><button aria-label="Search" id="search-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
+    <label class="sr-only" for="indicator_search">ស្វែងរក</label>
+    <input type="text" name="q" id="indicator_search" title="ស្វែងរក" /><!--
+    --><button aria-label="ស្វែងរក" id="search-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
   </form>
 </div>
 
@@ -208,8 +208,8 @@ var translations = {
   <div class="language-toggle-container">
   <i class="fa fa-globe language-toggle-globe-links"></i>
   <ul class="language-toggle-links"><li>
-      <a class="language-toggle-link" href="/open-sdg-cambodia/km/contact/"><span class="language-name">ភាសាខ្មែរ</span>
-        <span class="language-abbreviation">km</span></a>
+      <a class="language-toggle-link" href="/open-sdg-cambodia/en/contact/"><span class="language-name">English</span>
+        <span class="language-abbreviation">en</span></a>
     </li></ul>
 </div>
 
@@ -222,21 +222,21 @@ var translations = {
     <div class="navbar navbar-default menu-without-widgets" id="main-nav">
       <ul class="top-level">
     <li id="menuToggle"
-        aria-label="Menu toggle. Click to expand or collapse the menu."
+        aria-label="បិទ / បើកម៉ឺនុយ។ ចុចដើម្បីពង្រីកឬបង្រួមម៉ឺនុយ។"
         aria-haspopup="true">
-        <button data-target="menu-mobile" aria-expanded="false">Menu</button>
+        <button data-target="menu-mobile" aria-expanded="false">មឺនុយ</button>
         <ul class="nav navbar-nav menu-target contrast-switcher" id="menu-mobile"><li class="nav-link ">
-    <a href="/open-sdg-cambodia/goals">Goals</a>
+    <a href="/open-sdg-cambodia/goals">គោលដៅ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/reporting-status">Reporting Status</a>
+    <a href="/open-sdg-cambodia/reporting-status">ស្ថានភាពរបាយការណ៍</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/about">About</a>
+    <a href="/open-sdg-cambodia/about">អំពី</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/guidance">Guidance</a>
+    <a href="/open-sdg-cambodia/guidance">ការណែនាំ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/faq">FAQ</a>
+    <a href="/open-sdg-cambodia/faq">សំណួរគេសួរញឹកញាប់</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/news">Updates</a>
+    <a href="/open-sdg-cambodia/news">បច្ចុប្បន្នភាព</a>
 </li><li class="language-toggle-menu-header">
     
 
@@ -247,8 +247,8 @@ var translations = {
   <div class="language-toggle-container">
   <i class="fa fa-globe language-toggle-globe-links"></i>
   <ul class="language-toggle-links"><li>
-      <a class="language-toggle-link" href="/open-sdg-cambodia/km/contact/"><span class="language-name">ភាសាខ្មែរ</span>
-        <span class="language-abbreviation">km</span></a>
+      <a class="language-toggle-link" href="/open-sdg-cambodia/en/contact/"><span class="language-name">English</span>
+        <span class="language-abbreviation">en</span></a>
     </li></ul>
 </div>
 
@@ -259,31 +259,31 @@ var translations = {
 
     </li>
     <li id="searchToggle"
-        aria-label="Search toggle. Click to expand or collapse the search bar."
+        aria-label="ស្វែងរកបិទ / បើក។ ចុចដើម្បីពង្រីកឬបង្រួមរបារស្វែងរក។"
         aria-haspopup="true">
-        <button data-target="search-mobile" aria-expanded="false">Search</button>
+        <button data-target="search-mobile" aria-expanded="false">ស្វែងរក</button>
         <div id="search-mobile" class="menu-target">
   <form action="/open-sdg-cambodia/search">
-    <label class="sr-only" for="indicator_search-mobile">Search</label>
-    <input type="text" name="q" id="indicator_search-mobile" title="Search" /><!--
-    --><button aria-label="Search" id="search-mobile-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
+    <label class="sr-only" for="indicator_search-mobile">ស្វែងរក</label>
+    <input type="text" name="q" id="indicator_search-mobile" title="ស្វែងរក" /><!--
+    --><button aria-label="ស្វែងរក" id="search-mobile-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
   </form>
 </div>
 
     </li>
 </ul>
       <ul class="nav navbar-nav menu-target " id="menu"><li class="nav-link ">
-    <a href="/open-sdg-cambodia/goals">Goals</a>
+    <a href="/open-sdg-cambodia/goals">គោលដៅ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/reporting-status">Reporting Status</a>
+    <a href="/open-sdg-cambodia/reporting-status">ស្ថានភាពរបាយការណ៍</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/about">About</a>
+    <a href="/open-sdg-cambodia/about">អំពី</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/guidance">Guidance</a>
+    <a href="/open-sdg-cambodia/guidance">ការណែនាំ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/faq">FAQ</a>
+    <a href="/open-sdg-cambodia/faq">សំណួរគេសួរញឹកញាប់</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-cambodia/news">Updates</a>
+    <a href="/open-sdg-cambodia/news">បច្ចុប្បន្នភាព</a>
 </li>
 </ul>
 
@@ -302,19 +302,7 @@ var translations = {
     <div>
         <h1>Contact</h1>
         
-            <h3 id="we-are-interested-in-your-feedback-regarding-this-website-and-its-contents">We are interested in your feedback regarding this website and its contents.</h3>
-
-<ul>
-  <li>
-    <p>If you have questions about the statistics, data sources, or metadata provided for UK national statistics, please contact <a href="mailto:test@example.com">test@example.com</a></p>
-  </li>
-  <li>
-    <p>If you have suggestions regarding additional site content or data sources, please contact <a href="mailto:test@example.com">test@example.com</a></p>
-  </li>
-  <li>
-    <p>If you have suggestions on how to improve the functionality of this website, including data accessibility, please contact <a href="mailto:test@example.com">test@example.com</a></p>
-  </li>
-</ul>
+            <p>ការបកប្រែដែលត្រូវការ</p>
 
         
     </div>
@@ -326,11 +314,11 @@ var translations = {
       <div class="col-xs-12">
         <div id="footerLinks">
           <ul>
-            <li><a href="https://open-sdg.org">Built using Open SDG</a></li>
+            <li><a href="https://open-sdg.org">បង្កើតឡើងដោយប្រើអេសភីអេសជី</a></li>
             
               <li>
                 
-                  <a href="mailto:my-email-address@example.com" target="_blank">Contact us</a>
+                  <a href="mailto:my-email-address@example.com" target="_blank">ទាក់ទង​មក​ពួក​យើង</a>
                 
                 </li>
               <li>
@@ -340,11 +328,11 @@ var translations = {
                 </li>
               <li>
                 
-                  <a href="https://facebook.com/MyFacebookAccount" target="_blank">Facebook</a>
+                  <a href="https://facebook.com/MyFacebookAccount" target="_blank">ហ្វេសប៊ុក</a>
                 
                 </li>
               <li>
-                <a href="/open-sdg-cambodia/about/cookies-and-privacy/">Cookies</a>
+                <a href="/open-sdg-cambodia/about/cookies-and-privacy/">ឃុកឃី</a>
                 
                 </li>
               
@@ -376,17 +364,17 @@ var translations = {
 <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.3/dist/html2canvas.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.2/dist/FileSaver.min.js"></script>
 <script>translations['general'] = translations['general'] || {};
-    translations['general']['hide'] = 'hide';</script>
+    translations['general']['hide'] = 'លាក់';</script>
 
 <script>translations['search'] = translations['search'] || {};
-    translations['search']['search'] = 'Search';</script>
+    translations['search']['search'] = 'ស្វែងរក';</script>
 
-<script src='/open-sdg-cambodia/assets/js/sdg.js?v=20210422193403'></script>
+<script src='/open-sdg-cambodia/assets/js/sdg.js?v=20210422205751'></script>
 
 
     
     
-    <script src="/open-sdg-cambodia/assets/js/custom.js?v=20210422193403"></script><script>
+    <script src="/open-sdg-cambodia/assets/js/custom.js?v=20210422205751"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();

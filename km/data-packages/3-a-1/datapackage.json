@@ -11,14 +11,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "AGE",
             "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "SERIES",
-            "type": "string",
-            "title": "SERIES"
+            "constraints": {
+              "enum": [
+                "",
+                "អាយុ ១៥ ឆ្នាំឡើងទៅ"
+              ]
+            },
+            "title": "អាយុ"
           },
           {
             "name": "REF_AREA",
@@ -31,27 +32,21 @@
             "title": "តំបន់យោង"
           },
           {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SERIES"
+          },
+          {
             "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "ស្រី",
-                "ប្រុស",
-                ""
+                "ប្រុស"
               ]
             },
             "title": "ការរួមភេទ"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "អាយុ ១៥ ឆ្នាំឡើងទៅ",
-                ""
-              ]
-            },
-            "title": "អាយុ"
           },
           {
             "name": "UNIT_MEASURE",
@@ -62,6 +57,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       }
